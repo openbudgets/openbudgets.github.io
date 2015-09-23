@@ -2,8 +2,8 @@
 title: OpenBudgets
 description: > # this means to ignore newlines until "baseurl:"
   OpenBudgets is an EU funded project, aiming at supporting journalists, civil society organisations, NGOs, citizens and public administrations, by providing an overview of public spending, as well as tools and appropriate data and stories to fight and advocate for fiscal transparency.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/openbudgets" # the subpath of your site, e.g. /blog/
+url: "http://okfnlabs.org" # the base hostname & protocol for your site
 
 github_username:  okfn
 
