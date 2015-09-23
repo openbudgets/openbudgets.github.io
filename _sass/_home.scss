@@ -1,0 +1,7 @@
+.home {
+    article {
+        & > section {
+            @include span-columns(4);
+        }
+    }
+}

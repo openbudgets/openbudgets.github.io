@@ -1,0 +1,114 @@
+.site-header {
+    background-color: #fff;
+    
+    .wrapper {
+        padding: 0 $base-spacing;
+    }
+    
+    .logo {
+        display: block;
+        float: left;
+        padding-top: 10px;
+        
+        @media (min-width: $large-screen) {
+            padding-top: 17px;
+        }
+
+        img {
+            display: block;
+            height: 36px;
+            
+            @media (min-width: $large-screen) {
+                height: 40px;
+            }
+        }
+
+    }
+    
+    .socials {
+        float: right;
+        display: none;
+        padding-top: 20px;
+        
+        @media (min-width: $large-screen) {
+            display: block;
+        }
+        
+        a {
+            margin: 0;
+        }
+    }
+    
+    nav {
+        display: none;
+        padding-top: 20px;
+        
+        @media (min-width: $large-screen) {
+            display: block;
+        }
+        ul {
+            list-style:none;
+            position:relative;
+            float:right;
+            margin:0;
+            padding:0;
+            font-size: 0.9em;
+
+            a {
+                display:block;
+                color:$base-font-color;
+                text-decoration:none;
+                line-height:32px;
+                padding:0 $small-spacing;
+            }
+
+            li {
+                position:relative;
+                float:left;
+                margin:0;
+                padding:0;
+                @include border-radius;
+
+                &.current-menu-item {
+                    background:#ddd;
+                }
+                &:hover {
+                    background:#f6f6f6;
+                }
+            }
+
+            ul {
+                display:none;
+                position:absolute;
+                top:100%;
+                left:0;
+                background:#fff;
+                padding:0;
+
+                li {
+                    float:none;
+                    width:$column * 3;
+                }
+
+                a {
+                    line-height:120%;
+                    padding:10px 15px;
+                }
+
+                ul {
+                    top:0;
+                    left:100%;
+                }
+            }
+
+            li:hover > ul {
+                display:block
+            }
+        }
+    }
+    @media (min-width: $large-screen) {
+        #cd-menu-trigger {
+            display: none;
+        }
+    }
+}
