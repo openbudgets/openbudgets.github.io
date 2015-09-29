@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="contact">
+    <div class="banner">
+        <div class="wrapper">
+            <h1>Contact Us</h1>
+            <p>Email us via the below form.</p>
+        </div>
+    </div>
+
+    <form accept-charset="UTF-8" action="http://formspree.io/{{ site.contact }}" method="POST">
+      <input type="text" name="_gotcha" style="display:none" />
+      <fieldset>
+        <label for="name">Name</label>
+        <input type="text" name="name" placeholder="">
+      </fieldset>
+      <fieldset>
+        <label for="email">Email</label>
+        <input type="email" name="email" placeholder="">
+      </fieldset>
+      <label for="_subject">Subject</label>
+      <input type="text" name="_subject" placeholder="">
+      <label for="message">Message</label>
+      <textarea name="message" rows="6" placeholder=""></textarea>
+      <button type="submit">Send</button>
+      <input type="hidden" name="_next" value="{{ "/contact/?form=sent" | prepend: site.baseurl }}" />
+    </form>
+
+
+    <div class="modal">
+        <div class="modal-window">
+          <div class="modal-inner">
+            <a href="{{ "/contact/" | prepend: site.baseurl }}" class="modal-close"></a>
+            <h5>Thank you</h5>
+            <p class="intro">Your message has been sent. We will be in touch shortly.</p>
+          </div>
+        </div>
+    </div>
+</div>

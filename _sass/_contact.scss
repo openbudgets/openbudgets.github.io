@@ -1,0 +1,24 @@
+.contact {
+    
+    form {
+        @include outer-container;
+        padding: $base-spacing;
+        margin-top: $base-spacing / 2;
+        margin-bottom: $base-spacing / 2;
+    
+        fieldset {
+            margin: 0;
+            padding: 0;
+            border: none;
+            background-color: transparent;
+            
+            @media (min-width: $medium-screen) {
+                @include span-columns(6);
+            }
+
+            &:nth-child(odd) {
+                @include omega();
+            }
+        }
+    }
+}

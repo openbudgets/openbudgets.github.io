@@ -37,6 +37,9 @@ textarea {
   font-family: $base-font-family;
   font-size: $base-font-size;
   margin-bottom: $base-spacing / 2;
+    @media (min-width: $medium-screen) {
+        margin-bottom: $base-spacing;
+    }
   padding: $base-spacing / 3;
   transition: border-color;
   width: 100%;
