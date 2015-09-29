@@ -1,24 +1,34 @@
 ---
 layout: default
 ---
+{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify  | truncate: 270 }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
+
+{% assign fe = future_events | split:"@@" %}
+
+
 <div class="home">
     <div class="banner">
         <div class="wrapper">
             <span>
-                {{ content }}
+                <h1>{{ site.description }}</h1>
             </span>
         </div>
     </div>
     <article class="wrapper">
         <section>
-            TODO: Create list of events and include first here.
+            <h2>Next Event</h2>
+            {% if fe != empty  %}
+                {{ fe | first }}
+            {% else %}
+                No events
+            {% endif %}
         </section>
         <section>
             TODO: Latest blogpost with the category of "resources"?
         </section>
         <section>
-            <h3>About the project</h3>
-            {{ site.description }}
+            <h2>About the project</h2>
+                {{ content | markdownify }}
         </section>
     </article>
 </div>

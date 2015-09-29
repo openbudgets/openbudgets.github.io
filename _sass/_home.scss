@@ -25,7 +25,15 @@
     
     article {
         & > section {
-            @include span-columns(4);
+            margin-bottom: $base-spacing / 2;
+            
+            @media (min-width: $medium-screen) {
+                @include span-columns(4);
+            }
+            
+            & > a {
+                @extend button;
+            }
         }
     }
 }
