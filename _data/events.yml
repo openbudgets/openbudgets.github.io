@@ -1,6 +1,6 @@
 - title: "OpenSpending Tech Hangout: Sept 8th"
   date: 8 Sept 2015
-  status: future
+  status: featured
   description: |
     As OpenSpending is upgrading and improving days after days, we'd like to share with you our latest developments, achivements and will be delighted to hear your feedbacks, opinions and comments about it! Come and join us on Tuesday, 8th Sept, 2015! 
   link: http://openbudgets.eu/
@@ -14,7 +14,14 @@
 
 - title: "Summer School of Data 17-18 June Thessaloniki Greece"
   date: 28 June 2015
-  status: past
+  status: future
   description: |
     The Summer School of Data took place on June, 17-18 in Thessaloniki, Greece. The Summer School of Data was addressed to scientists, students, trainers, journalists and healthcare professionals. It is structured in two (2) parallel programmes both referring to open knowledge
+  link: http://openbudgets.eu/
+  
+- title: "Test Event"
+  date: 18 June 2015
+  status: past
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque nisi odio, sed consectetur elit elementum ac. Praesent volutpat turpis vel sem aliquam, ut laoreet ante dignissim. Morbi eget ante diam. Pellentesque quis libero risus. Etiam ultrices enim risus.
   link: http://openbudgets.eu/
