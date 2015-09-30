@@ -13,7 +13,24 @@
             {% include footer.html %}
         </main>
         <nav id="cd-lateral-nav">
-            {% include menu.html %}
+            <ul class="cd-navigation">
+                {% for item in site.data.menu %}
+                {% if item.subitems != null %}
+                <li class="item-has-children">
+                <a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
+                <ul class="sub-menu">
+                    {% for subcategory in item.subitems %}
+                    <li><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
+                    {% endfor %}
+                </ul>
+                    
+                {% else %}
+                <li>
+                    <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
+                {% endif %}
+            </li>
+            {% endfor %}
+            </ul>
             {% include social-links.html %}
         </nav>
     </body>

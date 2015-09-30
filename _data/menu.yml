@@ -1,0 +1,37 @@
+- title: "About"
+  slug: "about"
+  subitems:
+    - subtitle: "Objectives"
+      subslug: "objectives"
+    - subtitle: "Technical structure"
+      subslug: "technical-structure"
+    - subtitle: "Work Packages"
+      subslug: "work-packages"
+    - subtitle: "Deliverables"
+      subslug: "deliverables"
+    - subtitle: "Partners"
+      subslug: "partners"
+
+- title: "Resources"
+  slug: "resources"
+  
+- title: "Events"
+  slug: "events"
+  
+- title: "Blog"
+  slug: "blog"
+
+- title: "Press / Media"
+  slug: "press"
+  subitems:
+    - subtitle: "Dissemination Materials"
+      subslug: "dissemination-materials"
+    - subtitle: "Press releases"
+      subslug: "press-releases"
+
+- title: "Community"
+  slug: "community"
+
+
+- title: "Contact"
+  slug: "contact"
