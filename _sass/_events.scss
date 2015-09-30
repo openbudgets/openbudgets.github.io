@@ -1,0 +1,35 @@
+.events {
+    .wrapper {
+        margin-bottom: $base-spacing;
+        
+        section,
+        .event-list > li {
+            & > a {
+                @extend button;
+            }
+        }
+        
+        section {
+
+            &.featured {
+                background-color: $light-gray;
+                padding: $base-spacing;
+                margin-top: $base-spacing;
+                margin-bottom: $base-spacing;
+            }
+            
+            &:not(.featured) {
+                h2 {
+                    margin: $base-spacing $base-spacing 0 $base-spacing;
+                }
+            }
+        }
+
+        .event-list {
+            & > li {
+                border-bottom: solid 1px $light-gray;
+                padding: $base-spacing;
+            }
+        }
+    }
+}
