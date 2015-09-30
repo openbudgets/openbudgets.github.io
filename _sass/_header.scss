@@ -10,8 +10,11 @@
         float: left;
         padding-top: 10px;
         
-        @media (min-width: $large-screen) {
+        @include MQ(M) {
             padding-top: 17px;
+        }
+        @include MQ(L) {
+            padding-top: 28px;
         }
 
         img {
@@ -28,7 +31,7 @@
     .socials {
         float: right;
         display: none;
-        padding-top: 20px;
+        padding-top: 32px;
         
         @media (min-width: $large-screen) {
             display: block;
@@ -41,7 +44,7 @@
     
     nav {
         display: none;
-        padding-top: 20px;
+        padding-top: 32px;
         
         @media (min-width: $large-screen) {
             display: block;

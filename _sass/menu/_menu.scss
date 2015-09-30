@@ -54,9 +54,13 @@ Main components
 	@include MQ(M) {
 		padding-top: $header-M;
 	}
+    
+    @include MQ(L) {
+		padding-top: $header-L;
+	}
 }
 
-header {
+.site-header {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -84,6 +88,10 @@ header {
 
 	@include MQ(M) {
 		height: $header-M;
+	}
+    
+    @include MQ(L) {
+		height: $header-L;
 	}
 }
 
