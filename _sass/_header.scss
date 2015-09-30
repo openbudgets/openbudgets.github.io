@@ -69,11 +69,15 @@
                 padding:0;
                 @include border-radius;
 
-                &.current-menu-item {
-                    background:#ddd;
+                &.active {
+                    background:$primary;
+                    
+                    & > a {
+                        color: #fff;
+                    }
                 }
-                &:hover {
-                    background:#f6f6f6;
+                &:not(.active):hover {
+                    background:$light-gray;
                 }
             }
 

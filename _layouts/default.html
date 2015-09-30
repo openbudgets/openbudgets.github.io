@@ -1,3 +1,4 @@
+{% assign current_page = page.url | downcase | split: '/' %}
 <!doctype html>
 <html class="no-js" lang="">
     {% include head.html %}
@@ -28,7 +29,7 @@
                 <li>
                     <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
                 {% endif %}
-            </li>
+                </li>
             {% endfor %}
             </ul>
             {% include social-links.html %}

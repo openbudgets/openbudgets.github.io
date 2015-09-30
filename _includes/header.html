@@ -4,23 +4,24 @@
             <img src="{{ "/img/openbudgets-logo.png" | prepend: site.baseurl }}" alt="OpenBudgets.eu">
         </a>
         {% include social-links.html %}
+        {% assign current_page = page.url | downcase | split: '/' %}
 		<nav>
 			<ul>
                 {% for item in site.data.menu %}
                 {% if item.subitems != null %}
-                <li>
+                <li{% if current_page.last == item.slug %} class='active'{% endif %}>
                 <a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
                 <ul>
                     {% for subcategory in item.subitems %}
-                    <li><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
+                    <li{% if current_page.last == subcategory.subslug %} class='active'{% endif %}><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
                     {% endfor %}
                 </ul>
                     
                 {% else %}
-                <li>
+                <li{% if current_page.last == item.slug %} class='active'{% endif %}>
                     <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
                 {% endif %}
-            </li>
+                </li>
             {% endfor %}
             </ul>
 		</nav>
