@@ -9,7 +9,7 @@ This will be realized by providing an open-source software framework and accompa
 
 The project delivers the following four main components:
 
-** A semantic data model.** The semantic data model for (open) budget data integrates datasets. This integration allows for analysis and comparisons across government levels, regions, and countries. These comparisons and analysis shed light on anomalies within and between datasets..
+**A semantic data model** The semantic data model for (open) budget data integrates datasets. This integration allows for analysis and comparisons across government levels, regions, and countries. These comparisons and analysis shed light on anomalies within and between datasets..
 
 **Libraries of visualisation**, data-mining, and comparative analysis tools. Stakeholders such as journalists and activists can use these tools to compare different cases and find patterns, trends, abnormalities and work on data-driven stories. Visualisation tools help to present data in different granularity and modalities (spatial, temporal, administrative), clarifying and strengthening the stories and contributing to the analysis.
 
