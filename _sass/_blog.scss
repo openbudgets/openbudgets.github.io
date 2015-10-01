@@ -6,6 +6,23 @@
         & > article {
             padding: $base-spacing;
             border-bottom: 1px solid $light-gray;
+            
+            .date {
+                font-size: 0.8em;
+                color: $medium-gray;
+            }
+            
+            .categories {
+                li {
+                    display: inline-block;
+                    background-color: $light-gray;
+                    font-size: 0.8em;
+                    line-height: 1;
+                    padding: 4px;
+                    text-transform: capitalize;
+                    color: $medium-gray;
+                }
+            }
         }
     }
     .pagination {

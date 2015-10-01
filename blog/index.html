@@ -20,6 +20,13 @@ title: Blog
           <div class="content">
             {{ post.excerpt }}
           </div>
+          {% if post.categories %}
+            <ul class="categories">
+            {% for cat in post.categories %}
+                <li>{{ cat }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
         </article>
         {% endfor %}
     </div>
