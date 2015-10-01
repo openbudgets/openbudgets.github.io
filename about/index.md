@@ -3,8 +3,18 @@ layout: page
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The current lack of open budget and open transaction data makes it very hard for citizens and other stakeholders to get an overview on public spending. The comparing of budgets between administrative regions and between various dimensions is even worse.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This will be realized by providing an open-source software framework and accompanying platform around fiscal transparency and open budgets.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The project delivers the following four main components:
+
+** A semantic data model.** The semantic data model for (open) budget data integrates datasets. This integration allows for analysis and comparisons across government levels, regions, and countries. These comparisons and analysis shed light on anomalies within and between datasets..
+
+**Libraries of visualisation**, data-mining, and comparative analysis tools. Stakeholders such as journalists and activists can use these tools to compare different cases and find patterns, trends, abnormalities and work on data-driven stories. Visualisation tools help to present data in different granularity and modalities (spatial, temporal, administrative), clarifying and strengthening the stories and contributing to the analysis.
+
+**A feedback and citizen engagement interface** which enables users to discuss and give feedback on the provided data, for example, suggesting different priorities for budgeting, or discussing a particular transaction. The OpenBudgets.eu open-source framework and portal will integrate these components into a comprehensive portal.
+
+**Engaging user groups**
+From the start of the project user groups will be actively involved in the project. Data journalists are included through workshops and tailor-made tools. The project team will support civil society organizations and citizens through large scale pilots on participatory budgeting with the use of the platform. Finally, policy makers will be encouraged to use the platform for corruption platform, piloting a project on European Structural Funds.
+
