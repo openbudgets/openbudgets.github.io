@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify  | truncate: 270 }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign future_e = future_events | split:"@@" %}
 
-{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify  | truncate: 270 }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign featured_e = featured_events | split:"@@" %}
 
 
@@ -26,11 +26,19 @@ layout: default
             {% endif %}
         </section>
         <section>
-            TODO: Latest blogpost with the category of "resources"?
+            <h2>Latest Resource</h2>
+        {% for post in site.categories.resources limit:1  %}
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
+            <a href="{{ site.baseurl }}{{ post.url }}">Read it!</a>
+        {% endfor %}
         </section>
         <section>
             <h2>About the project</h2>
+            <span>
                 {{ content | markdownify }}
+            </span>
+            <a href="{{ site.baseurl }}/about/objectives/">Objectives</a>
         </section>
     </article>
 </div>
