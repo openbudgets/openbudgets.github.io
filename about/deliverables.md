@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Deliverables
+---
 
 
 | Work Package        | Deliverable Name         | 
