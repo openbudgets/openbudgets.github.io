@@ -6,7 +6,7 @@ title: Deliverables
 
 | Work Package        | Deliverable Name         | 
 | ------------- |:-------------:| 
-| WP1      | 	D1.1 Survey of modelling public spending data & Knowledge elicitation report |
+| WP1      | 	D1.1 Survey of modelling public spending data & Knowledge elicitation report [[Download]]({{site.baseurl}}/assets/Deliverables/D1.1.pdf) |
 | 	      | D1.2 Design of data structure definition for public budget data     |  
 |       | D1.3 Design of data structure definition for public spending data    |   
 | 	 | D1.4 User documentation |
