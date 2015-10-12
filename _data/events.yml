@@ -1,24 +1,31 @@
 - title: "OpenSpending Tech Hangout: Sept 8th"
   date: 8 Sept 2015
-  status: featured
+  status: past
   description: |
-    As OpenSpending is upgrading and improving days after days, we'd like to share with you our latest developments, achivements and will be delighted to hear your feedbacks, opinions and comments about it! Come and join us on Tuesday, 8th Sept, 2015! 
-  link: http://openbudgets.eu/
+    The Tech Hangouts are video conferences that present and highlight the latest developments and achivements related to OpenSpending.eu. In this call, several representatives of the OpenBudgets consortium joined to discuss strategy and cooperation over the course of the project. The video can be viewed <a href="https://www.youtube.com/watch?v=d6f14Tc7BUY">here</a>.    
+  link: https://discuss.okfn.org/t/tech-hangout-sept-2015/1046
 
 - title: "OpenBudgets.eu Kick-Off"
   date: 25 Aug 2015
-  status: future
+  status: past
   description: |
-    The OpenBudgets.EU kick-off took place on the 29th anf 30th of June in Bonn. During these two days the consortium partners met for the first time and officially launched the project 
+    The OpenBudgets.EU kick-off took place on the 29th and 30th of June in Bonn. During these two days the consortium partners met for the first time and officially launched the project. A report of the event can be found <a href="http://eis.iai.uni-bonn.de/blog/2015/07/openbudgets-kick-off-transparency-and-citizen-power-for-europe/">here</a> (Uni Bonn).
   link: http://openbudgets.eu/
 
 - title: "Summer School of Data 17-18 June Thessaloniki Greece"
   date: 28 June 2015
-  status: future
+  status: past
   description: |
-    The Summer School of Data took place on June, 17-18 in Thessaloniki, Greece. The Summer School of Data was addressed to scientists, students, trainers, journalists and healthcare professionals. It is structured in two (2) parallel programmes both referring to open knowledge
+    The Summer School of Data took place on June, 17-18 in Thessaloniki, Greece. The Summer School of Data was addressed to scientists, students, trainers, journalists and healthcare professionals. It is structured in two (2) parallel programmes both referring to open knowledge.
   link: http://openbudgets.eu/
   
+- title: "Follow the Money Workshop 2015"
+  date: 20-21 January 2015
+  status: past
+  description: |
+    The 'Follow the Money' Workshop 2015 took place on the 20-21st of January 2015. It offered insights on a variety of spending-related topics, from spending on local service delivery in specific countries, to tracking how companies and individuals are moving money internationally, to solving collective challenges like standardizing data formats and integrating data sets.
+  link: http://tech.transparency-initiative.org/strategy-session/using-technology-to-follow-the-money/
+
 - title: "Test Event"
   date: 18 June 2015
   status: past
