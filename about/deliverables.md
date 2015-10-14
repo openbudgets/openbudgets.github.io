@@ -7,7 +7,7 @@ title: Deliverables
 
 | Work Package | Deliverable Name | Link |
 | - | ----------------------------------------------------------------------------- | -:|
-| WP1    | 	D1.1 <b>Survey of modelling public spending data & Knowledge elicitation report</b>. The goals of this deliverable are to provide an overview of the existing models, approaches and initiatives aimed at publishing budgetary data and to report on knowledge elicitation with domain experts and prospective users. The deliverable is structured into two respective sections: survey of modelling public spending data and knowledge elicitation report. | [Download (910KB)]({{site.baseurl}}/assets/Deliverables/D1.1.pdf) |
+| WP1    | 	D1.1 **Survey of modelling public spending data & Knowledge elicitation report**. The goals of this deliverable are to provide an overview of the existing models, approaches and initiatives aimed at publishing budgetary data and to report on knowledge elicitation with domain experts and prospective users. The deliverable is structured into two respective sections: survey of modelling public spending data and knowledge elicitation report. | [Download (910KB)]({{site.baseurl}}/assets/Deliverables/D1.1.pdf) |
 | 	 | D1.2 Design of data structure definition for public budget data | [Download (960KB)]({{site.baseurl}}/assets/Deliverables/D1.2.pdf) |  
 |    | D1.3 Design of data structure definition for public spending data    |   
 | 	 | D1.4 User documentation |

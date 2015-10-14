@@ -1,19 +1,33 @@
+- title: "OpenSpending Stakeholder Workshop"
+  date: 30 November 2015 - 1 December 2015
+  status: featured
+  description: |
+      The Open Budgets Stakeholder Workshop invites a variety of different stakeholders working with budget data (journalists, civil society organisations, activists, parlamentarians) in order to explore the chances of OpenBudgets.eu as a tool for their their work in fiscal transparency. 
+  link: 2015/10/13/open-budgets-stakeholder-workshop/
+
+- title: "OpenSpending Plenary Meeting"
+  date: 30 November 2015 - 1 December 2015
+  status: future
+  description: |
+      During the Open Budgets Plenary Meeting, the consortium partners will meet in Berlin to review the progress made since the start of the project. The strategy for the coming months will be discussed in a series of group sessions and workshops aimed at finding solutions for the challenges encountered. 
+  link: 2015/10/13/plenary-meeting-2015/
+
 - title: "OpenSpending Tech Hangout: Sept 8th"
-  date: 8 Sept 2015
+  date: 8 September 2015
   status: past
   description: |
     The Tech Hangouts are video conferences that present and highlight the latest developments and achivements related to OpenSpending.eu. In this call, several representatives of the OpenBudgets consortium joined to discuss strategy and cooperation over the course of the project. The video can be viewed <a href="https://www.youtube.com/watch?v=d6f14Tc7BUY">here</a>.    
   link: https://discuss.okfn.org/t/tech-hangout-sept-2015/1046
 
 - title: "OpenBudgets.eu Kick-Off"
-  date: 25 Aug 2015
+  date: 29 June 2015
   status: past
   description: |
     The OpenBudgets.EU kick-off took place on the 29th and 30th of June in Bonn. During these two days the consortium partners met for the first time and officially launched the project. A report of the event can be found <a href="http://eis.iai.uni-bonn.de/blog/2015/07/openbudgets-kick-off-transparency-and-citizen-power-for-europe/">here</a> (Uni Bonn).
-  link: http://openbudgets.eu/
+  link: http://eis.iai.uni-bonn.de/blog/2015/07/openbudgets-kick-off-transparency-and-citizen-power-for-europe/
 
 - title: "Summer School of Data 17-18 June Thessaloniki Greece"
-  date: 28 June 2015
+  date: 17 June 2015
   status: past
   description: |
     The Summer School of Data took place on June, 17-18 in Thessaloniki, Greece. The Summer School of Data was addressed to scientists, students, trainers, journalists and healthcare professionals. It is structured in two (2) parallel programmes both referring to open knowledge.
@@ -25,10 +39,3 @@
   description: |
     The 'Follow the Money' Workshop 2015 took place on the 20-21st of January 2015. It offered insights on a variety of spending-related topics, from spending on local service delivery in specific countries, to tracking how companies and individuals are moving money internationally, to solving collective challenges like standardizing data formats and integrating data sets.
   link: http://tech.transparency-initiative.org/strategy-session/using-technology-to-follow-the-money/
-
-- title: "Test Event"
-  date: 18 June 2015
-  status: past
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque nisi odio, sed consectetur elit elementum ac. Praesent volutpat turpis vel sem aliquam, ut laoreet ante dignissim. Morbi eget ante diam. Pellentesque quis libero risus. Etiam ultrices enim risus.
-  link: http://openbudgets.eu/events/2015/06/18/test-event/
