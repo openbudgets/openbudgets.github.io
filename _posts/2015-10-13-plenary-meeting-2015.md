@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpenBudgets Stakeholder Workshop"
+title:  "OpenBudgets Plenary Meeting 2015"
 date:   2015-10-13
 categories: events
 ---
