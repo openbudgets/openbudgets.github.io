@@ -2,10 +2,11 @@
 layout: page
 title: Work Packages
 ---
+#### Overview: 
 
-Here's a short description of the work packages
+The work packages in Open Budgets fall into two main categories: technical development, and test bed / use cases. The underlying colaboration with stakeholders in the field of budget transparency enables the output to resonate with the needs of the platform's future users. The dissemination and project management work packages ensure the efficient coordination of the project and the thorough dissemination of its results among the whole range of stakeholder groups.  
 
-### Technical development 
+#### Technical development 
 
 ###### Work Package 1: Data structure and Definition for Budgets and Public Spending.
 A flexible, semantic data model that describes public finance is developed. This model will act as the base for the other tools within the OpenBudgets framework. It allows for analysis and comparisons across government levels, regions, and countries.
@@ -19,7 +20,10 @@ A set of budget data visualisation tools is developed that enable the user to re
 ###### Work Package 4: Platform Architecture Integration and Development
 This work package integrates the data mining, comparative analysis, data visualisation, data exploration, and feedback services (from WP1-3) into the OpenBudgets.eu platform. System-wide tests are run to ensure all the tools and services are integrated correctly. 
 
-### Test Bed / Use Cases
+
+<p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="550"></center></p>
+
+#### Test Bed / Use Cases
 
 ###### Work Package 5: Journalism
 With specific regard to the needs and requirements of journalists, the tools for creating and sharing visualisations and analysing the data comparatively are refined in an iterative process in this work package. 
@@ -39,5 +43,8 @@ The Europe-wide dissemination and exploitation is ensured by the promotion of th
 
 ###### Work Package 9:
 The coordination of the project, its consortium members and the timely delivery of the work packages is executed through the overall project management. This ensures the quality and efficiency throughout the project’s lifetime.
+
+
+
 
 
