@@ -1,0 +1,27 @@
+- name: "Fraunhofer"
+  logo: fraunhofer.gif
+  link: http://www.iais.fraunhofer.de/
+
+- name: "Open Knowledge"
+  logo: okf.png
+  link: http://okfn.org/
+  
+- name: "Open Knowledge Foundation Deutschland"
+  logo: okfde.png
+  link: http://okfn.de/
+  
+- name: "Civio"
+  logo: logo_civio.png
+  link: http://www.civio.es/
+  
+- name: "Transparency International"
+  logo: TI.png
+  link: https://www.transparency.de/
+  
+- name: "VSE"
+  logo: VSE.png
+  link: http://www.vse.cz/
+  
+- name: "J++"
+  logo: j++.png
+  link: http://www.jplusplus.org/de/
