@@ -21,17 +21,5 @@
 - title: "Blog"
   slug: "blog"
 
-- title: "Press / Media"
-  slug: "press"
-  subitems:
-    - subtitle: "Dissemination Materials"
-      subslug: "dissemination-materials"
-    - subtitle: "Press releases"
-      subslug: "press-releases"
-
-- title: "Community"
-  slug: "community"
-
-
 - title: "Contact"
   slug: "contact"
