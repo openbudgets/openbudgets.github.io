@@ -1,4 +1,44 @@
-{% include ok-footer.html %}
+<footer class="site-footer">
+  <div class="wrapper">
+    <a class="footer-logo" href="https://okfn.org/">
+      <img src="{{ "/img/openbudgets-logo-white.png" | prepend: site.baseurl }}" alt="OpenBudgets.eu">
+    </a>
+    <ul class="footer-primary-links">
+      <li><a href="https://okfn.org/about/">About</a></li>
+    </ul>
+
+    <div class="footer-secondary-links">
+
+      <ul class="footer-social">
+        {% if site.facebook_username %}
+        <li>
+            <a href="https://facebook.com/{{ site.facebook_username }}" class="facebook">
+              Facebook
+            </a>
+        </li>
+        {% endif %}
+        {% if site.twitter_username %}
+        <li>
+          <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter">
+            Twitter
+          </a>
+        </li>
+        {% endif %}
+        {% if site.github_username and site.github_repo %}
+        <li>
+          <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" class="github">
+            GitHub
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+    
+    <hr>
+    <p>OpenBudget.eu has received funding from the European Union’s <a href="#">H2020 EU research and innovation programme</a> under grant agreement <a href="http://cordis.europa.eu/project/rcn/194394_en.html">No 645833</a>.</p>
+  </div>
+</footer>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>

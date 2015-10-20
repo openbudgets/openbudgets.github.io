@@ -27,6 +27,10 @@ html {
         float: left;
         margin-bottom: 0;
       }
+        
+        img {
+            opacity: .7;   
+        }
     }
   
     .footer-logo img {
@@ -92,11 +96,39 @@ html {
         li {
           float: left;
           font-size: 1em;
-          padding-right: .7em;
+          padding-right: .45em;
   
           &:last-child {
             padding-right: 0;
           }
+            
+            a {
+                $icon-size: 1.8em;
+                
+                @include hide-text;
+                background-image: url(../img/cd-socials.svg);
+                background-size: auto ($icon-size * 2);
+                width: $icon-size;
+                height: $icon-size;
+                display: block;
+                opacity: .7;
+                
+                &.facebook {
+                    background-position: - (1.8em * 2) -1.8em;
+                }
+                
+                &.twitter {
+                    background-position: 0 -1.8em;
+                }
+                
+                &.github {
+                    background-position: - 1.8em -1.8em;
+                }
+                
+                &:hover {
+                    opacity: 1;
+                  }
+            }
         }
   
         img {
