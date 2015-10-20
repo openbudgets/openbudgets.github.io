@@ -13,4 +13,4 @@ Together with key-figures from the field of journalism, civil society and govern
 
 **Workshop Agenda:** 
 
-<p><center><img src="{{site.baseurl}}/assets/posts/stakeholderworkshop_timetable.png.png" alt="Workpackage structure" width="550"></center></p>
+<p><center><img src="{{site.baseurl}}/assets/posts/stakeholderworkshop_timetable.png" alt="Workpackage structure" width="550"></center></p>
