@@ -8,7 +8,9 @@ url: "http://openbudgets.eu/" # the base hostname & protocol for your site
 github_username:  openbudgets
 github_repo: openbudgets.github.io
 twitter_username: openbudgetseu
-facebook_username:  openbudgets
+facebook_username: openbudgets
+
+github_link: os-data/registry/issues
 
 contact: anna.alberts@okfn.de
 
