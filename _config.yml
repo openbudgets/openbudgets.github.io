@@ -14,7 +14,7 @@ github_link: os-data/registry/issues
 
 contact: anna.alberts@okfn.de
 
-#googleanalytics: UA-XXXXX-X
+googleanalytics: UA-48682838-7
 
 # Build settings
 markdown: kramdown
