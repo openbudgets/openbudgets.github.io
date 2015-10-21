@@ -2,10 +2,11 @@
 layout: page
 title: About
 ---
+Openness and transparency can act as a disincentive to corruption. The current lack of open budget and open transaction data makes it very hard for citizens and other stakeholders to get an overview on public spending. The comparison of budgets between administrative regions and other government levels proves even more difficult.  
 
-The current lack of open budget and open transaction data makes it very hard for citizens and other stakeholders to get an overview on public spending. The comparing of budgets between administrative regions and between various dimensions is even worse.
+The OpenBudgets platform is designed for public administrations, citizens, NGOs, media organisations, public service companies, and stakeholders working with fiscal data. The key challenge is to provide a scalable platform that is easy-to-use, flexible, and attractive for all these different types of users. This will be realized by providing an open-source software framework and accompanying Software-As-A-Service (SAAS) platform around fiscal transparency and open budgets.  
 
-This will be realized by providing an open-source software framework and accompanying platform around fiscal transparency and open budgets.
+***
 
 The project delivers the following four main components:
 

@@ -7,12 +7,12 @@ title: Deliverables
 
 | Work Package | Deliverable Name | Link |
 | - | ----------------------------------------------------------------------------- | -:|
-| WP1    | 	D1.1 Survey of modelling public spending data & Knowledge elicitation report | [Download (910KB)]({{site.baseurl}}/assets/Deliverables/D1.1.pdf) |
-| 	 | D1.2 Design of data structure definition for public budget data | [Download (960KB)]({{site.baseurl}}/assets/Deliverables/D1.2.pdf) |  
+| WP1    | 	D1.1 Survey of modelling public spending data & Knowledge elicitation report | [Download (910KB)]({{site.baseurl}}/assets/deliverables/D1.1.pdf) |
+| 	 | D1.2 Design of data structure definition for public budget data | [Download (960KB)]({{site.baseurl}}/assets/deliverables/D1.2.pdf) |  
 |    | D1.3 Design of data structure definition for public spending data    |   
 | 	 | D1.4 User documentation |
 | 	 | D1.5 Final release of data definitions for public finance data |
-| 	 |  D1.6 Survey of code lists for the data model’s coded dimensions | [Download (2,1MB)]({{site.baseurl}}/assets/Deliverables/D1.6.pdf) |
+| 	 |  D1.6 Survey of code lists for the data model’s coded dimensions | [Download (2,1MB)]({{site.baseurl}}/assets/deliverables/D1.6.pdf) |
 | 	 | D1.7 Extraction and transformation of relevant code lists |
 | 	 | D1.8 Linking of data structure definitions to vocabularies |
 | 	 | D1.9 Linking code lists to external datasets |
@@ -21,13 +21,13 @@ title: Deliverables
 | 	 | D2.3 Requirements for Statistical Analytics and Data Mining |
 | 	 | D2.4 Data Mining and Statistical Analytics Techniques |
 | 	 | D2.5 Data Mining Interfaces |
-| WP3	 | D3.1 Visualisations Collection (existing and ideas) | [Download (15,4MB)]({{site.baseurl}}/assets/Deliverables/D3.1.pdf) |
+| WP3	 | D3.1 Visualisations Collection (existing and ideas) | [Download (15,4MB)]({{site.baseurl}}/assets/deliverables/D3.1.pdf) |
 | 	 | D3.2 Visualisations Creation Framework |
 | 	 | D3.3 Comparative analysis presentation & creation tools |
 | 	 | D3.4 Packaging specifications |
 | 	 | D3.5 Demonstration visualisations |
 | 	 | D3.6 Spending & Budget visualisation Social Network features |
-| WP4	 | D4.1 Specification of services’ Interfaces | [Download (528KB)]({{site.baseurl}}/assets/Deliverables/D4.1.pdf) |
+| WP4	 | D4.1 Specification of services’ Interfaces | [Download (528KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf) |
 | 	 | D4.2 Analysis of the required functionality of OpenBudgets.eu |
 | 	 |D4.3 Integrated OpenBudgets.eu Platform – Working prototype |
 | 	 | D4.4 OpenBudgets.eu Platform Documentation |
