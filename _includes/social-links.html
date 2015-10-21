@@ -1,11 +1,11 @@
 <div class="cd-navigation socials">
     {% if site.facebook_username %}
-    <a class="cd-facebook cd-img-replace" href="https://facebook.com/{{ site.facebook_username }}">Facebook</a>
+    <a class="cd-facebook cd-img-replace" href="https://facebook.com/{{ site.facebook_username }}" rel="external">Facebook</a>
     {% endif %}
     {% if site.twitter_username %}
-    <a class="cd-twitter cd-img-replace" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+    <a class="cd-twitter cd-img-replace" href="https://twitter.com/{{ site.twitter_username }}" rel="external">Twitter</a>
     {% endif %}
     {% if site.github_username and site.github_repo %}
-    <a class="cd-github cd-img-replace" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}">Git Hub</a>
+    <a class="cd-github cd-img-replace" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" rel="external">Git Hub</a>
     {% endif %}
 </div> <!-- socials -->

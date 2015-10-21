@@ -12,21 +12,21 @@
       <ul class="footer-social">
         {% if site.facebook_username %}
         <li>
-            <a href="https://facebook.com/{{ site.facebook_username }}" class="facebook">
+            <a href="https://facebook.com/{{ site.facebook_username }}" class="facebook" rel="external">
               Facebook
             </a>
         </li>
         {% endif %}
         {% if site.twitter_username %}
         <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter">
+          <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter" rel="external">
             Twitter
           </a>
         </li>
         {% endif %}
         {% if site.github_username and site.github_repo %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" class="github">
+          <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" class="github" rel="external">
             GitHub
           </a>
         </li>
