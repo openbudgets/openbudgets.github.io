@@ -14,7 +14,7 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 
 <p><center><b>Workshop Agenda:</b></p></center>
 
-<p><center><img src="{{site.baseurl}}/assets/posts/stakeholderworkshop_timetable.png" alt="Workpackage structure"></center></p>
+<p><center><img src="{{site.baseurl}}/assets/posts/2015-10/stakeholderworkshop_timetable.png" alt="Workpackage structure"></center></p>
 
 
 <center>Workshop Location: Hertie School of Governance:​
