@@ -10,6 +10,20 @@
         }
         
         section {
+            
+            h2 {
+                display: inline-block;
+                font-size: 1em;
+                text-transform: uppercase;
+                border-bottom: solid 1px $base-font-color;
+                font-weight: 600;
+            }
+            
+            h3 {
+                a {
+                    color: $base-font-color;
+                }
+            }
 
             &.featured {
                 background-color: $light-gray;
