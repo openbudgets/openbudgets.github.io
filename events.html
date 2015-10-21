@@ -1,20 +1,57 @@
 ---
 layout: default
+title: Events
 ---
+{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% assign future_e = future_events | split:"@@" %}
 
-<h1>Posts</h1>
+{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% assign featured_e = featured_events | split:"@@" %}
 
-<ul class="post-list">
-{% for post in site.posts %}
-  <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+{% capture past_events %}{% for event in site.data.events %}{% if event.status == 'past' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% assign past_e = past_events | split:"@@" %}
 
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-  </li>
-{% endfor %}
-</ul>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="events">
+    <div class="banner">
+        <div class="wrapper">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="wrapper">
+        {% if featured_e != empty  %}
+        <section class="featured">
+            <h2>Featured Event</h2>
+            {{ featured_e | first }}
+        </section>
+        {% endif %}
+       
+        <section>
+            <h2>Future Events</h2>
+            {% if future_e != empty  %}
+                <ul class="event-list">
+                {% for e in future_e %}
+                    <li>
+                        {{ e }}
+                    </li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                No future events
+            {% endif %}
+        </section>
+        
+        {% if past_e != empty  %}
+        <section>
+            <h2>Past Events</h2>
+                <ul class="event-list">
+                {% for e in past_e %}
+                    <li>
+                        {{ e }}
+                    </li>
+                {% endfor %}
+                </ul>
+        </section>
+        {% endif %}
+    </div>
+</div>
