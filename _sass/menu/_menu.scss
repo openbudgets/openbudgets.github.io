@@ -290,9 +290,8 @@ Main components
 		background-image: url('../img/cd-socials.svg');
 		background-repeat: no-repeat;
 		background-size: 128px 64px;
-		background-color: #FFF;
 		margin-right: .5em;
-		@include border-radius;
+        border-radius: 32px;
 
 		&.cd-twitter {
 			background-position: 0 0;
@@ -330,4 +329,28 @@ Main components
 			}
 		}
 	}
+}
+
+#cd-lateral-nav .socials {
+    a {
+        &.cd-twitter {
+            background-position: 0 -32px;
+        }
+
+        &.cd-github {
+            background-position: -32px -32px;
+        }
+
+        &.cd-facebook {
+            background-position: -64px -32px;
+        }
+
+        &.cd-google {
+            background-position: -96px -32px;
+        }
+    }
+}
+
+.site-header .socials {
+    margin-left: $small-spacing;
 }
