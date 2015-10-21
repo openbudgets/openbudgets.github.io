@@ -23,6 +23,7 @@ This work package integrates the data mining, comparative analysis, data visuali
 
 <p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="650"></center></p>
 <center><i>Graphical overview of work package structure</i></center>
+
 #### Test Bed / Use Cases
 
 ###### Work Package 5: Journalism
