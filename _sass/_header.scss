@@ -49,7 +49,7 @@
         @media (min-width: $large-screen) {
             display: block;
         }
-        ul {
+        & > ul {
             list-style:none;
             position:relative;
             float:right;
@@ -61,7 +61,7 @@
                 display:block;
                 color:$base-font-color;
                 text-decoration:none;
-                line-height:32px;
+                line-height:28px;
                 padding:0 $small-spacing;
             }
 
@@ -70,17 +70,31 @@
                 float:left;
                 margin:0;
                 padding:0;
-                @include border-radius;
 
-                &.active {
-                    background:$primary;
+                &:not(.active):hover {
                     
+                }
+            }
+            
+            & > li {
+                margin-left: 3px;
+                
+                & > a {
+                    border: solid 2px #fff;
+                    border-radius: 6px;
+                    
+                }
+                
+                &.active {
                     & > a {
-                        color: #fff;
+                        border-color: $primary;
                     }
                 }
+                
                 &:not(.active):hover {
-                    background:$light-gray;
+                    & > a {
+                        border-color: $light-gray;
+                    }
                 }
             }
 
@@ -91,14 +105,16 @@
                 left:0;
                 background:#fff;
                 padding:0;
+                border: solid 2px $light-gray;
+                border-radius: 6px;
 
                 li {
                     float:none;
                     width:$column * 3;
-                    border-radius: 0;
                     
                     &.active {
-                        background:rgba($primary, 0.3);
+                        background:$light-gray;
+                        
                         & > a {
                             color: inherit;
                         }
@@ -108,6 +124,10 @@
                 a {
                     line-height:120%;
                     padding:10px 15px;
+                    
+                    &:hover {
+                        background-color: $light-gray;
+                    }
                 }
 
                 ul {

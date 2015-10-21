@@ -9,7 +9,7 @@
 			<ul>
                 {% for item in site.data.menu %}
                 {% if item.subitems != null %}
-                <li{% if current_page.last == item.slug %} class='active'{% endif %}>
+                <li class="{% if current_page.last == item.slug %} active{% endif %}{% if item.subitems != null %} has-children{% endif %}">
                 <a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
                 <ul>
                     {% for subcategory in item.subitems %}
