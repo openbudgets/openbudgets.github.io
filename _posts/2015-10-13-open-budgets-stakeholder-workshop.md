@@ -30,7 +30,6 @@ Quartier 110 Friedrichstraße 180 | 10117 Berlin</center>
 
 <p><b>Anna Alberts</b> <br>
 Open Knowledge Foundation Deutschland <br>
-
 <a href="mailto:anna.alberts@okfn.de">E-mail</a> <br>
 <a href="https://twitter.com/annaalberts">Twitter</a><br>
 Office: +49 30 57703666 0 <br>
