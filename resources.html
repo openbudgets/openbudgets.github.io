@@ -1,32 +1,19 @@
 ---
 layout: default
 title: Resources
+description: A curated collection of budget data resources
 ---
 
 <div class="resources posts">
     <div class="banner">
         <div class="wrapper">
             <h1>{{ page.title }}</h1>
+            <p>{{ page.description }}</p>
         </div>
     </div>
     <div class="post-list">
         {% for post in site.categories.resources %}
-        <article>
-          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-          <p class="author">
-            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          </p>
-          <div class="content">
-            {{ post.excerpt }}
-          </div>
-          {% if post.categories %}
-            <ul class="categories">
-            {% for cat in post.categories %}
-                <li>{{ cat }}</li>
-            {% endfor %}
-            </ul>
-          {% endif %}
-        </article>
+        {% include post-list-item.html %}
         {% endfor %}
     </div>
 </div>

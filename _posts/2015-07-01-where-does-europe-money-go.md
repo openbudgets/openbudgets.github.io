@@ -3,6 +3,7 @@ layout: post
 title:  " Where Does Europe’s Money Go? A Guide to EU Budget Data Sources "
 date:   2015-07-01
 categories: resources
+image: europes-money.png
 ---
 The EU has committed to spending **€959.988 billion** between 2014 and 2020. This money is disbursed through over **80 funds and programmes** that are managed by over **100 different authorities**. Where does this money come from? How is it allocated? And how is it spent?
 

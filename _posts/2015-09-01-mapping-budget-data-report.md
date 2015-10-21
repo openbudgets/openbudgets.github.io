@@ -3,6 +3,7 @@ layout: post
 title:  "Open Budget Data - Mapping the Landscape "
 date:   2015-09-01
 categories: resources
+image: mapping-the-landscape.png
 ---
 
 “*Digital technologies have the potential to transform the way that information about public money is organised, circulated and utilised in society, which in turn could shape the character of public debate, democratic engagement, governmental accountability and public participation in decision-making about public funds. Data could play a vital role in tackling the democratic deficit in fiscal policy and in supporting better outcomes for citizens.*”
