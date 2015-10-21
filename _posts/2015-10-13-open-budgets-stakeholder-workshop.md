@@ -12,7 +12,7 @@ Together with key-figures from the field of journalism, civil society and govern
 
 <p><center><b>Workshop Agenda:</b></p></center>
 
-<p><center><img src="{{site.baseurl}}/assets/posts/stakeholderworkshop_timetable.png" alt="Workpackage structure" width="450"></center></p>
+<p><center><img src="{{site.baseurl}}/assets/posts/stakeholderworkshop_timetable.png" alt="Workpackage structure"></center></p>
 
 
 <center>Workshop Location: Hertie School of Governance:​
@@ -24,7 +24,7 @@ Quartier 110 Friedrichstraße 180 | 10117 Berlin</center>
 
 <br>
 
-<p>If you have any questions about the workshop, please do not hesitate to contact:</p>
+<center><p>If you have any questions about the workshop, please do not hesitate to contact:</p>
 
 <p><b>Anna Alberts</b> <br>
 Open Knowledge Foundation Deutschland <br>
@@ -39,4 +39,4 @@ Open Knowledge Foundation Deutschland <br>
 <a href="mailto:bela.seeger@okfn.de">E-mail</a> <br>
 <a href="https://twitter.com/belaseeger">Twitter</a><br>
 Office: +49 30 57703666 0</p>
-
+</center>
