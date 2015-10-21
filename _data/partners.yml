@@ -1,5 +1,5 @@
 - name: "Fraunhofer"
-  logo: fraunhofer.gif
+  logo: fraunhofer.png
   link: http://www.iais.fraunhofer.de/
 
 - name: "Open Knowledge"
@@ -22,6 +22,6 @@
   logo: VSE.png
   link: http://www.vse.cz/
   
-- name: "J++"
+- name: "Journalism++"
   logo: j++.png
-  link: http://www.jplusplus.org/de/
+  link: http://www.jplusplus.org/

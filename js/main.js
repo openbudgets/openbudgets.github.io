@@ -61,4 +61,13 @@ jQuery(document).ready(function($){
         if (form === 'sent') {
         $('.contact .modal').addClass('modal-active');
     }
+    
+    
+    // external links
+    $('a[rel="external"]')
+    .click( function() {
+        window.open( $(this).attr('href') );
+        return false;
+    });
+    
 });
