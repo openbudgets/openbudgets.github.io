@@ -29,14 +29,14 @@ Quartier 110 Friedrichstraße 180 | 10117 Berlin</center>
 <p><b>Anna Alberts</b> <br>
 Open Knowledge Foundation Deutschland <br>
 
-<a href="mailto:anna.alberts@okfn.de">E-mail</a>
- <br>
+<a href="mailto:anna.alberts@okfn.de">E-mail</a> <br>
+<a href="https://twitter.com/annaalberts">Twitter</a><br>
 Office: +49 30 57703666 0 <br>
 Mobile: +49 176 21370998</p>
 
 <p><b>Bela Seeger</b> <br>
 Open Knowledge Foundation Deutschland <br>
 <a href="mailto:bela.seeger@okfn.de">E-mail</a> <br>
-<a href="https://twitter.com/belaseeger">Twitter</a><br>
+<a href="https://twitter.com/@Anna_Alberts">Twitter</a><br>
 Office: +49 30 57703666 0</p>
 </center>
