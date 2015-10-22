@@ -28,7 +28,7 @@ title: Deliverables
 | 	 | D3.5 Demonstration visualisations |
 | 	 | D3.6 Spending & Budget visualisation Social Network features |
 | WP4	 | D4.1 Specification of services’ Interfaces | [Download (528KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf) |
-| 	 | D4.2 Analysis of the required functionality of OpenBudgets.eu | [Download (573KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf)
+| 	 | D4.2 Analysis of the required functionality of OpenBudgets.eu | <!-- [Download (573KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf) -->
 | 	 |D4.3 Integrated OpenBudgets.eu Platform – Working prototype |
 | 	 | D4.4 OpenBudgets.eu Platform Documentation |
 | 	 | D4.5 Integrated OpenBudgets.eu Platform – Final |
