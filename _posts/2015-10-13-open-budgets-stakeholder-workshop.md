@@ -131,6 +131,7 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 <center>The workshop will take place in the Hertie School of Governance,
 Quartier 110 Friedrichstraße 180 | 10117 Berlin</center>
 
+<br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.1381615441783!2d13.387131351998411!3d52.512838679713866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851da983e595b%3A0xb920f42d7f8ae632!2sHertie+School+of+Governance!5e0!3m2!1sde!2sde!4v1445419716339" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></center>
 
@@ -141,15 +142,15 @@ Quartier 110 Friedrichstraße 180 | 10117 Berlin</center>
 <p><b>Anna Alberts</b> <br>
 Open Knowledge Foundation Deutschland <br>
 <a href="mailto:anna.alberts@okfn.de">E-mail</a> <br>
-<a href="https://twitter.com/annaalberts">Twitter</a><br>
+<a href="https://twitter.com/Anna_Alberts">Twitter</a><br>
 Office: +49 30 57703666 0 <br>
 Mobile: +49 176 21370998</p>
 
 <p><b>Bela Seeger</b> <br>
 Open Knowledge Foundation Deutschland <br>
 <a href="mailto:bela.seeger@okfn.de">E-mail</a> <br>
-<a href="https://twitter.com/@Anna_Alberts">Twitter</a><br>
+<a href="https://twitter.com/belaseeger">Twitter</a><br>
 Office: +49 30 57703666 0</p>
 </center>
 
-Image: „SkylineBerlin“. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:SkylineBerlin.JPG#/media/File:SkylineBerlin.JPG
+<i>Image: „SkylineBerlin“. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:SkylineBerlin.JPG#/media/File:SkylineBerlin.JPG</i>
