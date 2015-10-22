@@ -75,4 +75,11 @@
         padding-left: $base-spacing;
         padding-right: $base-spacing;
     }
+    
 }
+.blog-table td{
+    
+        padding: 0.25rem 0px;
+        font-size: 0.90em;
+        background-color: $light-gray;
+    }

@@ -3,6 +3,7 @@ layout: post
 title:  "OpenBudgets Plenary Meeting 2015"
 date:   2015-10-13
 categories: events
+image: berlin2.jpg
 ---
 During the Open Budgets Plenary Meeting on the 30th of November and 1st of December, the consortium partners will meet in Berlin to review the progress made since the start of the project. The strategy for the coming months will be discussed in a series of group sessions and workshops aimed at finding solutions for the challenges encountered. Strategic decisions for the 
 
