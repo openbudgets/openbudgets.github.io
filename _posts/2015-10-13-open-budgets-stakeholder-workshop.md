@@ -61,9 +61,9 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 <td>11:30</td>
 <td>Outside in: how journalists work on uncovering public spending: Nicolas Kayser Bril, or Anne-Lise Bouyer on the Migrant Files</td>
 <td></td>
-<td>10:30</td>
+<td></td>
 <td>
-Linking Local and International Platforms
+
 </td>
 </tr>
 
