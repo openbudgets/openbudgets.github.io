@@ -13,7 +13,7 @@ title: Deliverables
 | 	 | D1.4 User documentation |
 | 	 | D1.5 Final release of data definitions for public finance data |
 | 	 |  D1.6 Survey of code lists for the data model’s coded dimensions | [Download (2,1MB)]({{site.baseurl}}/assets/deliverables/D1.6.pdf) |
-| 	 | D1.7 Extraction and transformation of relevant code lists |
+| 	 | D1.7 Extraction and transformation of relevant code lists | [See code list repo](https://github.com/openbudgets/Code-lists) |
 | 	 | D1.8 Linking of data structure definitions to vocabularies |
 | 	 | D1.9 Linking code lists to external datasets |
 | WP2	 | D2.1 Tools for Semantic Lifting of Multiformat Budgetary Data |
