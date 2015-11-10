@@ -5,6 +5,12 @@ date:   2015-11-10
 categories: post
 image: ../img/openbudgets-logo.png
 ---
+The first OpenBudgets press release describing the mission statement and the objectives of the project has been released today. View it here in your browser, subscribe to our press list, or view it in a different language: 
+[English]({{site.baseurl}}/assets/press_releases/pr1-english.pdf),
+[Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf),
+[French]({{site.baseurl}}/assets/press_releases/pr1-french.pdf),
+[Spanish]({{site.baseurl}}/assets/press_releases/pr1-spanish.pdf),
+[Portugese / Brazil]({{site.baseurl}}/assets/press_releases/pr1-portugese-brazil.pdf).
 
 [**OpenBudgets.eu**](http://openbudgets.eu/), a new project promoting transparency and accountability in the domain of public spending, is launched. The Horizon2020-funded project provides journalists, civil society organisations, NGOs, citizens and public administrations with the tools, data and stories they need to advocate and fight for fiscal transparency. 
 
