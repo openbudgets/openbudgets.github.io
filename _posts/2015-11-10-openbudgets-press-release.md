@@ -5,8 +5,7 @@ date:   2015-11-10
 categories: post
 image: ../img/openbudgets-logo.png
 ---
-The first OpenBudgets press release describing the mission statement and the objectives of the project has been released today. View it here in your browser, subscribe to our press list, or view it in a different language: 
-[English]({{site.baseurl}}/assets/press_releases/pr1-english.pdf),
+The first OpenBudgets press release describing the mission statement and the objectives of the project has been released today. View it [here in english in your browser](http://us5.campaign-archive1.com/?u=929f1e07936386d34833e20d1&id=9c8bb8a81e&e=%5BUNIQID%5D), subscribe to our [press list](http://eepurl.com/bFBUVX), subscribe to our [newsletter](http://eepurl.com/bFBWSP), or view it in a different language: 
 [Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf),
 [French]({{site.baseurl}}/assets/press_releases/pr1-french.pdf),
 [Spanish]({{site.baseurl}}/assets/press_releases/pr1-spanish.pdf),
