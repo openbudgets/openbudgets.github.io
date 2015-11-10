@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Budgets Press Release"
+title:  "Press Release: Open Budgets to advance Fiscal Transparency in Europe"
 date:   2015-11-10
 categories: post
 image: ../img/openbudgets-logo.png
