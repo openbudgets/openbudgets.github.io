@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Open Budgets Launched"
+title:  "Open Budgets Press Release"
 date:   2015-11-10
-categories: events
+categories: post
 image: ../img/openbudgets-logo.png
 ---
 
