@@ -14,9 +14,7 @@ Despite the open data paradigm, the ***data security strategy*** ensures (e.g. u
 
 **<center>Overall OpenBudgets.eu Architecture:</center>**
 
-<p><img src="{{site.baseurl}}/img/technical_structure.jpg" alt="Technical Structure"></p>
-
-
+<p><center><img src="{{site.baseurl}}/img/technical-structure.svg" width="500"></center></p>
 
 
 The financial data, coming from different public bodies and different jurisdictions, are integrated by the **Data Collection and Mining services**. Once integrated, the data can be mined and analyzed to discover patterns, trends, and anomalies. 
