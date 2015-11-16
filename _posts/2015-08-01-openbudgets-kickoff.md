@@ -3,6 +3,7 @@ layout: post
 title:  "OpenBudgets.eu Kickoff"
 date:   2015-08-01
 categories: events
+image: OpenBudgets_Team_cropped.png
 ---
 The kick-off meeting of the OpenBudgets.eu project happened in the 29th and 30th June, at the castle of Frauhofer Institute, in Sankt Augustin, Germany. Project partners from seven European countries were present to the first official meeting, where the main concepts were discussed and the consortium partners had a chance to meet one another in person. 
 

@@ -10,11 +10,11 @@ github_repo: openbudgets.github.io
 twitter_username: openbudgetseu
 facebook_username: openbudgets
 
-github_link: os-data/registry/issues
+github_link: openbudgets
 
 contact: anna.alberts@okfn.de
 
-#googleanalytics: UA-XXXXX-X
+googleanalytics: UA-48682838-7
 
 # Build settings
 markdown: kramdown

@@ -4,7 +4,7 @@ title: Work Packages
 ---
 #### Overview: 
 
-The work packages in Open Budgets fall into two main categories: technical development, and test bed / use cases. The underlying colaboration with stakeholders in the field of budget transparency enables the output to resonate with the needs of the platform's future users. The dissemination and project management work packages ensure the efficient coordination of the project and the thorough dissemination of its results among the whole range of stakeholder groups.  
+The work packages in Open Budgets fall into two main categories: technical development, and test bed / use cases. The program is structured in this way to guarantee that its output resonates with the needs of its future users. The dissemination and project management work packages ensure the efficient coordination of the project and the thorough dissemination of its results among the whole range of stakeholder groups. 
 
 #### Technical development 
 
@@ -21,7 +21,8 @@ A set of budget data visualisation tools is developed that enable the user to re
 This work package integrates the data mining, comparative analysis, data visualisation, data exploration, and feedback services (from WP1-3) into the OpenBudgets.eu platform. System-wide tests are run to ensure all the tools and services are integrated correctly. 
 
 
-<p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="550"></center></p>
+<p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="650"></center></p>
+<center><i>Graphical overview of work package structure</i></center>
 
 #### Test Bed / Use Cases
 

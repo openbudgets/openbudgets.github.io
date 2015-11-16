@@ -1,27 +1,36 @@
 - name: "Fraunhofer"
   logo: fraunhofer.png
-  link: http://www.iais.fraunhofer.de/
+  link: ../partners/fraunhofer/
 
 - name: "Open Knowledge"
   logo: okf.png
-  link: http://okfn.org/
+  link: ../partners/oki/
   
 - name: "Open Knowledge Foundation Deutschland"
   logo: okfde.png
-  link: http://okfn.de/
+  link: ../partners/okfde/
   
 - name: "Civio"
   logo: logo_civio.png
-  link: http://www.civio.es/
+  link: ../partners/civio/
   
 - name: "Transparency International"
   logo: TI.png
-  link: https://www.transparency.de/
+  link: ../partners/ti/
   
 - name: "VSE"
   logo: VSE.png
-  link: http://www.vse.cz/
+  link: ../partners/vse/
   
 - name: "Journalism++"
   logo: j++.png
-  link: http://www.jplusplus.org/
+  link: ../partners/j++/
+
+- name: "Open Knowledge Foundation Greece"
+  logo: okfngr.svg
+  link: ../partners/okgr/
+  
+- name: "Universität Bonn"
+  logo: unibonn.png
+  link: ../partners/unibonn/
+  
