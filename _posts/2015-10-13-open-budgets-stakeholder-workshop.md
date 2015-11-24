@@ -5,7 +5,7 @@ date:   2015-10-13
 categories: events
 image: ../assets/posts/2015-10/berlin.JPG
 ---
-On the **30th of November** and the **1st of December**, Open Knowledge International and Open Knowledge Germany are organizing a workshop to address the question: "**How might Open Data Contribute to of Fiscal Policy?**" in Berlin. The workshop is part of the ongoing work for the OpenBudgets.eu project. 
+On the **30th of November** and the **1st of December**, Open Knowledge International and Open Knowledge Germany are organizing a workshop to address the question: "**How might Open Data Contribute to the Democratization of Fiscal Policy?**" in Berlin. The workshop is part of the ongoing work for the OpenBudgets.eu project. 
 
 Journalists, Civil Society Organizations, and Public Officials all work on creating a better understanding of Public Budgets and Expenditures. Often, internal processes on liberating those fiscal data could seem black boxes from the outside. We'd like to unpack these work processes to foster better cooperation and understand what role open data can play. 
 
@@ -55,13 +55,13 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 					<td>
 						10:30</td>
 					<td>
-						<span data-sheets-userformat="[null,null,897,[null,0],null,null,null,null,null,null,1,4,0]" data-sheets-value="[null,2,&quot;Opening Workshop: the democratization fo Fiscal Policy&quot;]" style="font-size:13px;font-family:arial,sans,sans-serif;"><strong>Opening Workshop</strong>: the democratization fo Fiscal Policy</span></td>
+						<strong>Opening Workshop</strong>: the democratization fo Fiscal Policy</span></td>
 					<td>
 						&nbsp;</td>
 					<td>
 						09:30</td>
 					<td>
-						<strong>Story &amp; Impact Session:&nbsp;</strong><span style="font-family: arial, sans, sans-serif; font-size: 13px; line-height: 13px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">This session will discuss some of the best practices for story-telling and campaiging around budget data.</span></td>
+						<strong>Story &amp; Impact Session:&nbsp;</strong><span>This session will discuss some of the best practices for story-telling and campaiging around budget data.</span></td>
 				</tr>
 				<tr>
 					<td>
@@ -113,7 +113,7 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 				</tr>
 				<tr>
 					<td>
-						1:00</td>
+						13:00</td>
 					<td>
 						Lunch</td>
 					<td>
