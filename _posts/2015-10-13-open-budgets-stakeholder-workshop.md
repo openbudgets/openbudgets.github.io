@@ -89,9 +89,9 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 				</tr>
 				<tr>
 					<td>
-						&nbsp;</td>
+						13:00</td>
 					<td>
-						&nbsp;</td>
+						Lunch</td>
 					<td>
 						&nbsp;</td>
 					<td>
@@ -101,9 +101,9 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 				</tr>
 				<tr>
 					<td>
-						&nbsp;</td>
+						14:00</td>
 					<td>
-						&nbsp;</td>
+						<strong>Interactive Panel Session</strong>: opening budgets and budgets processes from within&nbsp;</td>
 					<td>
 						&nbsp;</td>
 					<td>
@@ -113,39 +113,15 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 				</tr>
 				<tr>
 					<td>
-						13:00</td>
-					<td>
-						Lunch</td>
-					<td>
-						&nbsp;</td>
-					<td>
-						&nbsp;</td>
-					<td>
-						&nbsp;</td>
-				</tr>
-				<tr>
-					<td>
-						14:00</td>
-					<td>
-						<strong>Interactive Panel Session</strong>: opening budgets and budgets processes from within&nbsp;</td>
-					<td>
-						&nbsp;</td>
-					<td>
-						13:00</td>
-					<td>
-						Lunch</td>
-				</tr>
-				<tr>
-					<td>
 						15:45</td>
 					<td>
 						Coffee Break</td>
 					<td>
 						&nbsp;</td>
 					<td>
-						14:00</td>
+						13:00</td>
 					<td>
-						Open Floor Sessions [2]</td>
+						Lunch</td>
 				</tr>
 				<tr>
 					<td>
@@ -155,15 +131,27 @@ Due to limited capacities we kindly ask all parties interested in joining the wo
 					<td>
 						&nbsp;</td>
 					<td>
-						15:30</td>
+						14:00</td>
 					<td>
-						Closing workshop</td>
+						Open Floor Sessions [2]</td>
 				</tr>
 				<tr>
 					<td>
 						17:30</td>
 					<td>
 						Wrap up, conclusion of Day 1 and outlook on Day 2</td>
+					<td>
+						&nbsp;</td>
+					<td>
+						15:30</td>
+					<td>
+						Closing workshop</td>
+				</tr>
+				<tr>
+					<td>
+						</td>
+					<td>
+						</td>
 					<td>
 						&nbsp;</td>
 					<td>
