@@ -21,7 +21,7 @@ The workshop was structured with these goals in mind, and therefore predominantl
 
 The gap analysis showed that there is a need to share knowledge, amongst user-groups but especially across user groups. In addition, knowledge and understanding of budget data need to be brought to the user. The ‘planning’ session showed that most use-cases for budget- and spending-data projects still focus on increasing understanding with interest groups, citizens, and other civil society groups. 
 
-![Workshop]({{site.baseurl}}/assets/posts/2015-12/IMG_1475.JPG))
+![Workshop]({{site.baseurl}}/assets/posts/2015-12/IMG_1475.JPG)
 
 To sum up, the first OpenBudgets stakeholder workshop has presented us with valuable input for the planning and design of the openbudgets platform. Without a doubt, there is a challenge in the creation of a platform that is used by both governments and is useful to non-governmental stakeholders. The gap analysis has shown that there are significant knowledge gaps between the different groups. This means there is a need for continuous 
 exchange as well as a need for resources that present actors in fiscal transparency with best practices. The heavily technical nature of budget data has been shown to result in a need for d more budget expertise. 
