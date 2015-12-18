@@ -12,7 +12,7 @@ The reason to hold this workshop were twofold: on the one hand, OpenBudgets is a
 The workshop was structured with these goals in mind, and therefore predominantly featured sessions that were driven by interaction and collaboration. In a clinic session, participants were asked to focus on challenges presented by three frontrunners from the field of data journalism, anti-corruption activism, and civil society presented: J++, Funky Citizens, and Hasadna. In the fiscal policy session, public officials from different levels of government showed the other side of the coin. This gave some great insights in the inner-workings of the government, and the complex budget processes. 
 
 
-Highlighted Cases: 
+> Highlighted Cases: 
 
 J++ presented their work on the migrants files, a project on “Fortress Europe” where they counted migrants and refugees who passed away on their passage to Europe and the cost of migration, from smugglers to spending on guarding the borders: <a href="http://www.themigrantsfiles.com/">http://www.themigrantsfiles.com/</a>
 
