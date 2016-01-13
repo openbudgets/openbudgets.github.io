@@ -2,7 +2,6 @@
 layout: post
 title:  "Outlook 2016 for OpenBudgets.eu"
 date:   2016-01-13
-status: featured
 categories: events
 image: ../assets/posts/2016-01/Parliament.jpg
 ---
