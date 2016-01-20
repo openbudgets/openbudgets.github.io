@@ -12,7 +12,7 @@ During the first OpenBudgets stakeholder workshop in december, we asked some of 
 
 You can view the results in a summarized form here: 
 
-<iframe  title="Interviews - OpenBudgets.eu Stakeholder Workshop 2015" width="480" height="390" src="https://www.youtube.com/v/dJtx97kORFU?html5=1" frameborder="0" allowfullscreen></iframe>
+<iframe  title="Interviews - OpenBudgets.eu Stakeholder Workshop 2015" width="853" height="480" src="https://www.youtube.com/v/dJtx97kORFU?html5=1" frameborder="0" allowfullscreen></iframe>
 
 Find the individual parts below.
 
