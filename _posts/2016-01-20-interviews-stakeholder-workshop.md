@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Interviews with Stakeholders released"
+title:  "Stakeholder testimonials from #OBEU Conference published"
 date:   2016-01-20
 categories: post
 image: ../assets/posts/2016-01/interviewscreenshot.png
 ---
 
-During the first OpenBudgets stakeholder workshop in december, we asked some of the participants to shed light on their expectations towards OpenBudgets as a project and a platform. The group of interviewees consisted both of stakeholders working with budget data (members of public administrations, politicians, CSOs, and private companies) and members of the OpenBudgets consortium. It was chosen in this way to also capture the technical structure and the projects objectives. 
+During the first OpenBudgets stakeholder workshop in december, we asked some of the OpenBudgets consortium members and stakeholders from the field of fiscal transparency to shed light on their expectations and intentions towards the project. In doing so, we wanted to capture both the challenges that are addressed by the project and the relevance of these solutions for the future users of OpenBudgets.eu. We would like to thank all of the interviewees who took the time to share their stories with us.
 
-*Disclaimer: all videos have been edited for length and clarity.* 
+*The videos have been edited for length and clarity.* 
 
 You can view the results in a summarized form here: 
 
 <iframe  title="Interviews - OpenBudgets.eu Stakeholder Workshop 2015" width="853" height="480" src="https://www.youtube.com/v/dJtx97kORFU?html5=1" frameborder="0" allowfullscreen></iframe>
+
+
 
 Find the individual parts below.
 
