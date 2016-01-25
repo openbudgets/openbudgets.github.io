@@ -21,7 +21,7 @@ title: Deliverables
 | 	 | D2.3 Requirements for Statistical Analytics and Data Mining |
 | 	 | D2.4 Data Mining and Statistical Analytics Techniques |
 | 	 | D2.5 Data Mining Interfaces |
-| WP3	 | D3.1 Visualisations Collection (existing and ideas) | [**Download (15,4MB)**]({{site.baseurl}}/assets/deliverables/D3.1.pdf) |
+| WP3	 | D3.1 Visualisations Collection (existing and ideas) | [Download **(15,4MB)**]({{site.baseurl}}/assets/deliverables/D3.1.pdf) |
 | 	 | D3.2 Visualisations Creation Framework |
 | 	 | D3.3 Comparative analysis presentation & creation tools |
 | 	 | D3.4 Packaging specifications |

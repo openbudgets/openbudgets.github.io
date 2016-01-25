@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stakeholder testimonials from #OBEU Conference published"
+title:  "Stakeholder testimonials from #OBEU conference published"
 date:   2016-01-20
 categories: post
 image: ../assets/posts/2016-01/interviewscreenshot.png
