@@ -6,6 +6,8 @@ categories: post
 image: ../assets/posts/2016-02/Annual_result_of_the_city_of_Hamburg.png
 ---
 
+_A post by Nicolas Kayser-Bril of Journalism++_
+
 In the list of the things you care about, the different types of public sector accounting standards probably rank right between Kim Kardashian’s latest haircut and the state of research on the spirituality of snowboarding. That’s normal, but it's more interesting than you thought.
 
 The way public officials record how they spend the money you give them is of tremendous importance. They can make it look like they’re doing a terrific job when they’re driving the city finances in the ground. They can make it look like they’re debt-free when they, in fact, signed contracts that bind your children, your grand-children and their grand-children. And they can make it all up as well - that’s how scrutinized this aspect of public government is.
