@@ -26,7 +26,7 @@ What’s a great way for us to keep track of spending may not be so smart for la
 
 Because cash-based accounting is so limited, humans developed a more robust accounting framework. In the 13th century. You read correctly. We realized we needed a good accounting system before we knew the Sun didn’t rotate around the Earth (200 years later) and before we knew we needed to wash our hands after we go to the toilet (500 years later) and before we realized it might not be such a good idea to feed booze to kids for lunch (700 years later).
 
-This new version of accounting is called double-entry accounting. It's mandatory for companies, but not for public bodies.
+This new version of accounting is called double-entry accounting. It's mandatory for companies, but not for all public bodies.
 
 Double-entry means that each time something happens, it is written down twice: once in the account where the money was received and once in the account where it was taken. For each credit operation, there is an equivalent debit operation. Bear in mind that "credit" doesn't mean "cash on your account". The meaning of debit and credit depend on which account you're operating.
 
