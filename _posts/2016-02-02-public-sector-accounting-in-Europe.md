@@ -62,7 +62,7 @@ Let’s look at our fictional example again, done with double-entry accounting:
 |-------|--------|-------|----------------------------------|
 | 4 Jan | 250€   |       | Reception at city hall           |
 
-It’s a slightly more complex than cash-based accounting but it lets you see immediately how much was spent on what account. Philipp Häfner, head of the court of auditors of Hamburg, Germany, compares double-entry accounting to a city’s operating system, like Android. Without double-entry accounting, it’s impossible to run apps like controlling, consolidation of accounts etc. he says.
+It’s a slightly more complex than cash-based accounting but it lets you see immediately how much was spent on what account. Philipp Häfner, director at the court of auditors of Hamburg, Germany, compares double-entry accounting to a city’s operating system, like Android. Without double-entry accounting, it’s impossible to run apps like controlling, consolidation of accounts etc. he says.
 
 ## The Appstore
 
@@ -88,7 +88,7 @@ Because accounting in the public sector is such a mess, it’s often impossible 
 
 Cities can take hazardous credits and not provision for the associated risk. In 2011, the city of Linz, Austria, lost over 30 million euros (160€ per person) because of risky credits it had taken. Ironically enough, its head accountant published a series of rants against double-entry accounting in 2008. For him, double-entry accounting was a neoliberal trick to let private auditors like EY sell more stuff to cities. The dramatic incident in Linz was not due to its accounting system (cities practising double-entry accounting also suffered), but double-entry accounting could have helped see the risk before it became real.
 
-Germany is famous for its derelict infrastructure. In cash-based accounting, a new piece of infrastructure is a one-time expense. In double-entry accounting, as an asset ages, its value decreases and an account “provisions for repairs” grows. While it’s an overstretch to say that double-entry bookkeeping would in itself improve infrastructure, it makes the issue of provisions for repairs harder to avoid, Mr Häfner said. In Hamburg, double-entry bookkeeping helped the city better plan its infrastructure spending.
+Germany is famous for its derelict infrastructure. In cash-based accounting, a new piece of infrastructure is a one-time expense. In double-entry accounting, assets have their own accounts. As they age, their value decreases (it's called "depreciation"). It shows what needs to be re-invested to keep an asset up-to-date. While it’s an overstretch to say that double-entry bookkeeping would in itself improve infrastructure, it makes the issue of timely reinvestment harder to avoid, Mr Häfner said. In Hamburg, double-entry bookkeeping helped the city better plan its infrastructure spending.
 
 Accounting is way too important to be left to accountants alone. And in the end, citizens - not public officials - pay for past mistakes.
 
@@ -102,7 +102,7 @@ Yes, until 1956, parents could and did give wine to their kids for lunch. [In Fr
 
 [The paper by Jens Heiling on the university of Heidelberg](https://digitalis.uc.pt/pt-pt/node/106201?hdl=32150).
 
-[That’s the 2008 anti-double-entry rant](http://www.staedtebund.gv.at/gemeindezeitung/oegz-beitraege/oegz-beitraege-details/artikel/kameralistik-und-doppik.html) by Linz’ head accountant. If you read German, you’ll enjoy the lyrical style. [Here’s a story](http://diepresse.com/home/wirtschaft/economist/676103/FrankenKredite-fur-viele-Staedte-tickende-Zeitbombe) from 2011 about the financial catastrophe in Linz and Vienna. 
+[That’s the 2008 anti-double-entry rant](http://www.staedtebund.gv.at/oegz/oegz-beitraege/jahresarchiv/details/artikel/ist-die-bundeshaushaltsreform-der-groesste-wurf-seit-1945-das-rechnungsziel-bestimmt-den-rech.html) by Linz’ head accountant. If you read German, you’ll enjoy the lyrical style. [Here’s a story](http://diepresse.com/home/wirtschaft/economist/676103/FrankenKredite-fur-viele-Staedte-tickende-Zeitbombe) from 2011 about the financial catastrophe in Linz and Vienna. 
 
 Here’s a good [ZEIT piece](http://www.zeit.de/mobilitaet/2014-04/infrastruktur-deutschland) on the state of infrastructure in Germany. 
 
