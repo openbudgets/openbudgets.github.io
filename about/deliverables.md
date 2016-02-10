@@ -38,7 +38,7 @@ title: Deliverables
 | 	 | D5.4 Workshops Report |
 | 	 | D5.5 Tool Building and Tailoring Report |
 | WP6	 | D6.1 MEP Questionnaire | [Download (314KB)]({{site.baseurl}}/assets/deliverables/D6.1.pdf)
-|  | D6.2 Needs Analysis Report |
+|  | D6.2 Needs Analysis Report | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D6.2.pdf)
 |  | D6.3 Quality index of EU structural funds data |
 | 	 | D6.4 Press release and other media products |
 | 	 | D6.5 Briefing papers |
