@@ -12,6 +12,10 @@ _A post by Nicolas Kayser-Bril of Journalism++_
 
 At Journalism++, we have experience training journalists and others in data literacy and data visualization. Over the last 5 years, we've conducted about a hundred trainings. Our sample datasets range from weather data to airplane crashes. Down-to-earth, easy-to-digest concepts. We had never tried to use budget data in a training context before.
 
+!["Investigating public budgets in Lille, France."]({{site.baseurl}}/assets/posts/2016-03/lille_workshop.jpg)
+
+<small>_Investigating public budgets in Lille, France._</small>
+
 Our mission in OpenBudgets.eu is to make sure European journalists and citizens use the budget data on the platform. We set out to conduct a series of workshops on data-driven investigations focused on local budget data. So far, we conducted 3 workshops in Switzerland and France, as part of [The Football Tax](http://thefootballtax.com), an investigation on the public funds spent on professional football. This article explains how we did it, what worked and what didn't.
 
 ### Think hard about the topic
