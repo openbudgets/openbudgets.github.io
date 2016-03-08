@@ -44,7 +44,7 @@ title: Deliverables
 | 	 | D6.5 Briefing papers |
 | 	 | D6.6 Final Report: Data Quality |
 | 	 | D6.7 Final Report: Recommendations for Change |
-| WP7	 | D7.1 Assessment Report |
+| WP7	 | D7.1 Assessment Report | [Download (12,8MB)]({{site.baseurl}}/assets/deliverables/D7.1.pdf)
 | 	 | D7.2 Tool for influencing budget allocation |
 | 	 | D7.3 Tool for monitoring budget executions |
 | 	 | D7.4 Educational material/ resources |
