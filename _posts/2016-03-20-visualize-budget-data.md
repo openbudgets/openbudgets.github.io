@@ -1,37 +1,54 @@
 ---
 layout: post
-title:  Renaming the English Channel and the Need for Open Budgets
-date:   2016-04-11
+title:  A tool to visualize public money flows
+date:   2016-03-30
 categories: post
-image: ../assets/posts/2016-04/Le-pond.png
-excerpt: "A lack of clear and easily accessible facts about the EU often makes it easy for journalists to create interesting, if inaccurate stories about EU regulations which are typically rather dull."
+image: ../assets/posts/2016-03/tft1.png
+excerpt: "Visualizing money flows from public budgets in the real world is harder than it looks. We made a tool to make it easier."
 ---
 
-_A post by Nick Aiossa of Transparency International (EU Office) that first appeared [here](http://www.transparencyinternational.eu/2016/04/renaming-the-english-channel-and-the-need-for-open-budgets/)._
+_A post by Nicolas Kayser-Bril of Journalism++_
 
-!["Le Pond: one example for missleading journalism around EU budgets."]({{site.baseurl}}/assets/posts/2016-04/Le-pond.png)
+!["Starting page of The Football Tax."]({{site.baseurl}}/assets/posts/2016-03/tft1.png)
 
-<small>_Le Pond: one example for missleading journalism around EU budgets._</small>
+<small>_Starting page of The Football Tax._</small>
 
-All this talk of the UK referendum and Brexit is bringing back old stories about the EU peddled by the British press. We’ve all heard the stories about Brussels banning bendy bananas or curvy cucumbers. But there are many more euro-tales from the UK papers. Some include: “[European MEPs cost £1.79m a year each – three times as much as MPs](http://www.europarl.org.uk/en/media/euromyths/mep_costs.html)” and “[How Eurocrats want to spend £1.1m changing the English Channel’s name to ‘Le Pond’](http://www.dailymail.co.uk/news/article-1263468/Eurocrats-want-spend-1-1m-changing-English-Channels-Le-Pond.html)”.
+One of the case study of OpenBudget.eu is [_The Football Tax_](http://thefootballtax.com), an investigation in public money flows to professional football in Europe. The methodology is straightforward: For each professional club, we look at all layers of public admninistration (city, region, state). For each, we find the payments that were made to the club. Then, we can tell users how much of their tax money went to professional football.
 
+Simple enough, right? 
 
-While it would be hilarious if the English Channel were renamed ‘Le Pond’, it’s [unfortunately not true](http://blogs.ec.europa.eu/ECintheUK/the-name-english-channel-is-not-under-threat-from-the-eu/). Most of these stories are concocted or twisted by journalists. A lack of clear and easily accessible facts about the EU often makes it easy for journalists to create interesting, if inaccurate stories about EU regulations which are typically rather dull. Many of these ‘horror stories’ refer to how EU money is spent on ludicrous projects or wasted, like spending over a million pounds on renaming the Channel.
+Wrong. 
 
-Spurious stories about the EU budget in particular are often hard to prove or disprove. It’s difficult for the average person, untrained in navigating the [maze of EU](http://www.transparencyinternational.eu/2015/08/navigating-the-maze-the-difficulty-of-accessing-eu-documents/) documents and websites, to trace how EU money is spent.
+We developed a tool to make it easy for journalists to collect and visualize such messy budget data. Here are the core features.
 
-The EU budget is huge at [€155 billion](http://ec.europa.eu/budget/annual/index_en.cfm) for 2016, and it affects us all. EU money [pays for](http://ec.europa.eu/budget/funding/index_en) schools, hospitals, the Erasmus student exchange, films, wine, fish, aid, and science programmes. A lack of transparency around European, national and local budgets leads to miss information, a lack of accountability and in some cases fraud or even corruption.
+## Geography is harder than it looks
 
-That’s why we at Transparency International EU are working with a consortium of journalists, academics and activists across Europe to bring about a new platform to make public funds more transparent. [OpenBudgets.eu](http://www.openbudgets.eu/) will provide an overview of public spending as well as the tools, advice and knowledge on how to bring about fiscal transparency at the local, national and EU levels.
+When thinking about levels of government, you probably envision a nice pyramid with the European Union, your country, your region and your city. Think again. The one thing public officials are good at is creating more layers. In France, cities are really run by federations of municipalities, which are unknown to the general public and control most of the money. In Germany, special districts (_Zweckverbände_) manage large swaths of public funds in education, transport or water management. In the United States, someone can live in up to 10 special districts, in addition to their county and state.
 
-It’s not just for ordinary citizens and journalists to separate fact from fiction around the EU budget. Members of the European Parliament (MEPs) tend to be busy people. Overworked and understaffed they usually find it difficult to balance their work on committees, with their time representing constituents. It’s not easy for them either to trawl through EU documents, especially financial ones.
+These special districts do not follow a particular hierarchy. They change often. Some are not part of the government, even if they manage billions in public or almost-public funds (the Swiss lotteries, for instance, which are unique in that they are legally responsible for a large part of subsidies given in the country). Mapping such districts and their links would take a lifetime or two.
 
-So we asked a bunch of MEPs and Parliament staff [their views](http://openbudgets.eu/assets/deliverables/D6.2.pdf) on how greater budget transparency could help them in their day-to-day work. They told us that transparency of data was vital but they also needed context. A way of seeing how much is spent where in the bigger picture.
+Instead of mapping out all possible public institutions in Europe, we used a flexible solution. Administrations are defined using a shape (in GeoJSON format). The shape encompasses the territory over which taxpayers contributed to its financing. It's far from perfect: Some public bodies are only partly funded by taxpayers (public museums, for instance, split their revenues between taxes and entrance fees). 
 
-What they want from budget transparency is for the information they receive to tell a story. MEPs need to see how much is spent on what and have that comparable with other audit and activity reports. They want to see trends on how money is spent and in what areas.
+But it works. Users can type in an address, which is geolocalized. The tool looks for all the polygons within which the address falls. The list of public administrations the user contributes to (if she pays taxes at this address) is then displayed.
 
-MEPs have a big interest in EU cohesion funds. The money which goes to fund infrastructure and development projects across Europe. They want to be able to see that EU money isn’t being spent on [roads which are never finished](http://www.transparencyinternational.eu/2016/02/the-eternally-unfinished-highway/). That money doesn’t end up [stuffed into wine boxes](http://www.transparencyinternational.eu/2015/07/a-wine-case-full-of-cash-in-bohemia-and-the-need-for-integrity-pacts/) belonging to a corrupt politician.
+!["Money flows from public bodies to the football club OGC Nice."]({{site.baseurl}}/assets/posts/2016-03/tft3.png)
 
-They may really care for example that €25 million is spent on the [European Police College](https://www.cepol.europa.eu/) to provide training on cross-border crime, because that’s what interests their constituents. But they usually don’t have time to look into how much is spent on conference venues or name badges or [communications](https://vimeo.com/97223568).
+<small>_Money flows from public bodies to the football club OGC Nice._</small>
 
-And while they all asked for more openness and transparency, it all comes down to political will. Developing the OpenBudgets.eu platform will only be the start. Then we need to encourage policy makers to make budget data at the EU, national and local levels open, transparent, and accessible. Then perhaps it’ll be easier to know whether or not to trust stories about barmy Brussels spending millions on renaming the Channel.
+## Giving money isn't always giving cash
+
+Here's a typical story of mismanagement of public funds. A football club wants to overhaul its stadium. The cost is much higher than what it can afford. A public administration comes to the rescue and agrees to take a loan in the name of the club. The club then reimburses the public administration _at a time when its cash reserves allow it to do so_. How much money did the public body give the club? (This is a simplified version of the deal struck by Région Nord-Pas-De-Calais for RC Lens in 2012, unearthed during a workshop in Lille, France).
+
+There are no easy answers to such situations. While some money flows are straightforward (a direct subsidy), others are much more subtle. Public authorities can provide a collateral for a loan, for instance. This means that if a club fails to reimburse a loan, the public authority has to pay it back. Public authorities can sell a piece of land to a club under market value. They can provide in-kind services to clubs, such as free rent in public buildings. It would take too long to list all the pack-patting one can do without actually disbursing cash.
+
+In such conditions, having a static list of types of money transfers would be impossible. We investigated about 20 clubs in Europe and are still surprised by the creativity of the deals we uncover. We need to keep our data structure flexible for the future cases we'll find. To this end, we chose a very simple data structure where "transaction type" remains just text and can be changed in the future.
+
+!["Amounts spent by Ville de Nice."]({{site.baseurl}}/assets/posts/2016-03/tft2.png)
+
+<small>_Amounts spent by Ville de Nice on professional football._</small>
+
+## Planning ahead
+
+It would be impossible for a single team to analyze all money flows to professional football clubs in Europe. We investigate [_The Football Tax_](http://thefootballtax.com) in workshops and with partner journalists in several countries. We needed a data input interface that was very versatile, flexible (to avoid migrating a database with each change in the data structure) and easy to use. We decided to use Google Spreadsheets. Each club lives in its own spreadsheet. To add data on a club, one just has to create a set of columns (payer, beneficiary and amount) and add the URL of the spreadsheet to a JSON file in the tool.
+
+In the next few months, we will make the tool even more versatile, so that one can easily set it up to investigate any field where different geographical layers, payers and beneficiaries overlap.
