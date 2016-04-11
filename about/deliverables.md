@@ -15,8 +15,8 @@ title: Deliverables
 | 	 |  D1.6 Survey of code lists for the data model’s coded dimensions | [Download (2,1MB)]({{site.baseurl}}/assets/deliverables/D1.6.pdf) |
 | 	 | D1.7 Extraction and transformation of relevant code lists | [See code list repo](https://github.com/openbudgets/Code-lists) |
 | 	 | D1.8 Linking of data structure definitions to vocabularies | [Download (460KB)]({{site.baseurl}}/assets/deliverables/D1.8.pdf)
-| 	 | D1.9 Linking code lists to external datasets |
-| WP2	 | D2.1 Tools for Semantic Lifting of Multiformat Budgetary Data |
+| 	 | D1.9 Linking code lists to external datasets | [Download (749KB)]({{site.baseurl}}/assets/deliverables/D1.9.pdf)
+| WP2	 | D2.1 Tools for Semantic Lifting of Multiformat Budgetary Data | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D2.1.pdf)
 | 	 | D2.2 Data Optimisation, Enrichment and Preparation for Analysis |
 | 	 | D2.3 Requirements for Statistical Analytics and Data Mining |
 | 	 | D2.4 Data Mining and Statistical Analytics Techniques |
