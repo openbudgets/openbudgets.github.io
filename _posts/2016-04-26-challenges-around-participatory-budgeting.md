@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Challenges of Facilitating the Interaction of Citizens and Institutions around Budget Information
+title:  The Challenges of Participatory Budgeting
 date:   2016-04-26
 categories: post
 image: ../assets/posts/2016-04/CiViO-pb.jpg
