@@ -54,7 +54,7 @@ title: Deliverables
 | WP8	 | D8.1 Fact sheet & continuously updated website, social media |
 | 	 | D8.2 Dissemination strategy, materials, press rel. & testimonials | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D8.2.pdf)
 | 	 | D8.3 Stakeholder identification and outreach plan | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D8.3.pdf)
-| 	 | D8.4 Annual dissemination report, doc, & learning materials | 
+| 	 | D8.4 Annual dissemination report, doc, & learning materials | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D8.4.pdf)
 | 	 | D8.5 Final dissemination report, doc. & learning materials |
 | 	 | D8.6 Exploitation Plan |
 | 	 | D8.7 Exploitation Impact Report |

@@ -20,7 +20,7 @@ layout: default
         <section>
             <h2>Featured Blog Post</h2>
         {% for post in site.categories.post limit:1  %}
-            <h3><a href="{{ site.baseurl }}{{ post-url }}">{{ post.title }}</a></h3>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
             <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
             <a href="{{ site.baseurl }}{{ post.url }}">Full Post</a>
         {% endfor %}
