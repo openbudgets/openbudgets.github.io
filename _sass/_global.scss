@@ -6,7 +6,7 @@ h1, h2, h3, h4, h5, h6,
 strong,
 b {
     font-weight: 600;
-    
+
     a {
         color: $secondary;
     }
@@ -14,7 +14,7 @@ b {
 
 h1 {
     font-size: rem(26);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(30);
     }
@@ -22,7 +22,7 @@ h1 {
 
 h2 {
     font-size: rem(24);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(26);
     }
@@ -30,7 +30,7 @@ h2 {
 
 h3 {
     font-size: rem(22);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(24);
     }
@@ -38,7 +38,7 @@ h3 {
 
 h4 {
     font-size: rem(20);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(22);
     }
@@ -46,7 +46,7 @@ h4 {
 
 h5 {
     font-size: rem(18);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(20);
     }
@@ -54,7 +54,7 @@ h5 {
 
 h6 {
     font-size: rem(16);
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(18);
     }
@@ -68,24 +68,24 @@ h6 {
     background-color: $primary;
     color: #fff;
     line-height: 1.2;
-    
+
     @media (min-width: $medium-screen) {
         font-size: rem(18);
     }
-    
+
     .wrapper {
         padding: $base-spacing;
-        
+
         @media (min-width: $medium-screen) {
             padding: $base-spacing * 2 $base-spacing;
         }
-        
+
         h1, h2,
         span {
             font-weight: 700;
             text-transform: uppercase;
         }
-        
+
         :last-child {
             margin-bottom: 0;
         }
@@ -96,5 +96,6 @@ article {
     &.wrapper {
         padding: $base-spacing;
         margin-top: $base-spacing / 2;
+        max-width: 50%;
     }
 }
