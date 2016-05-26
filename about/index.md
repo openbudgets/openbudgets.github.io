@@ -28,8 +28,8 @@ From the start of the project user groups will be actively involved in the proje
 
 Logo: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo.eps)
 
-Logo black: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-black.eps)
+Logo black: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-black.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-black.eps)
 
-Logo white: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-white.eps)
+Logo white: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-white.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-white.eps)
 
 
