@@ -15,20 +15,20 @@ $large-screen-up: new-breakpoint(min-width $large-screen 8);
 
 // breakpoints
 
-$S:     320px;   
-$M:     $medium-screen;     
-$L:     $large-screen;     
+$S:     320px;
+$M:     $medium-screen;
+$L:     $large-screen;
 
 // media queries
 
 @mixin MQ($canvas) {
   @if $canvas == S {
-   @media only screen and (min-width: $S) { @content; } 
+   @media only screen and (min-width: $S) { @content; }
   }
   @else if $canvas == M {
-   @media only screen and (min-width: $M) { @content; } 
+   @media only screen and (min-width: $M) { @content; }
   }
   @else if $canvas == L {
-   @media only screen and (min-width: $L) { @content; } 
+   @media only screen and (min-width: $L) { @content; }
   }
 }

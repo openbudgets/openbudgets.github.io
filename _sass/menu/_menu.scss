@@ -6,7 +6,7 @@
 
 @import 'layout'; // responsive grid and media queries
 
-/* -------------------------------- 
+/* --------------------------------
 
 Modules - reusable parts of our design
 
@@ -23,9 +23,9 @@ Modules - reusable parts of our design
 	overflow: hidden;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 
@@ -35,7 +35,7 @@ Main components
 	position: relative;
 	background-color: $background;
 	z-index: $content-zindex;
-	
+
 	//we assign a top padding since the header is in position absolute or fixed
 	padding-top: $header-S;
 
@@ -54,7 +54,7 @@ Main components
 	@include MQ(M) {
 		padding-top: $header-M;
 	}
-    
+
     @include MQ(L) {
 		padding-top: $header-L;
 	}
@@ -80,7 +80,7 @@ Main components
 		/* translate to show the lateral menu */
 		@include transform(translateX(-260px));
 	}
-	
+
 	//assign this class to the header if you want a fixed navigation
 	&.is-fixed {
 		position: fixed;
@@ -89,7 +89,7 @@ Main components
 	@include MQ(M) {
 		height: $header-M;
 	}
-    
+
     @include MQ(L) {
 		height: $header-L;
 	}
@@ -121,17 +121,17 @@ Main components
 		width: 18px;
 		height: 2px;
 		background-color: #FFF;
-		
+
 		/* these are the upper and lower lines in the menu menu */
 		&::before, &:after {
 			content: '';
 			width: 100%;
-			height: 100%; 
+			height: 100%;
 			position: absolute;
 			background-color: inherit;
 			left: 0;
 		}
-		
+
 		&::before {
 			bottom: 5px;
 		}
@@ -227,7 +227,7 @@ Main components
 		.no-touch &:hover {
 			color: #FFF;
 		}
-	} 
+	}
 
 	@include MQ(M) {
 		.cd-navigation {
