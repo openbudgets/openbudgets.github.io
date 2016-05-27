@@ -3,6 +3,56 @@ layout: page
 title: "Press / Media"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nisl enim, dignissim quis lacus eget, maximus tempor augue. Sed sit amet viverra lorem. Curabitur fermentum ex ante, vitae molestie nisi consectetur sed. Duis sed nunc ultrices, finibus mi eget, cursus magna. Vivamus quis congue ligula. Donec vel placerat orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam placerat dolor at malesuada scelerisque. Quisque ultrices id nunc at dapibus. Ut ac posuere mauris. In eget posuere magna. Sed venenatis mollis enim, at eleifend nunc viverra quis. Aliquam odio nulla, viverra ac nisi sit amet, maximus hendrerit justo. Sed efficitur ipsum lacinia, egestas libero nec, feugiat eros.
 
-Morbi convallis consectetur nunc, at dictum felis aliquet sed. Aliquam aliquam dolor lectus, at bibendum neque scelerisque vitae. Ut feugiat congue malesuada. Suspendisse imperdiet finibus leo nec laoreet. Aenean aliquam venenatis ullamcorper. Morbi nisi enim, mollis a neque sit amet, pharetra laoreet lorem. Ut cursus porttitor augue in fringilla. Phasellus bibendum mauris varius, mattis dui eget, laoreet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+**Press Releases**
+
+
+The first OpenBudgets Press Release is available for download below.
+
+
+View it [here (English)](http://us5.campaign-archive1.com/?u=929f1e07936386d34833e20d1&id=9c8bb8a81e&e=%5BUNIQID%5D), or in [Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf),
+[French]({{site.baseurl}}/assets/press_releases/pr1-french.pdf),
+[Spanish]({{site.baseurl}}/assets/press_releases/pr1-spanish.pdf),
+[Portugese / Brazil]({{site.baseurl}}/assets/press_releases/pr1-portugese-brazil.pdf).
+
+
+Receive the press releases directly: subscribe to our [Press List](http://eepurl.com/bFBUVX) and [Newsletter](http://eepurl.com/bFBWSP).
+
+
+***
+
+
+**Fact Sheet**
+
+[Download](http://openbudgets.eu/assets/materials/openbudgets_fact-sheet.pdf)
+
+
+***
+
+
+**Logo Downloads:**
+
+Logo: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo.eps)
+
+Logo black: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-black.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-black.eps)
+
+Logo white: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-white.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-white.eps)
+
+
+***
+
+<p>For interview requests and further information please contact:</p>
+
+<p><b>Anna Alberts</b> <br>
+Open Knowledge Foundation Deutschland <br>
+<a href="mailto:anna.alberts@okfn.de">E-mail</a> <br>
+<a href="https://twitter.com/Anna_Alberts">Twitter</a><br>
+Office: +49 30 57703666 0 <br>
+Mobile: +49 176 21370998</p>
+
+<p><b>Bela Seeger</b> <br>
+Open Knowledge Foundation Deutschland <br>
+<a href="mailto:bela.seeger@okfn.de">E-mail</a> <br>
+<a href="https://twitter.com/bela_okf">Twitter</a><br>
+Office: +49 30 57703666 0</p>
+
