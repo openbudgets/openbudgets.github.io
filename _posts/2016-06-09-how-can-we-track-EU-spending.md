@@ -20,17 +20,17 @@ What makes EU spending so complex? First, the EU does not have the common govern
 Second, the EU has two budget cycles. The operational budget is set on an annual basis. But the main budget is the [Multi Annual Financial Framework](http://ec.europa.eu/budget/mff/index_en.cfm) (MFF) is set in seven year cycles. In the MFF, priorities are set and funds are allocated for the different subsidies, funds and programs from the European Union. It is decided in a complex process between the European Commission, the European Council and the European Parliament. We are currently half-way the 2014-2020 cycle for the MFF, the 2016 operational budget was decided in December 2015, and the 2017 budget is in the making.
  
 Third, different funds all have different rules, priorities and eligibility criteria. For example, all regions are divided into different stages of development based on their GDP as compared to the GDP of the EU on average for the ERDF and the ESF. For the Cohesion, the GDP of the member state is taken for deciding on allocation etc. The fact that the EU budget mainly consist of funds and subsidies, is set on a seven year basis, and every fund has its own criteria makes EU spending very complex.
+
+!["Classification of EU regions with regards to the EU Regional Policy from 2014 to 2020. Less developed regions = Red, Transition regions = Yellow, More developed regions = Blue"]({{site.baseurl}}/assets/posts/2016-06/European_regional_policy_2014.svg).
+
+<small>_[Classification of EU regions with regards to the EU Regional Policy from 2014 to 2020.](https://en.wikipedia.org/wiki/File:European_regional_policy_2014.svg#/media/File:European_regional_policy_2014.svg). Less developed regions = Red, Transition regions = Yellow, More developed regions = Blue. [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)_</small>
+
  
 But does complexity mean there is a lack of transparency?
  
 On to our second question: how transparent are EU budgets and funds, and can we track the EU spending?
  
 The EU produced a number of data portals where budget and spending data on the EU level is published in open formats. 
-
- !["Classification of EU regions with regards to the EU Regional Policy from 2014 to 2020. Less developed regions = Red, Transition regions = Yellow, More developed regions = Blue"]({{site.baseurl}}/assets/posts/2016-06/European_regional_policy_2014.svg).
-
-<small>_[Classification of EU regions with regards to the EU Regional Policy from 2014 to 2020.](https://en.wikipedia.org/wiki/File:European_regional_policy_2014.svg#/media/File:European_regional_policy_2014.svg). Less developed regions = Red, Transition regions = Yellow, More developed regions = Blue. [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)_</small>
- 
  
 The annual budget of the EU which covers the institutions own operation costs can be found [here](http://data.europa.eu/euodp/en/data/dataset/Final_Budget_2015) and the legislation [here](http://eur-lex.europa.eu/budget/www/index-en.htm).
 
