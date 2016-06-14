@@ -37,3 +37,5 @@ The second one concerns the participation budget which will give the citizens th
 These initiatives could be optimized by OpenBudgets.eu and certain stakeholders, for instance journalists and businesses. There is a shift towards Data Journalism and Investigative Journalism, where open data on budget and other governmental information and its data services (platforms) are a key factor to create interesting and meaningful stories for the citizens.
 
 Recently, even more data on budget have become available to the public because of the current situation with the law that forces the openness of the public information. The OpenBudget.eu project can have a great impact on supporting and promoting such fiscal transparency initiatives.
+
+More information: [Open Knowledge International blog post](https://blog.okfn.org/2016/06/08/open-government-participate-propose-and-be-heard-the-process-in-greece/) 
