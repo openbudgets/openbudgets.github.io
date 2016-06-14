@@ -12,7 +12,7 @@ excerpt: "The participation and involvement of governmental bodies, stakeholders
 <small>_Presentation of the OpenBudgets.eu project at the OGP meeting_</small>
 
 
-_A post by Olga Kalatzi of [OKFGR Journalists](http://www.okfn.gr/)._
+_A post by Olga Kalatzi of [Open Knowledge Greece Journalists](http://www.okfn.gr/)._
 
 The participation and involvement of governmental bodies, stakeholders and citizens in order to promote open data initiatives and open government was one of the main goals of the event “Open Government: Participate, Propose and Be Heard! Conformation of the Third National Action Plan 2016-2018.”
 
@@ -25,7 +25,7 @@ Open Knowledge Greece in particular, as part of Η2020 OpenBudgets.eu, is curren
 Moreover, a new collaborative concept linking tool was presented. Users, assisted by the application, can create links between fiscal code lists, expressed in the Standard Knowledge Organization System (SKOS) vocabulary. By linking code lists among different countries and organization, the end user is one step closer to achieve the comparative analysis between otherwise incomparable budget data. For instance, the road-cleaning expenditure in Thessaloniki and Barcelona can now be normalized and automatically compared, as long as the links of the budget items are in place.
 
 
-!["The participants the OGP meeting"]({{site.baseurl}}/assets/posts/2016-06/general-ogp-thess.jpg.jpg)
+!["The participants the OGP meeting"]({{site.baseurl}}/assets/posts/2016-06/general-ogp-thess.jpg)
 
 <small>_The participants the OGP meeting_</small>
 
