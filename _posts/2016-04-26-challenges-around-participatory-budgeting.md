@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Challenges of Participatory Budgeting
+title:  The challenges of participatory budgeting
 date:   2016-04-26
 categories: post
 image: ../assets/posts/2016-04/CiViO-pb.jpg
