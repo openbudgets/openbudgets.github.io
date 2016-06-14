@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Tracing EU funds
-date:       2016-06-13
+title:      Tracing EU funds - a case study
+date:       2016-06-14
 categories: post
 image:      ../assets/posts/2016-06/decin_park_bench.png
 excerpt:    Tracing EU funds is difficult. The problems with following the money from the EU range from the low availability of budgetary data, which often needs to be obtained on a per request basis, to the ability to identify relevant monetary amounts, which leads to guessing related code list concepts. Due to the complexity of the flows of EU funds, tracing them is a manual and thus error-prone process that involves a lot of copying and pasting from heterogeneous spreadsheets and studying dull regulatory documents along the way. In this post we illustrate the challenges of tracing EU funds on an example of a concrete project.
