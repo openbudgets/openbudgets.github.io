@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Renaming the English channel and the need for open Budgets
+title:  Renaming the English channel and the need for open budgets
 date:   2016-04-11
 categories: post
 image: ../assets/posts/2016-04/Le-pond.png
