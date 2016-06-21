@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Third Greek National Action Plan: A new perspective for fiscal transparency
-date:   2016-06-06
+date:   2016-06-21
 categories: post
 image: ../assets/posts/2016-06/ogp-thess1.jpg
 excerpt: "The participation and involvement of governmental bodies, stakeholders and citizens in order to promote open data initiatives and open government was one of the main goals of the event 'Open Government: Participate, Propose and Be Heard! Conformation of the Third National Action Plan 2016-2018.'"
