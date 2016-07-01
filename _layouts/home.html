@@ -18,19 +18,19 @@ layout: default
     </div>
     <article class="wrapper">
         <section>
-            <h2>Featured Event</h2>
-            {% if featured_e != empty  %}
-                {{ featured_e | first }}
-            {% else %}
-                No featured events
-            {% endif %}
-        </section>
-        <section>
-            <h2>Useful Resources</h2>
-        {% for post in site.categories.resources limit:1  %}
+            <h2>Featured Blog Post</h2>
+        {% for post in site.categories.post limit:1  %}
             <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
             <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
-            <a href="{{ site.baseurl }}{{ post.url }}">Read it!</a>
+            <a href="{{ site.baseurl }}{{ post.url }}">Full Post</a>
+        {% endfor %}
+        </section>
+        <section>
+            <h2>Resources</h2>
+        {% for post in site.categories.resources limit:1  %}
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <i><span>{{ post.excerpt | truncate: 270 | markdownify }}</span></i>
+            <a href="{{ site.baseurl }}{{ post.url }}">View Resource</a>
         {% endfor %}
         </section>
         <section>
@@ -41,6 +41,15 @@ layout: default
             <br/>
             </span>
             <a href="{{ site.baseurl }}/about/objectives/">More</a>
+        </section>
+    </article>
+    <article class="wrapper">
+        <section>
+        </section>
+        <section>
+            <a href="http://eepurl.com/bObmsT">Sign up for the OpenBudgets Newsletter!</a>
+        </section>
+        <section>
         </section>
     </article>
 </div>

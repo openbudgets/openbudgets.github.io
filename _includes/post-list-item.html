@@ -9,13 +9,13 @@
         {% endfor %}
         </ul>
         {% endif %}
-        <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1> 
+        <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <div class="content">
         {{ post.excerpt }}
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
     </div>
-    
+
     {% if post.image %}
     <a class="image" href="{{ site.baseurl }}{{ post.url }}">
         <span style="background-image:url( {{ site.baseurl }}/img/{{ post.image }} )">

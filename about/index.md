@@ -18,4 +18,3 @@ The project delivers the following four main components:
 
 **Engaging user groups**
 From the start of the project user groups will be actively involved in the project. Data journalists are included through workshops and tailor-made tools. The project team will support civil society organizations and citizens through large scale pilots on participatory budgeting with the use of the platform. Finally, policy makers will be encouraged to use the platform for corruption platform, piloting a project on European Structural Funds.
-
