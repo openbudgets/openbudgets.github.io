@@ -7,7 +7,7 @@ image: ../assets/posts/2016-06/refugees_passau.jpg
 excerpt: "This case study shows how journalists can use budget data and other sources of information to answer policy questions."
 ---
 
-_A post by Nicolas Kayser-Bril of Journalism++_
+_A post by Nicolas Kayser-Bril of Journalism++_ Updated on July 1<sup>st</sup> to take into account the new budget proposal of the majority.
 
 !["Refugees arrive in Passau, Germany."]({{site.baseurl}}/assets/posts/2016-06/refugees_passau.jpg)
 
@@ -56,6 +56,10 @@ Because the city refused to give a clear answer, we set out to ask the oppositio
 For the SPD, linking the issue of refugees with local taxes 'misses the point'. Bärbel Richter, head of the SPD fraction at the Bonn city council, says that the €10,000 given by the _Bund_ might or might not suffice to cover costs but that, in any case, the help provided to refugees should remain independent from financial considerations. Which is true. But does not tell us if the local taxes should be increased or not.
 
 The Pirate party was clearer. Jochen Hunold, of the economic committee of the city council, admitted that he had no more information than we did on the topic. However, he did have a plan to alleviate the expenses of the city and pushes for the end of subsidies to the local opera house (€27 million per year) to ensure that the city can fulfill its obligations towards the less well-off, including people who had to flee their country of origin.
+
+On 30 June 2016, the majority unveiled its financing plan for 2017 and 2018 ([PDF here](http://www.bonn.de/rat_verwaltung_buergerdienste/aktuelles/haushalt/index.html?lang=de&download=M3wBUQCu%2F8ulmKDu36WenojQ1NTTjaXZnqWfVpzLhmfhnapmmc7Zi6rZnqCkkIR5fX59bKbXrZ2lhtTN34al3p6YrY7P1oah162apo3X1cjYh2%2BhoJRn6w%3D%3D)). Unlike what the press officer of the city told us, the cost of refugees was calculated and weights substantially on the budget (page 3) and remains one of the major risk factors for the finances of the city (p. 18). There is even an entire chapter dedicated to the issue (p. 26), which shows that the calculations made for this article were not off the mark: The city estimates that an additional €16 million will be needed (p.29), a bit less than our estimates in the pessimistic scenario. 
+
+These numbers mean that the cost of welcoming people fleeing wars is probably one of the main forces behind the increase in the deficit of the city, from a planned €70 million to €98 million. Considering the very low interest rates charged on debt these days, an increased deficit might cost nothing to local taxpayers. However, the city admits that there is a serious risk for the city finances in case of a rate increase (p. 70). Only with access to the detailed contracts between the city and its creditors could we know if the debt of the city is risky (e.g if it had a [variable interest rate](http://www.creditcards.com/glossary/term-variable-interest-rate.php)) or not. Of course, such contracts are not public. 
 
 ### Conclusion
 
