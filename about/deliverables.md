@@ -17,8 +17,8 @@ title: Deliverables
 | 	 | D1.8 Linking of data structure definitions to vocabularies | [Download (460KB)]({{site.baseurl}}/assets/deliverables/D1.8.pdf)
 | 	 | D1.9 Linking code lists to external datasets | [Download (749KB)]({{site.baseurl}}/assets/deliverables/D1.9.pdf)
 | WP2	 | D2.1 Tools for Semantic Lifting of Multiformat Budgetary Data | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D2.1.pdf)
-| 	 | D2.2 Data Optimisation, Enrichment and Preparation for Analysis |
-| 	 | D2.3 Requirements for Statistical Analytics and Data Mining |
+| 	 | D2.2 Data Optimisation, Enrichment and Preparation for Analysis | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D2.2.pdf)
+| 	 | D2.3 Requirements for Statistical Analytics and Data Mining | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D2.3.pdf)
 | 	 | D2.4 Data Mining and Statistical Analytics Techniques |
 | 	 | D2.5 Data Mining Interfaces |
 | WP3	 | D3.1 Visualisations Collection (existing and ideas) | [Download **(15,4MB)**]({{site.baseurl}}/assets/deliverables/D3.1.pdf) |
