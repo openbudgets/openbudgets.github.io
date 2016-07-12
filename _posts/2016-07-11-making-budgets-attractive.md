@@ -6,9 +6,9 @@ date:   2016-07-11
 categories: resources
 image: ../assets/posts/2016-07/beautifulbudgets.png
 ---
-Governments around the world increasingly embrace values of fiscal transparency and a first step in being more open is developing open spending platforms. OpenBudgets.eu has taken it upon itself to support governments with the publication, visualisation and analysis of fiscal data. 
+Open spending platforms play a crucial role in the move towards more fiscal transparency. They represent the interface between the data suppliers and users, and their design and functionality is the result of a complex process involving issues with data compatibility between (and even within) government institutions, a lack of comparability over time when political context, categorization or even accounting systems have changed, and finally a lack of availability.
 
-We have conducted six semi-structured interviews with government officials on different government levels, as well as organisations providing governments with so- lutions to publish, visualize and analyze fiscal data. Afterwards, we analyzed the challenges encountered by these actors when publishing and visualizing fiscal data. From these findings, we extracted best practices for translating data, developing comparative tools, visualisations, and interacting with actors within and outside of the govern- ment to allow for the publication of fiscal data.
+To understand and learn from this process is the object of this report. On behalf of Open Budgets, Danny Lämmerhirt has conducted six semi-structured interviews, and extracted best practices for positively influencing the propensity of a given government to publish fiscal data. To make the process tangible, the model of the data supply chain was used. It highlights its different stages and actors, and enables us to describe, which parts of government share and publish what types of budget data under what technical, legal and organisational conditions in order to make them openly accessible. 
 
 
 <tbody><tr style="border: none"><td style="border: none">
