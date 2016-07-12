@@ -18,7 +18,7 @@ The level of transparency about EU public money is highly variable, and is large
 The European Union has now entered into a new budget framework for 2014-2020. This is accompanied by a new financial regulation, defining new funds and new transparency rules. However, as we shall see in this report, many barriers still remain. In addition to providing an overview of key funds and programmes, we also conclude with some analysis and recommendations for further work in this area, which are summarised below.
 
 <tbody><tr style="border: none"><td style="border: none">
-<a href="http://community.openspending.org/resources/eu/pdf/WhereDoesEuropesMoneyGo.pdf" target="_blank"><img src="http://blog.okfn.org/files/2015/07/Screen-Shot-2015-07-01-at-15.25.37-212x300.png" alt="Where Does Europe's Money Go?" width="212" height="300"></a></td>
+<a href="http://community.openspending.org/resources/eu/pdf/WhereDoesEuropesMoneyGo.pdf" target="_blank"><img src="http://openbudgets.eu/assets/blog/2016-07/wdemg.png" alt="Where Does Europe's Money Go?" width="212" height="300"></a></td>
 <td style="vertical-align:middle; border:none;">
 <ul>
 <li><h5><a target="_blank" href="http://community.openspending.org/resources/eu/pdf/WhereDoesEuropesMoneyGo.pdf">Download the PDF</a> version.</h5></li>
