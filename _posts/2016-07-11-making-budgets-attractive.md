@@ -12,7 +12,7 @@ We have conducted six semi-structured interviews with government officials on di
 
 
 <tbody><tr style="border: none"><td style="border: none">
-<a href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf" target="_blank"><img src="../assets/posts/2016-07/beautifulbudgets.png" alt="Making Budgets Attractive" width="212" height="300"></a></td>
+<a href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf" target="_blank"><img src="http://openbudgets.eu/assets/posts/2016-07/beautifulbudgets.png" alt="Making Budgets Attractive" width="212" height="300"></a></td>
 <td style="vertical-align:middle; border:none;">
 <ul>
 <li><h5><a target="_blank" href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf">Download as PDF</a>.</h5></li>
