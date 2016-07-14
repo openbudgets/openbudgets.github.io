@@ -6,9 +6,13 @@ date:   2016-07-11
 categories: resources
 image: ../assets/posts/2016-07/beautifulbudgets.png
 ---
-Open spending platforms play a crucial role in the move towards more fiscal transparency. They represent the interface between the data suppliers and users, and their design and functionality is the result of a complex process involving issues with data compatibility between (and even within) government institutions, a lack of comparability over time when political context, categorization or even accounting systems have changed, and finally a lack of availability.
+Fiscal transparency is defined by the IMF as “the comprehensiveness, clarity, reliability, timeliness, and relevance of public reporting on the past, present, and future state of public finances”[1]. For journalists, parliamentarians and citizens alike, fiscal transparency can mean an unobstructed view into the affairs of the state. 
 
-To understand and learn from this process is the object of this report. On behalf of Open Budgets, Danny Lämmerhirt has conducted six semi-structured interviews, and extracted best practices for positively influencing the propensity of a given government to publish fiscal data. To make the process tangible, the model of the data supply chain was used. It highlights its different stages and actors, and enables us to describe, which parts of government share and publish what types of budget data under what technical, legal and organisational conditions in order to make them openly accessible. 
+But, what does that mean concretely? How does one do ‘fiscal transparency’? As it turns out, the starting point for this potentially empowering concept lies with open spending platforms, usually in the form of websites containing fiscal data. They are the key interfaces between data suppliers and users, and the result of policy makers carefully navigating a plethora of challenges ranging from data quality and compatibility to varying accounting systems and legal contexts. 
+
+[Danny Lämmerhirt](https://twitter.com/dannylamerhirt) has sought the conversation with creators and proponents of open spending portals, both to better understand its pitfalls and to formulate best practices for their successful design. The findings of his research in several countries and levels of government are featured in “Making Budgets Attractive - Best Practices from Government’s Financial Transparency Portals”, a report Danny wrote on behalf of OpenBudgets.eu. 
+
+[1] http://www.imf.org/external/np/fad/trans/
 
 
 <tbody><tr style="border: none"><td style="border: none">
