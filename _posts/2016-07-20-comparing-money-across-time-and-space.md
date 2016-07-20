@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Comparing money across time and space
-date:       2016-07-07
+date:       2016-07-20
 categories: post
 image:      ../assets/posts/2016-07/Forex_Money_for_Exchange_in_Currency_Bank.jpg
 excerpt:    >
