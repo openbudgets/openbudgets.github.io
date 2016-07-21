@@ -2,7 +2,7 @@
 layout: post
 title:  " Making Budgets Attractive - 
 Best Practices from Government’s Financial Transparency Portals "
-date:   2016-07-12
+date:   2016-07-11
 categories: resources
 image: ../assets/posts/2016-07/beautifulbudgets.png
 ---
