@@ -33,7 +33,7 @@ title: Deliverables
 | 	 | D4.4 OpenBudgets.eu Platform Documentation |
 | 	 | D4.5 Integrated OpenBudgets.eu Platform – Final |
 | WP5	 | D5.1 User Requirement Reports - First Cycle | [Download (700KB)]({{site.baseurl}}/assets/deliverables/D5.1.pdf)
-| 	 | D5.2 User Requirement Reports - Second Cycle | 
+| 	 | D5.2 User Requirement Reports - Second Cycle | [Download (3MB)]({{site.baseurl}}/assets/deliverables/D5.2.pdf)
 | 	 | D5.3 User Requirement Reports - Final Cycle |
 | 	 | D5.4 Workshops Report |
 | 	 | D5.5 Tool Building and Tailoring Report |
