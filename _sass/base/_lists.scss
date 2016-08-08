@@ -29,3 +29,13 @@ dl {
     margin: 0;
   }
 }
+
+article {
+  ul {
+    @extend %default-ul;
+  }
+
+  ol {
+    @extend %default-ol;
+  }
+}
