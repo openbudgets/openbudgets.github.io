@@ -80,12 +80,6 @@ h6 {
             padding: $base-spacing * 2 $base-spacing;
         }
 
-        h1, h2,
-        span {
-            font-weight: 700;
-            text-transform: uppercase;
-        }
-
         :last-child {
             margin-bottom: 0;
         }
