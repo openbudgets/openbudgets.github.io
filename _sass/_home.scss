@@ -25,11 +25,7 @@
 
     article {
         & > section {
-            margin-bottom: $base-spacing / 2;
-
-            @media (min-width: $medium-screen) {
-                @include span-columns(4);
-            }
+            margin-bottom: $base-spacing;
 
             & > a {
                 @extend button;
