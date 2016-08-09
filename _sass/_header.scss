@@ -96,7 +96,7 @@
                     }
                 }
 
-                &.has-children {
+                &.has-children:hover {
                   position: relative;
 
                   & > a {
@@ -114,6 +114,12 @@
                     bottom: 0;
                     z-index: 2;
                   }
+
+                  &.active {
+                    & > ul {
+                      border-color: $primary;
+                    }
+                  }
                 }
             }
 
@@ -126,6 +132,7 @@
                 padding:0.3em 0 0 0;
                 border: solid 2px $light-gray;
                 border-radius: 0 $nav-radius $nav-radius $nav-radius;
+                overflow: hidden;
                 margin-top: -2px;
                 z-index: 1;
 
