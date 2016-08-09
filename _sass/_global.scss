@@ -62,6 +62,25 @@ h6 {
 
 .wrapper {
     @include outer-container;
+
+    & > article,
+    & > aside {
+      padding: $base-spacing;
+      margin-top: $base-spacing / 2;
+    }
+
+    &.aside {
+      & > article {
+        @media (min-width: $medium-screen) {
+          @include span-columns(9);
+        }
+      }
+      & > aside {
+        @media (min-width: $medium-screen) {
+          @include span-columns(3);
+        }
+      }
+    }
 }
 
 .banner {
@@ -83,12 +102,5 @@ h6 {
         :last-child {
             margin-bottom: 0;
         }
-    }
-}
-
-article {
-    &.wrapper {
-        padding: $base-spacing;
-        margin-top: $base-spacing / 2;
     }
 }

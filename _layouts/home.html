@@ -1,5 +1,6 @@
 ---
 layout: default
+aside: true
 ---
 {% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign future_e = future_events | split:"@@" %}
@@ -16,40 +17,39 @@ layout: default
             </span>
         </div>
     </div>
-    <article class="wrapper">
-        <section>
-            <h2>Featured Blog Post</h2>
-        {% for post in site.categories.post limit:1  %}
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
-            <a href="{{ site.baseurl }}{{ post.url }}">Full Post</a>
-        {% endfor %}
-        </section>
-        <section>
-            <h2>Resources</h2>
-        {% for post in site.categories.resources limit:1  %}
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <i><span>{{ post.excerpt | truncate: 270 | markdownify }}</span></i>
-            <a href="{{ site.baseurl }}{{ post.url }}">View Resource</a>
-        {% endfor %}
-        </section>
-        <section>
-            <h2>About the project</h2>
-            <h3><a href="#">Objectives</a></h3>
-            <span>
-                {{ content | markdownify }}
-            <br/>
-            </span>
-            <a href="{{ site.baseurl }}/about/objectives/">More</a>
-        </section>
-    </article>
-    <article class="wrapper">
-        <section>
-        </section>
-        <section>
-            <a href="http://eepurl.com/bObmsT">Sign up for the OpenBudgets Newsletter!</a>
-        </section>
-        <section>
-        </section>
-    </article>
+    <div class="{% if layout.aside == true %}aside {% endif %}wrapper">
+      <article>
+          <section>
+              <h2>Featured Blog Post</h2>
+          {% for post in site.categories.post limit:1  %}
+              <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+              <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
+              <a href="{{ site.baseurl }}{{ post.url }}">Full Post</a>
+          {% endfor %}
+          </section>
+          <section>
+              <h2>Resources</h2>
+          {% for post in site.categories.resources limit:1  %}
+              <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+              <i><span>{{ post.excerpt | truncate: 270 | markdownify }}</span></i>
+              <a href="{{ site.baseurl }}{{ post.url }}">View Resource</a>
+          {% endfor %}
+          </section>
+          <section>
+              <h2>About the project</h2>
+              <h3><a href="#">Objectives</a></h3>
+              <span>
+                  {{ content | markdownify }}
+              <br/>
+              </span>
+              <a href="{{ site.baseurl }}/about/objectives/">More</a>
+          </section>
+      </article>
+      {% if layout.aside == true %}
+      <aside>
+        <a href="http://eepurl.com/bObmsT">Sign up for the OpenBudgets Newsletter!</a>
+      </aside>
+      {% endif %}
+    </div>
+
 </div>
