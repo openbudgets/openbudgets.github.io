@@ -1,0 +1,14 @@
+- title: "About"
+  slug: "about"
+
+- title: "Work Packages"
+  slug: "about/work-packages"
+
+- title: "Deliverables"
+  slug: "about/deliverables"
+
+- title: "Partners"
+  slug: "about/partners"
+
+- title: "Press"
+  slug: "press"

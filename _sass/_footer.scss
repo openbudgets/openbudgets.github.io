@@ -3,6 +3,34 @@ $footer-color: white;
 $footer-link-color: transparentize($footer-color, .4);
 $footer-disclaimer-color: transparentize($footer-color, .6);
 
+.footer-nav {
+  background-color: $medium-gray;
+
+  & > ul {
+    @include outer-container;
+    padding-top: $small-spacing;
+    padding-bottom: $small-spacing;
+
+    & > li {
+
+      @include media($medium-screen) {
+        display: inline-block;
+      }
+
+      a {
+        display: inline-block;
+        padding: $small-spacing $base-spacing;
+        color: rgba(#fff, 0.7);
+        font-size: .9em;
+
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
 html {
     background: $footer-background;
 }
