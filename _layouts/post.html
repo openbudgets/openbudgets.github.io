@@ -6,13 +6,16 @@ layout: default
         <div class="wrapper">
             <span>
                 <h1>{{ page.title }}</h1>
-                <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+                <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% if page.author_affiliation %} of <em>{% if page.author_affiliation_link %}<a href="{{ page.author_affiliation_link }}">{% endif %}{{ page.author_affiliation }}{% if page.author_affiliation_link %}</a>{% endif %}</em>{% endif %}{% endif %}</p>
             </span>
         </div>
     </div>
     <div class="wrapper">
       <article>
           {{ content }}
+          {% if page.meta %}
+          {{ page.meta }}
+          {% endif %}
       </article>
     </div>
 </div>

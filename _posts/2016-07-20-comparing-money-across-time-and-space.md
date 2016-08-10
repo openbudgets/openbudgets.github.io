@@ -3,9 +3,12 @@ layout:     post
 title:      Comparing money across time and space
 date:       2016-07-20
 categories: post
+author:     Jindřich Mynarz
+author_affiliation: University of Economics, Prague
+author_affiliation_link: http://openbudgets.eu/about/partners/vse/
 image:      ../assets/posts/2016-07/Forex_Money_for_Exchange_in_Currency_Bank.jpg
 excerpt:    >
-  Let's say there were two EU-funded projects: a Greek one from 2013 that cost 1 million eur, and a Romanian one from 2007 that cost 4 million lei. Which of the projects was more expensive? While this question seems deceptively simple, providing a correct answer is not as straightforward as we might expect. Moreover, the ability to compare money is essential for analyses of fiscal data, so it is important we get this answer right. 
+  Let's say there were two EU-funded projects: a Greek one from 2013 that cost 1 million eur, and a Romanian one from 2007 that cost 4 million lei. Which of the projects was more expensive? While this question seems deceptively simple, providing a correct answer is not as straightforward as we might expect. Moreover, the ability to compare money is essential for analyses of fiscal data, so it is important we get this answer right.
 ---
 
 _A post by Jindřich Mynarz of the [University of Economics, Prague](http://openbudgets.eu/about/partners/vse/)_

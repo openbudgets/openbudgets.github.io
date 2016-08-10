@@ -3,6 +3,9 @@ layout: 	post
 title:  	Third Greek National Action Plan - A new perspective for fiscal transparency
 date:   	2016-06-21
 categories: post
+author:     Olga Kalatzi
+author_affiliation: Open Knowledge Greece Journalists
+author_affiliation_link: http://www.okfn.gr/
 image: ../assets/posts/2016-06/ogp-thess1.jpg
 excerpt: "The participation and involvement of governmental bodies, stakeholders and citizens in order to promote open data initiatives and open government was one of the main goals of the event 'Open Government: Participate, Propose and Be Heard! Conformation of the Third National Action Plan 2016-2018.'"
 ---
@@ -38,4 +41,4 @@ These initiatives could be optimized by OpenBudgets.eu and certain stakeholders,
 
 Recently, even more data on budget have become available to the public because of the current situation with the law that forces the openness of the public information. The OpenBudget.eu project can have a great impact on supporting and promoting such fiscal transparency initiatives.
 
-More information: [Open Knowledge International blog post](https://blog.okfn.org/2016/06/08/open-government-participate-propose-and-be-heard-the-process-in-greece/) 
+More information: [Open Knowledge International blog post](https://blog.okfn.org/2016/06/08/open-government-participate-propose-and-be-heard-the-process-in-greece/)

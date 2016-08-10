@@ -88,6 +88,10 @@ h6 {
     color: #fff;
     line-height: 1.2;
 
+    a {
+      color: inherit;
+    }
+
     @media (min-width: $medium-screen) {
         font-size: rem(18);
     }
