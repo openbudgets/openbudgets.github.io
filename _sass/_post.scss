@@ -1,0 +1,29 @@
+.post {
+  .banner {
+    @media (min-width: $large-screen) {
+      display: none;
+    }
+  }
+  article {
+    .header {
+      display: none;
+    }
+
+    @media (min-width: $large-screen) {
+      @include clearfix;
+
+      .header {
+        @include span-columns(4);
+        padding-right: $base-spacing;
+        border-right: solid 1px $light-gray;
+
+        h1 {
+          margin-top: 0;
+        }
+      }
+      .content {
+        @include span-columns(8);
+      }
+    }
+  }
+}
