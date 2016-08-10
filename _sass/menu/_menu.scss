@@ -289,9 +289,9 @@ Main components
 		padding: 0;
 		background-image: url('../img/cd-socials.svg');
 		background-repeat: no-repeat;
-		background-size: 128px 64px;
+		background-size: 160px 64px;
 		margin-right: .5em;
-        border-radius: 32px;
+    border-radius: 32px;
 
 		&.cd-twitter {
 			background-position: 0 0;
@@ -307,6 +307,10 @@ Main components
 
 		&.cd-google {
 			background-position: -96px 0;
+		}
+
+		&.cd-linkedin {
+			background-position: -128px 0;
 		}
 
 		.no-touch &:hover {
@@ -326,6 +330,10 @@ Main components
 
 			&.cd-google {
 				background-position: -96px -32px;
+			}
+
+			&.cd-linkedin {
+				background-position: -128px -32px;
 			}
 		}
 	}
@@ -348,6 +356,10 @@ Main components
         &.cd-google {
             background-position: -96px -32px;
         }
+
+				&.cd-linkedin {
+					background-position: -128px -32px;
+				}
     }
 }
 

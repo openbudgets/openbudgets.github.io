@@ -135,7 +135,7 @@ html {
 
                 @include hide-text;
                 background-image: url(../img/cd-socials.svg);
-                background-size: auto ($icon-size * 2);
+                background-size: $icon-size*5 $icon-size*2;
                 width: $icon-size;
                 height: $icon-size;
                 display: block;
@@ -151,6 +151,10 @@ html {
 
                 &.github {
                     background-position: - 1.8em -1.8em;
+                }
+
+                &.linkedin {
+                    background-position: - (1.8em * 4) -1.8em;
                 }
 
                 &:hover {

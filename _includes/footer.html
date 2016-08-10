@@ -34,6 +34,13 @@
           </a>
         </li>
         {% endif %}
+        {% if site.linkedin %}
+        <li>
+          <a href="https://www.linkedin.com/{{ site.linkedin }}" class="linkedin" rel="external">
+            LinkedIn
+          </a>
+        </li>
+        {% endif %}
         {% if site.github_link %}
         <li>
           <a href="https://github.com/{{ site.github_link }}" class="github" rel="external">
