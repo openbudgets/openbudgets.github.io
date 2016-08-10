@@ -48,6 +48,30 @@ picture {
         @media (min-width: $max-width) {
           padding-left: $base-spacing*2;
         }
+
+        & > section {
+          padding-bottom: $base-spacing;
+
+          & > a {
+            @extend button;
+          }
+
+          &.news-feed {
+            div {
+              padding-bottom: $small-spacing;
+              border-bottom: dotted 1px rgba($medium-gray, 0.5);
+
+              h5 {
+                font-size: 1.1em;
+                margin-bottom: $small-spacing/2;
+              }
+
+              span {
+                font-size: 0.9em;
+              }
+            }
+          }
+        }
       }
     }
 }
