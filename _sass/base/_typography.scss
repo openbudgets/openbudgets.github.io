@@ -40,17 +40,60 @@ a {
   }
 }
 
-hr {
-  border-bottom: $base-border;
-  border-bottom-width: 1px;
-  border-left: none;
-  border-right: none;
-  border-top: none;
-  margin: $base-spacing 0;
+h1, h2, h3, h4, h5, h6,
+strong,
+b {
+    font-weight: 600;
+
+    a {
+        color: $secondary;
+    }
 }
 
-img,
-picture {
-  margin: 0;
-  max-width: 100%;
+h1 {
+    font-size: rem(26);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(30);
+    }
+}
+
+h2 {
+    font-size: rem(24);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(26);
+    }
+}
+
+h3 {
+    font-size: rem(22);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(24);
+    }
+}
+
+h4 {
+    font-size: rem(20);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(22);
+    }
+}
+
+h5 {
+    font-size: rem(18);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(20);
+    }
+}
+
+h6 {
+    font-size: rem(16);
+
+    @media (min-width: $medium-screen) {
+        font-size: rem(18);
+    }
 }
