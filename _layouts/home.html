@@ -19,31 +19,34 @@ aside: true
     </div>
     <div class="{% if layout.aside == true %}aside {% endif %}wrapper">
       <article>
-          <section>
-              <h2>Featured Blog Post</h2>
-          {% for post in site.categories.post limit:1  %}
-              <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-              <span>{{ post.excerpt | truncate: 270 | markdownify }}</span>
-              <a href="{{ site.baseurl }}{{ post.url }}">Full Post</a>
+
+        <section>
+          {{ content | markdownify }}
+          <a href="{{ site.baseurl }}/about/objectives/">Our objectives</a>
+        </section>
+
+        {% if page.video %}
+        <section class="video">
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </section>
+        {% endif %}
+
+        <section class="blog-posts">
+          <h2>Recently published on the blog</h2>
+          {% for post in site.categories.post limit:2  %}
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            {% if post.author %}
+            <p class="author">
+              A post by {{ post.author }}{% if post.author_affiliation %} of <em>{% if post.author_affiliation_link %}<a href="{{ post.author_affiliation_link }}">{% endif %}{{ post.author_affiliation }}{% if post.author_affiliation_link %}</a>{% endif %}</em>{% endif %}.
+            </p>
+            {% endif %}
+            <span>{{ post.excerpt | truncate: 500 | markdownify }}</span>
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
           {% endfor %}
-          </section>
-          <section>
-              <h2>Resources</h2>
-          {% for post in site.categories.resources limit:1  %}
-              <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-              <i><span>{{ post.excerpt | truncate: 270 | markdownify }}</span></i>
-              <a href="{{ site.baseurl }}{{ post.url }}">View Resource</a>
-          {% endfor %}
-          </section>
-          <section>
-              <h2>About the project</h2>
-              <h3><a href="#">Objectives</a></h3>
-              <span>
-                  {{ content | markdownify }}
-              <br/>
-              </span>
-              <a href="{{ site.baseurl }}/about/objectives/">More</a>
-          </section>
+        </section>
+
       </article>
       {% if layout.aside == true %}
       <aside>

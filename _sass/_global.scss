@@ -70,14 +70,26 @@ h6 {
     }
 
     &.aside {
+      @media (min-width: $large-screen) {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUCB1jWL1qxX8ABv4C/R7sPqQAAAAASUVORK5CYII=);
+        background-repeat: repeat-y;
+        background-position: 67%;
+      }
+
       & > article {
-        @media (min-width: $medium-screen) {
-          @include span-columns(9);
+        @media (min-width: $large-screen) {
+          @include span-columns(8);
+        }
+        @media (min-width: $max-width) {
+          padding-right: $base-spacing*2;
         }
       }
       & > aside {
-        @media (min-width: $medium-screen) {
-          @include span-columns(3);
+        @media (min-width: $large-screen) {
+          @include span-columns(4);
+        }
+        @media (min-width: $max-width) {
+          padding-left: $base-spacing*2;
         }
       }
     }
@@ -107,4 +119,18 @@ h6 {
             margin-bottom: 0;
         }
     }
+}
+
+.video-wrapper {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
+  position: relative;
+
+  embed,
+  object,
+  iframe {
+    @include position(absolute, 0 null null 0);
+    @include size(100%);
+  }
 }

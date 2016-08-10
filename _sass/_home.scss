@@ -29,6 +29,21 @@
 
             & > a {
                 @extend button;
+                margin-bottom: $base-spacing;
+            }
+
+            &.blog-posts {
+              .author {
+                font-size: 0.9rem;
+              }
+            }
+
+            &.video {
+              padding-bottom: $base-spacing;
+            }
+
+            h3 {
+              text-transform: uppercase;
             }
         }
     }
