@@ -13,7 +13,7 @@ html {
   position:relative;
   z-index:99;
   color:$footer-color;
-  
+
   .wrapper {
     padding: $base-spacing;
     @include clearfix;
@@ -22,21 +22,21 @@ html {
       margin-right: 1em;
       margin-bottom: 1em;
       margin-top:-4px;
-  
+
       @include media($large-screen) {
         float: left;
         margin-bottom: 0;
       }
-        
+
         img {
-            opacity: .7;   
+            opacity: .7;
         }
     }
-  
+
     .footer-logo img {
       height: 2em;
-    } 
-  
+    }
+
     ul {
       margin-bottom: 1em;
       @include media($large-screen) {
@@ -45,66 +45,66 @@ html {
         margin-bottom: 0;
       }
     }
-  
+
     ul li {
       padding-right: 1em;
-  
+
       @include media($large-screen) {
         display: inline;
         text-align: left;
       }
     }
-  
+
     a {
       color: $footer-link-color;
-  
+
       &:hover {
         color: transparentize($footer-color, 0);
       }
-      
+
       &[rel~="external"]:after {
         display:none;
       }
     }
-    
+
     svg {
         fill: currentColor;
     }
-    
+
     .footer-primary-links {
       display:none;
     }
-  
+
     .footer-secondary-links {
       @include media($large-screen) {
         float: right;
       }
-  
+
       li {
         font-size: .8em;
         font-weight: 400;
       }
-  
+
       ul.footer-social {
         margin-top: 1em;
-  
+
         @include media($large-screen) {
           float: right;
           margin-top: 0;
         }
-  
+
         li {
           float: left;
           font-size: 1em;
           padding-right: .45em;
-  
+
           &:last-child {
             padding-right: 0;
           }
-            
+
             a {
                 $icon-size: 1.8em;
-                
+
                 @include hide-text;
                 background-image: url(../img/cd-socials.svg);
                 background-size: auto ($icon-size * 2);
@@ -112,30 +112,30 @@ html {
                 height: $icon-size;
                 display: block;
                 opacity: .7;
-                
+
                 &.facebook {
                     background-position: - (1.8em * 2) -1.8em;
                 }
-                
+
                 &.twitter {
                     background-position: 0 -1.8em;
                 }
-                
+
                 &.github {
                     background-position: - 1.8em -1.8em;
                 }
-                
+
                 &:hover {
                     opacity: 1;
                   }
             }
         }
-  
+
         img {
           opacity: .7;
           height: 1.6em;
           padding: 1px;
-  
+
           &:hover {
             opacity: 1;
           }
@@ -143,21 +143,21 @@ html {
       }
     }
   }
-  
+
   hr {
     @include span-columns(12);
     border-color:$footer-disclaimer-color;
   }
-  
+
   p {
     @include span-columns(12);
     font-size:rem(12);
     color:$footer-disclaimer-color;
   }
-  
+
   .attribution {
     display:none;
-    
+
     @include media($large-screen) {
       display:inline;
     }
