@@ -83,6 +83,7 @@
                 & > a {
                     border: solid 2px $header-colour;
                     border-radius: $nav-radius;
+                    font-weight: 600;
                 }
 
                 &.active {
