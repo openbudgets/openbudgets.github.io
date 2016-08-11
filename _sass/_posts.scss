@@ -14,7 +14,6 @@
 
                 @media (min-width: $medium-screen) {
                     @include span-columns(1);
-                    text-align: center;
                     padding-top: $small-spacing / 2;
 
                     span {
@@ -36,17 +35,25 @@
                 }
 
                 .categories {
+                  padding: 0;
+
                     li {
                         display: inline-block;
                         font-size: 0.75em;
                         text-transform: uppercase;
                         border-bottom: solid 1px $base-font-color;
-                        margin: 0 $small-spacing $small-spacing / 2 0;
+                        margin-right: $small-spacing;
                         font-weight: 600;
                     }
                 }
+
+                p {
+                  margin: 0;
+                }
+
                 & > a {
                     @extend button;
+                    margin-top: $small-spacing;
                 }
             }
 
