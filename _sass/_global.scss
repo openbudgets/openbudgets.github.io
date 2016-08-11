@@ -89,11 +89,17 @@ picture {
         font-size: rem(18);
     }
 
+    @media (min-width: $large-screen) {
+      background-color: #fff;
+      color: $base-font-color;
+    }
+
     .wrapper {
         padding: $base-spacing;
 
-        @media (min-width: $medium-screen) {
-            padding: $base-spacing * 2 $base-spacing;
+        @media (min-width: $large-screen) {
+          padding-top: 0;
+          padding-bottom: 0;
         }
 
         :last-child {

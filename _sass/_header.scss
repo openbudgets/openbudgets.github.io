@@ -1,5 +1,6 @@
 .site-header {
-    background-color: #fff;
+    background-color: $header-colour;
+    color: $header-text-colour;
 
     .wrapper {
         padding: 0 $base-spacing;
@@ -55,11 +56,11 @@
             float:right;
             margin:0;
             padding:0;
-            font-size: 0.9em;
+
 
             a {
                 display:block;
-                color:$base-font-color;
+                color:inherit;
                 text-decoration:none;
                 line-height:28px;
                 padding:0 $small-spacing;
@@ -80,19 +81,21 @@
                 margin-left: 3px;
 
                 & > a {
-                    border: solid 2px #fff;
+                    border: solid 2px $header-colour;
                     border-radius: $nav-radius;
                 }
 
                 &.active {
                     & > a {
-                        border-color: $primary;
+                        border-color: $header-text-colour;
                     }
                 }
 
-                &:not(.active):hover {
+                &:hover {
                     & > a {
-                        border-color: $light-gray;
+                        border-color: $header-text-colour;
+                        background-color: $header-text-colour;
+                        color: $header-colour;
                     }
                 }
 
@@ -101,25 +104,23 @@
 
                   & > a {
                     border-radius: $nav-radius $nav-radius 0 0;
+                    border-color: $light-gray;
                   }
 
                   &:after {
                     content: '';
                     display: block;
-                    height: 2px;
+                    height: 4px;
                     background-color: $dropdown-bg;
                     position: absolute;
-                    left: 2px;
-                    right: 2px;
-                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    bottom: -2px;
                     z-index: 2;
+                    border-left: solid 2px $light-gray;
+                    border-right: solid 2px $light-gray;
                   }
 
-                  &.active {
-                    & > ul {
-                      border-color: $primary;
-                    }
-                  }
                 }
             }
 
@@ -129,12 +130,12 @@
                 top:100%;
                 left:0;
                 background-color: $dropdown-bg;
-                padding:0.3em 0 0 0;
+                padding:0;
                 border: solid 2px $light-gray;
                 border-radius: 0 $nav-radius $nav-radius $nav-radius;
                 overflow: hidden;
-                margin-top: -2px;
                 z-index: 1;
+                color:$base-font-color;
 
                 li {
                     float:none;
@@ -152,6 +153,7 @@
                 a {
                   padding-top: 0.2em;
                   padding-bottom: 0.2em;
+                  font-size: 0.9em;
 
                     &:hover {
                         background-color: $light-gray;

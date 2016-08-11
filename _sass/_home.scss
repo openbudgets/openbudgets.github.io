@@ -1,23 +1,36 @@
 .home {
     .banner {
+      background-color: $primary;
+      color: #fff;
+
+      .wrapper {
+        padding: $base-spacing;
+
+        @media (min-width: $medium-screen) {
+          padding: $base-spacing * 2 $base-spacing;
+        }
+      }
         span {
             @media (min-width: $medium-screen) {
-                @include span-columns(9);
-                @include shift(3);
-                padding-left: $base-spacing;
+                @include span-columns(8);
                 position: relative;
+                padding-right: $base-spacing*2;
 
                 &:before {
                     width: 388px;
                     content: '';
                     position: absolute;
-                    right: 100%;
+                    left: 100%;
                     top: - $base-spacing * 2;
                     bottom: - $base-spacing * 2;
                     background-image: url(../img/banner-image.png);
                     background-size: 388px auto;
-                    background-position: center 75%;
+                    background-position: top left;
                     background-repeat: no-repeat;
+                }
+
+                :first-child {
+                  margin-top: 0;
                 }
             }
         }
