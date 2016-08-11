@@ -1,40 +1,40 @@
-.posts {  
+.posts {
     .post-list {
         margin-top: $base-spacing;
         margin-bottom: $base-spacing;
-        
+
         & > article {
             padding: $base-spacing;
             border-bottom: 1px solid $light-gray;
             @include outer-container;
-            
+
             .date {
                 font-size: 0.8em;
                 color: $medium-gray;
-                
+
                 @media (min-width: $medium-screen) {
                     @include span-columns(1);
                     text-align: center;
                     padding-top: $small-spacing / 2;
-                    
+
                     span {
                         display: block;
                         background-color: $base-background-color;
                     }
                 }
             }
-            
+
             .text {
                 @media (min-width: $medium-screen) {
                     @include span-columns(8);
                 }
-            
+
                 .title {
                     a {
                         color: $base-font-color;
                     }
                 }
-                
+
                 .categories {
                     li {
                         display: inline-block;
@@ -49,10 +49,10 @@
                     @extend button;
                 }
             }
-            
+
             .image {
                 display: none;
-                
+
                 @media (min-width: $medium-screen) {
                     @include span-columns(3);
                     padding: 0 0 $base-spacing $base-spacing;
@@ -75,10 +75,10 @@
         padding-left: $base-spacing;
         padding-right: $base-spacing;
     }
-    
+
 }
 .blog-table td{
-    
+
         padding: 0.25rem 0px;
         font-size: 0.90em;
         background-color: $light-gray;
