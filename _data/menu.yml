@@ -12,12 +12,9 @@
     - subtitle: "Partners"
       subslug: "partners"
 
-- title: "Resources"
-  slug: "resources"
-  
 - title: "Events"
   slug: "events"
-  
+
 - title: "Blog"
   slug: "blog"
 
