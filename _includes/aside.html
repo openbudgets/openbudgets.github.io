@@ -6,12 +6,14 @@
   <a href="http://eepurl.com/bObmsT">Sign up for our newsletter</a>
 </section>
 
+{% if site.categories.news %}
 <section class="news-feed">
   <h4>News</h4>
-    {% for post in site.categories.resources limit:5 %}
+    {% for post in site.categories.news limit:5 %}
     <div>
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
       <span>{{ post.excerpt | truncate: 150 | markdownify }}</span>
     </div>
     {% endfor %}
 </section>
+{% endif %}
