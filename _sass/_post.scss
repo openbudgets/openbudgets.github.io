@@ -23,6 +23,7 @@
       }
       .content {
         @include span-columns(8);
+        text-align: justify;
       }
     }
   }
