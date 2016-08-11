@@ -16,7 +16,7 @@
                     <li{% if current_page.last == subcategory.subslug %} class='active'{% endif %}><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
                     {% endfor %}
                 </ul>
-                    
+
                 {% else %}
                 <li{% if current_page.last == item.slug %} class='active'{% endif %}>
                     <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
