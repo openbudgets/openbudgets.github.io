@@ -124,7 +124,11 @@ html {
         li {
           float: left;
           font-size: 1em;
-          padding-right: .45em;
+          padding-right: 1em;
+
+          @include media($large-screen) {
+            padding-right: .45em;
+          }
 
           &:last-child {
             padding-right: 0;
