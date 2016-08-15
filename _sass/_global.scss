@@ -34,15 +34,15 @@ picture {
       @media (min-width: $large-screen) {
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUCB1jWL1qxX8ABv4C/R7sPqQAAAAASUVORK5CYII=);
         background-repeat: repeat-y;
-        background-position: 67%;
+        background-position: 68%;
+        @media (min-width: $max-width) {
+          background-position: 69%;
+        }
       }
 
       & > article {
         @media (min-width: $large-screen) {
           @include span-columns(8);
-        }
-        @media (min-width: $max-width) {
-          padding-right: $base-spacing*2;
         }
       }
       & > aside {
