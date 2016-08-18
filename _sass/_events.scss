@@ -1,16 +1,16 @@
 .events {
     .wrapper {
         margin-bottom: $base-spacing;
-        
+
         section,
         .event-list > li {
             & > a {
                 @extend button;
             }
         }
-        
+
         section {
-            
+
             h2 {
                 display: inline-block;
                 font-size: 1em;
@@ -18,11 +18,15 @@
                 border-bottom: solid 1px $base-font-color;
                 font-weight: 600;
             }
-            
+
             h3 {
                 a {
                     color: $base-font-color;
                 }
+            }
+
+            .date {
+              font-style: italic;
             }
 
             &.featured {
@@ -31,7 +35,7 @@
                 margin-top: $base-spacing;
                 margin-bottom: $base-spacing;
             }
-            
+
             &:not(.featured) {
                 h2 {
                     margin: $base-spacing $base-spacing 0 $base-spacing;

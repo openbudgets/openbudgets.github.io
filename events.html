@@ -2,13 +2,29 @@
 layout: default
 title: Events
 ---
-{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}
+<h3><a href="{{ event.link }}">{{ event.title }}</a></h3>
+{% if event.from %}
+<p class="date">{{ event.from | date: "%-d %B %Y" }}{% if event.to %} - {{ event.to | date: "%-d %B %Y" }}</p>{% endif %}
+{% elsif event.date %}<p class="date">{{ event.date }}</p>{% endif %}
+<span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign future_e = future_events | split:"@@" %}
 
-{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}
+<h3><a href="{{ event.link }}">{{ event.title }}</a></h3>
+{% if event.from %}
+<p class="date">{{ event.from | date: "%-d %B %Y" }}{% if event.to %} - {{ event.to | date: "%-d %B %Y" }}</p>{% endif %}
+{% elsif event.date %}<p class="date">{{ event.date }}</p>{% endif %}
+<span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign featured_e = featured_events | split:"@@" %}
 
-{% capture past_events %}{% for event in site.data.events %}{% if event.status == 'past' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | markdownify }}</span><a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
+{% capture past_events %}{% for event in site.data.events %}{% if event.status == 'past' %}
+<h3><a href="{{ event.link }}">{{ event.title }}</a></h3>
+{% if event.from %}
+<p class="date">{{ event.from | date: "%-d %B %Y" }}{% if event.to %} - {{ event.to | date: "%-d %B %Y" }}</p>{% endif %}
+{% elsif event.date %}<p class="date">{{ event.date }}</p>{% endif %}
+<span>{{ event.description | markdownify }}</span>
+<a href="{{ event.link }}">More</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign past_e = past_events | split:"@@" %}
 
 
@@ -25,7 +41,7 @@ title: Events
             {{ featured_e | first }}
         </section>
         {% endif %}
-       
+
         <section>
             <h2>Future Events</h2>
             {% if future_e != empty  %}
@@ -40,7 +56,7 @@ title: Events
                 No future events
             {% endif %}
         </section>
-        
+
         {% if past_e != empty  %}
         <section>
             <h2>Past Events</h2>
