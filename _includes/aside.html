@@ -11,8 +11,7 @@
   <h4>News</h4>
     {% for post in site.categories.news limit:5 %}
     <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-      <span>{{ post.excerpt | truncate: 150 | markdownify }}</span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </div>
     {% endfor %}
 </section>
