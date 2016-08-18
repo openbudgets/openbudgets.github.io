@@ -34,23 +34,17 @@ picture {
       @media (min-width: $large-screen) {
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUCB1jWL1qxX8ABv4C/R7sPqQAAAAASUVORK5CYII=);
         background-repeat: repeat-y;
-        background-position: 68%;
-        @media (min-width: $max-width) {
-          background-position: 69%;
-        }
+        background-position: 76%;
       }
 
       & > article {
         @media (min-width: $large-screen) {
-          @include span-columns(8);
+          @include span-columns(9);
         }
       }
       & > aside {
         @media (min-width: $large-screen) {
-          @include span-columns(4);
-        }
-        @media (min-width: $max-width) {
-          padding-left: $base-spacing*2;
+          @include span-columns(3);
         }
 
         & > section {
