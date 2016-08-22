@@ -6,7 +6,7 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        
+
         {% include header.html %}
         <main class="cd-main-content">
             {{ content }}
@@ -24,7 +24,7 @@
                     <li><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
                     {% endfor %}
                 </ul>
-                    
+
                 {% else %}
                 <li>
                     <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
@@ -34,11 +34,28 @@
             </ul>
             {% include social-links.html %}
         </nav>
-        
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
         <script src="{{ "/js/plugins.js" | prepend: site.baseurl }}"></script>
         <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+
+        {% if page.aside == true and site.twitter_feed %}
+        <script src="{{ "/js/vendor/twitterFetcher_min.js" | prepend: site.baseurl }}"></script>
+        <script>
+          var configProfile = {
+            "id": '{{ site.twitter_feed }}',
+            "domId": 'twitter',
+            "maxTweets": 5,
+            "enableLinks": true,
+            "showUser": true,
+            "showTime": false,
+            "showImages": false,
+            "lang": 'en'
+          };
+          twitterFetcher.fetch(configProfile);
+        </script>
+        {% endif %}
 
         {% if site.googleanalytics %}
         <script>

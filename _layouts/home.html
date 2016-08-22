@@ -1,13 +1,11 @@
 ---
 layout: default
-aside: true
 ---
 {% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign future_e = future_events | split:"@@" %}
 
 {% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
 {% assign featured_e = featured_events | split:"@@" %}
-
 
 <div class="home">
     <div class="banner">
@@ -17,7 +15,7 @@ aside: true
             </span>
         </div>
     </div>
-    <div class="{% if layout.aside == true %}aside {% endif %}wrapper">
+    <div class="{% if page.aside == true %}aside {% endif %}wrapper">
       <article>
 
         <section>
@@ -48,7 +46,7 @@ aside: true
         </section>
 
       </article>
-      {% if layout.aside == true %}
+      {% if page.aside == true %}
       <aside>
         {% include aside.html %}
       </aside>
