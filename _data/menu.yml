@@ -12,8 +12,9 @@
     - subtitle: "Partners"
       subslug: "partners"
 
-- title: "Events"
-  slug: "events"
+# - title: "Events"
+#  slug: "events"
+# disabled due to inactivity
 
 - title: "Blog"
   slug: "blog"

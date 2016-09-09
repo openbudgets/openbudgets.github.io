@@ -1,5 +1,6 @@
-- title: "About"
-  slug: "about"
+# - title: "About"
+#  slug: "about"
+# disabled as already featurd above
 
 - title: "Work Packages"
   slug: "about/work-packages"
