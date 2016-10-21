@@ -10,7 +10,7 @@ image:      ../assets/posts/2016-10/BBC-Wise.jpg
 excerpt:    >
   Over the years we have seen a number of MEPs getting into trouble over the use of their expenses.
 ---
-_A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/) that originally appeared on TI EU's website_
+_A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/) that first appeared [here](http://www.transparencyinternational.eu/2016/10/we-need-to-talk-about-meps-expenses/)._
 
 !["BBC article "]({{site.baseurl}}/assets/posts/2016-10/BBC-Wise.jpg)
 
