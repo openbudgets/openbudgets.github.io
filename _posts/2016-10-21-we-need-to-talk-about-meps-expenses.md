@@ -8,10 +8,11 @@ author_affiliation: Transparency International EU Office
 author_affiliation_link: http://www.transparencyinternational.eu/
 image:      ../assets/posts/2016-10/BBC-Wise.jpg
 excerpt:    >
-  Let's say there were two EU-funded projects: a Greek one from 2013 that cost 1 million eur, and a Romanian one from 2007 that cost 4 million lei. Which of the projects was more expensive? While this question seems deceptively simple, providing a correct answer is not as straightforward as we might expect. Moreover, the ability to compare money is essential for analyses of fiscal data, so it is important we get this answer right.
+  Over the years we have seen a number of MEPs getting into trouble over the use of their expenses.
 ---
+_A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/) that first appeared [here](http://www.transparencyinternational.eu/2016/10/we-need-to-talk-about-meps-expenses/)._
 
-_A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/)_
+!["BBC article "]({{site.baseurl}}/assets/posts/2016-10/BBC-Wise.jpg)
 
 Over the years we have seen a number of MEPs getting into trouble over the use of their expenses. Former Member of the European Parliament (MEP) [Peter Skinner](http://www.bbc.com/news/uk-england-sussex-36167299) was sentenced to a four-year jail sentence for fraudulently claiming about €120,000 over five years, which was used to pay for among other things, alimony and a classic car. Unfortunately this was not an isolated case. Tom Wise, a former UKIP MEP, [was sentenced](http://www.telegraph.co.uk/news/politics/6545334/Disgraced-ex-Ukip-MEP-Tom-Wise-jailed-for-two-years-for-expenses-fraud.html) to two years in prison after spending thousands of his office allowance on crates of vintage wines and personal credit card bills. And the _Front National_ delegation of Marine Le Pen in the European Parliament has been [referred to OLAF](http://www.transparencyinternational.eu/wp-content/uploads/2016/10/2015-03-10-PR-OLAF-investigation-into-FN.pdf) (the European Union Anti-Fraud Office) for possible fraud involving staff allowances.
 
