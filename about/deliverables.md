@@ -11,7 +11,7 @@ title: Deliverables
 | 	 | D1.2 Design of data structure definition for public budget data | [Download (960KB)]({{site.baseurl}}/assets/deliverables/D1.2.pdf) |  
 |    | D1.3 Design of data structure definition for public spending data    | [Download (951KB)]({{site.baseurl}}/assets/deliverables/D1.3.pdf)   
 | 	 | D1.4 User documentation | [Download (888KB)]({{site.baseurl}}/assets/deliverables/D1.4.pdf)
-| 	 | D1.5 Final release of data definitions for public finance data |
+| 	 | D1.5 Final release of data definitions for public finance data | [Download (1,6MB)]({{site.baseurl}}/assets/deliverables/D1.5.pdf)
 | 	 |  D1.6 Survey of code lists for the data model’s coded dimensions | [Download (2,1MB)]({{site.baseurl}}/assets/deliverables/D1.6.pdf) |
 | 	 | D1.7 Extraction and transformation of relevant code lists | [See code list repo](https://github.com/openbudgets/Code-lists) |
 | 	 | D1.8 Linking of data structure definitions to vocabularies | [Download (460KB)]({{site.baseurl}}/assets/deliverables/D1.8.pdf)
