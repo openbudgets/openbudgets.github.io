@@ -34,4 +34,4 @@ Besides listing ingredients the recipes include a step by step instruction of ho
 ### And for dessert?
 
 
-A basics section further provides valuable background information about [wealth](http://www.cookingbudgets.com/basics/), [the public sector](http://www.cookingbudgets.com/public-sector/) and [accrual accounting](http://www.cookingbudgets.com/accrual-accounting/). You are more than welcome to write or share a recipe. Contact [Cooking Budgets](mailto:chef@cookingbudgets.com) to receive help to get started.
+A basics section further provides valuable background information about [wealth](http://www.cookingbudgets.com/basics/), [the public sector](http://www.cookingbudgets.com/public-sector/) and [accrual accounting](http://www.cookingbudgets.com/accrual-accounting/). You are more than welcome to write or share a recipe. Contact [Cooking Budgets](mailto:chef@cookingbudgets.com) for help. 
