@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cooking Budgets - Do not miss these yummy recipes!
+title:      Cooking Budgets: A Satirical Collection of Recipes for Corruption
 date:       2016-10-28
 categories: post
 author:     Johanna zum Felde and Bela Seeger
