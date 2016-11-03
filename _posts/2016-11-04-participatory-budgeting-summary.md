@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      7 Tips to write better Participatory Budgeting Tutorials
+title:      7 Recommendations to write better Participatory Budgeting Tutorials
 date:       2016-11-02
 categories: post
 author:     Johanna zum Felde
@@ -19,7 +19,7 @@ For the report "How to make Participatory Budgeting Tutorials - an Inventory" we
 
 Good tutorials have the following components: well-structured, brief without neglecting detail, attractive, findable, engaging, and innovative. An often overlooked, but highly important aspect is accountability. This means that the outcomes of the process need to be communicated back to the citizens, participants need to receive feedback on how their input and the proposals they have voted for are implemented. We have summarized these seven points from the report in a hands-on list: 
 
-### 7 tips for tutorial writing:
+### 7 recommendations for tutorial writing:
 
 ###### 1. *Structure*
 
