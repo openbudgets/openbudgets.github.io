@@ -6,7 +6,7 @@ categories: post
 author:     Johanna zum Felde
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: http://openbudgets.eu/about/partners/okfde/
-image:      ../assets/posts/2016-11/pb-tutorials.png
+image:      ../assets/posts/2016-11/pbblog2.png
 excerpt:    >
   In over 1,500 cities around the world citizens can decide how part of the budget is spent. These participatory budgeting processes are often accompanied with material of some form to inform and involve citizens. While these materials play a very important role, their type, content and design varies greatly, which leads to more and less valuable results. The question then is what are best practices for tutorial writing, especially for conveying complex topics such as participatory budgeting.
 ---

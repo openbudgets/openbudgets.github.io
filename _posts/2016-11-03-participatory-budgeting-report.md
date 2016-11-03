@@ -6,7 +6,7 @@ categories: resources
 author:     Bela Seeger
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: http://openbudgets.eu/about/partners/okfde/
-image: ../assets/posts/2016-11/pb-tutorials.png
+image: ../assets/posts/2016-11/pbblog1.png
 excerpt:    >
   Participatory Budgeting is defined by the World Bank as “a process through which citizens can contribute to decision making over at least part of a governmental budget". At the start of such processes, two prerequisites need to be met: citizens need information to understand the relevant aspects of the budgeting procedure, and they need to be sufficiently motivated to engage in the participatory budgeting process. 
 ---
