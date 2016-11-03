@@ -5,6 +5,9 @@ Best Practices from Government’s Financial Transparency Portals "
 date:   2016-07-11
 categories: resources
 image: ../assets/posts/2016-07/beautifulbudgets.png
+author:     Bela Seeger
+author_affiliation: Open Knowledge Foundation Deutschland
+author_affiliation_link: http://openbudgets.eu/about/partners/okfde/
 ---
 **Fiscal transparency** is defined by the [IMF](http://www.imf.org/external/np/fad/trans/) as “the comprehensiveness, clarity, reliability, timeliness, and relevance of public reporting on the past, present, and future state of public finances”. For journalists, parliamentarians and citizens alike, fiscal transparency can mean an unobstructed view into the financial affairs of the state. 
 
@@ -17,4 +20,4 @@ But, what does that mean concretely? **How does one do ‘fiscal transparency’
 <a href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf" target="_blank"><img src="http://openbudgets.eu/assets/posts/2016-07/beautifulbudgets.png" alt="Making Budgets Attractive" width="212" height="300"></a></td>
 <td style="vertical-align:middle; border:none;">
 <ul>
-<li><h5><a target="_blank" href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf">Download as PDF</a>.</h5></li>
+<h5><a target="_blank" href="http://openbudgets.eu/assets/resources/Report-Laemmerhirt-Making-Budgets-Attractive.pdf">Download as PDF</a></h5>
