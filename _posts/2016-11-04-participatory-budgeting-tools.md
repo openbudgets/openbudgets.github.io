@@ -13,7 +13,8 @@ excerpt:    >
 
 **Announce! Vote! Monitor!  New Tools for Participatory Budgeting**
 
-Participatory budgeting has three phases: generating project ideas, debating and voting, and implementing and monitoring. So far, there was not one integrated tool that all the different stakeholders could use to support all three participatory budgeting phases. We have developed an interface that combines the different user needs for voting, monitoring and announcing budget processes. 
+Our partner [ Civio](http://www.civio.es/) - a non-for-profit organization, specialized in data journalism, investigative journalism, and visualizations - has developed an interface that combines the different user needs for voting, monitoring and announcing budget processes. As the front-runner in the field of visualisation public procurement, budgets and expenditure, governmental pardons, public-private power networks and conflicts of interests in Spain, it is part of their advocacy agenda to close the feedback loop in the decision-making cycle. These new tools for participatory budgeting strengthen the feedback and contribute to meaningful change. Participatory budgeting has three phases: generating project ideas, debating and voting, and implementing and monitoring. So far, there was not one integrated tool that all the different stakeholders could use to support all three participatory budgeting phases. 
+
 
 <img alt="Data Art" src="{{site.baseurl}}/assets/posts/2016-11/pb-app.png" width="850"/>
 
