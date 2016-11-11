@@ -17,7 +17,7 @@ The process of modelling a dataset is described through all necessary steps and 
 
 
 <tbody><tr style="border: none"><td style="border: none">
-<a href="{{site.baseurl}}/assets/resources/Report-OpenBudgets-Participatory-Budgeting.pdf" target="_blank"><img src="{{site.baseurl}}/assets/posts/2016-11/pbdatamodel.png" alt="Making Budgets Attractive" width="212" height="300"></a></td>
+<a href="{{site.baseurl}}/assets/resources/Report-OpenBudgets-Data-Model.pdf" target="_blank"><img src="{{site.baseurl}}/assets/posts/2016-11/pbdatamodel.png" alt="Making Budgets Attractive" width="212" height="300"></a></td>
 <td style="vertical-align:middle; border:none;">
 <ul>
 <h5><a target="_blank" href="{{site.baseurl}}/assets/resources/Report-OpenBudgets-Data-Model.pdf">Download as PDF</a></h5>
