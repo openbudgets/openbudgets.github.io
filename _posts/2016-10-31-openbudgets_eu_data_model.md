@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The OpenBudgets.eu data model
-date:       2016-10-31
+date:       2016-11-11
 categories: post
 author:     Jindřich Mynarz
 author_affiliation: University of Economics, Prague
