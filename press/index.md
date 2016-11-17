@@ -27,10 +27,10 @@ Download past OpenBudgets press releases in different languages below:
 **First press release: Launch of the project as a whole.**
 
 * [English](http://us5.campaign-archive1.com/?u=929f1e07936386d34833e20d1&id=9c8bb8a81e&e=%5BUNIQID%5D) 
-* [Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf),
-* [French]({{site.baseurl}}/assets/press_releases/pr1-french.pdf),
-* [Spanish]({{site.baseurl}}/assets/press_releases/pr1-spanish.pdf),
-* [Portugese / Brazil]({{site.baseurl}}/assets/press_releases/pr1-portugese-brazil.pdf).
+* [Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf)
+* [French]({{site.baseurl}}/assets/press_releases/pr1-french.pdf)
+* [Spanish]({{site.baseurl}}/assets/press_releases/pr1-spanish.pdf)
+* [Portugese / Brazil]({{site.baseurl}}/assets/press_releases/pr1-portugese-brazil.pdf)
 
 
 
