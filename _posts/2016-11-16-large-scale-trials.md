@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Tender for Large Scale Trials
+title:      Tender for Large Scale Trials is open
 date:       2016-11-16
 categories: post
 author:     Bela Seeger
