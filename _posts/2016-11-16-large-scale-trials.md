@@ -6,7 +6,7 @@ categories: post
 author:     Bela Seeger
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: http://openbudgets.eu/about/partners/okfde/
-image:      ../assets/posts/2016-11/pb-app.png
+image:      ../assets/posts/2016-11/lst-deutsche-vergabe.png
 excerpt:    >
   OpenBudgets.eu has launched a call for tender for the improvement of transparency and modernization of budget and spending data directed at municipalities, regional governments, and qualified legal entities.
 ---
@@ -21,7 +21,10 @@ To find the tender document including the full set of criteria and all other det
 
 1. Visit [http://simap.europa.eu/enotices/](http://simap.europa.eu/enotices/) or [http://www.deutsche-evergabe.de/index.html](http://www.deutsche-evergabe.de/index.html)
 2. Search for keywords such as **Fraunhofer** or **OpenBudgets**
-3. Select the correct call for Tender
+3. Select the correct call for Tender (see screenshot below)
+
+<img alt="Data Art" src="{{site.baseurl}}/assets/posts/2016-11/lst-deutsche-vergabe.png" width="850"/>
+
 
 ##### The deadline for applicants is the **20th of December 2016**.
 
