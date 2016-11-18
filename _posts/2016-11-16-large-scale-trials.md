@@ -23,7 +23,7 @@ To find the tender document including the full set of criteria and all other det
 2. Search for keywords such as **Fraunhofer** or **OpenBudgets**
 3. Select the correct call for Tender (see screenshot below)
 
-<img alt="Data Art" src="{{site.baseurl}}/assets/posts/2016-11/lst-deutsche-vergabe.png" width="850"/>
+<img alt="Screenshot of Tender Call" src="{{site.baseurl}}/assets/posts/2016-11/lst-deutsche-vergabe.png" width="850"/>
 
 
 ##### The deadline for applicants is the **20th of December 2016**.
