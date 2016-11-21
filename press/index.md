@@ -12,9 +12,16 @@ Receive the press releases directly: subscribe to our [Press List](http://eepurl
 Download past OpenBudgets press releases in different languages below:
 
 
+**Press Release 3: OpenBudgets Beta Launch.**
+* [English](/assets/press_releases/EN_OBEU_Beta_Launch.pdf)
+* [German](/assets/press_releases/DE_OBEU_Beta_Launch.pdf)
+* [French](/assets/press_releases/FR_OBEU_Beta_Launch.pdf)
+* [Spanish](/assets/press_releases/ES_OBEU_Beta_Launch.pdf)
+* [Greek](/assets/press_releases/GR_OBEU_Beta_Launch.pdf)
+* [Czech](/assets/press_releases/CZ_OBEU_Beta_Launch.pdf)
 
 
-**Second press release: Tender for Large Scale Trials.**
+**Press Release 2: Tender for Large Scale Trials.**
 
 * [English](/assets/press_releases/EN_Call_for_Large_Scale_Trials_OBEU.pdf)
 * [German](/assets/press_releases/DE_Call_for_Large_Scale_Trials_OBEU.pdf)
@@ -24,7 +31,7 @@ Download past OpenBudgets press releases in different languages below:
 * [Czech](/assets/press_releases/CZ_Call_for_Large_Scale_Trials_OBEU.pdf)
 
 
-**First press release: Launch of the project as a whole.**
+**Press Release 1: Launch of the project as a whole.**
 
 * [English](http://us5.campaign-archive1.com/?u=929f1e07936386d34833e20d1&id=9c8bb8a81e&e=%5BUNIQID%5D) 
 * [Greek]({{site.baseurl}}/assets/press_releases/pr1-greek.pdf)
