@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Prototype of Indigo released to the public
-date:       2016-11-18
+date:       2016-11-17
 categories: post
 author:     Bela Seeger
 author_affiliation: Open Knowledge Foundation Deutschland
