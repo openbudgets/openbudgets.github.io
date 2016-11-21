@@ -13,6 +13,7 @@ Download past OpenBudgets press releases in different languages below:
 
 
 **Press Release 3: OpenBudgets Beta Launch.**
+
 * [English](/assets/press_releases/EN_OBEU_Beta_Launch.pdf)
 * [German](/assets/press_releases/DE_OBEU_Beta_Launch.pdf)
 * [French](/assets/press_releases/FR_OBEU_Beta_Launch.pdf)
