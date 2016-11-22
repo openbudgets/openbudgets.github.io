@@ -6,11 +6,11 @@ categories: post
 author:     Bela Seeger
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: http://openbudgets.eu/about/partners/okfde/
-image:      ../assets/posts/2016-11/indigo.png
+image:      ../assets/posts/2016-11/prototypelogos.png
 excerpt:    >
   # OpenBudgets prototype officially launched!
 
-  ![alt text](http://i.imgur.com/sl2lcW9.png" "OpenBudgets Prototype launch")
+  ![alt text]({{site.baseurl}}/assets/posts/2016-11/prototypelogos.png" "OpenBudgets Prototype launch")
   
   For the beta version, we have developed tools around the three pillars of the project: <b>data analytics</b>, <b>citizen engagement</b>, and <b>journalism</b>. In the realm of data analytics, we present a  time series forecasting algorithm that integrates with OpenSpending and predicts and visualizes the development of budgets into the future. As for citizen engagement, the participatory budgeting interface lets users preview the interaction with the budget allocation process. Finally, the highly praised ‘budget cooking recipes’ website highlights the journalistic value of budget data by listing cases in which it has been used to investigate corruption. 
 
@@ -27,11 +27,10 @@ For the <b>beta version</b>, we have developed tools around the three pillars of
 
 [Open Knowledge Greece](http://okfn.gr/), a chapter of the Open Knowledge Network based in Thessaloniki and partner in OpenBudets.eu has now developed **Indigo**. Using the tool, you can perform time series analysis of budget data, and create your own fiscal indicators. In the future, you will be able to apply many more algorithms. 
 
----
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/s2JzqX7c5WU" frameborder="0" allowfullscreen></iframe></center>
 
----
+
 
 [Click here](http://openbudgets.eu/post/2016/11/18/indigo-released/) to read the full blogpost on Indigo.
 
