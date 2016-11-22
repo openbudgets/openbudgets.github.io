@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " The OpenBudgets Data Model and the Surrounding Landscape "
-date:   2016-11-18
+date:   2016-11-17
 categories: resources
 author:     Bela Seeger
 author_affiliation: Open Knowledge Foundation Deutschland

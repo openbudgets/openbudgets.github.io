@@ -10,8 +10,9 @@ image:      ../assets/posts/2016-11/prototypelogos.png
 excerpt:    >
   # OpenBudgets prototype officially launched!
 
-  ![alt text]({{site.baseurl}}/assets/posts/2016-11/prototypelogos.png" "OpenBudgets Prototype launch")
+  <img alt="Screenshot of cookingbudgets.com" src="http://i.imgur.com/sl2lcW9.png" width="700"/>
   
+
   For the beta version, we have developed tools around the three pillars of the project: <b>data analytics</b>, <b>citizen engagement</b>, and <b>journalism</b>. In the realm of data analytics, we present a  time series forecasting algorithm that integrates with OpenSpending and predicts and visualizes the development of budgets into the future. As for citizen engagement, the participatory budgeting interface lets users preview the interaction with the budget allocation process. Finally, the highly praised ‘budget cooking recipes’ website highlights the journalistic value of budget data by listing cases in which it has been used to investigate corruption. 
 
 
