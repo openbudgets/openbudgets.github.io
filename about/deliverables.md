@@ -49,8 +49,8 @@ title: Deliverables
 | 	 | D7.3 Tool for monitoring budget executions | [Download (505KB)]({{site.baseurl}}/assets/deliverables/D7.3.pdf)
 | 	 | D7.4 Educational material/ resources | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D7.4.pdf)
 | 	 | D7.5 Tool Implementation |
-| 	 | D7.6 Call for large-scale Trials |
-| 	 | D7.7 Large-scale trial report including best practices | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D7.6.pdf)
+| 	 | D7.6 Call for large-scale Trials |  [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D7.6.pdf)
+| 	 | D7.7 Large-scale trial report including best practices | 
 | WP8	 | D8.1 Fact sheet & continuously updated website, social media |
 | 	 | D8.2 Dissemination strategy, materials, press rel. & testimonials | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D8.2.pdf)
 | 	 | D8.3 Stakeholder identification and outreach plan | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D8.3.pdf)
