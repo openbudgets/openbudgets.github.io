@@ -25,7 +25,7 @@ title: Deliverables
 | 	 | D3.2 Visualisations Creation Framework |  [Download (1,5MB)]({{site.baseurl}}/assets/deliverables/D3.2.pdf)
 | 	 | D3.3 Comparative analysis presentation & creation tools |
 | 	 | D3.4 Packaging specifications |
-| 	 | D3.5 Demonstration visualisations |
+| 	 | D3.5 Demonstration visualisations |  [Download (579KB)]({{site.baseurl}}/assets/deliverables/D3.5.pdf)
 | 	 | D3.6 Spending & Budget visualisation Social Network features |  [Download (344KB)]({{site.baseurl}}/assets/deliverables/D3.6.pdf)
 | WP4	 | D4.1 Specification of services’ Interfaces | [Download (528KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf) |
 | 	 | D4.2 Analysis of the required functionality of OpenBudgets.eu | [Download (573KB)]({{site.baseurl}}/assets/deliverables/D4.2.pdf)
@@ -34,7 +34,7 @@ title: Deliverables
 | 	 | D4.5 Integrated OpenBudgets.eu Platform – Final |
 | WP5	 | D5.1 User Requirement Reports - First Cycle | [Download (700KB)]({{site.baseurl}}/assets/deliverables/D5.1.pdf)
 | 	 | D5.2 User Requirement Reports - Second Cycle | [Download (3MB)]({{site.baseurl}}/assets/deliverables/D5.2.pdf)
-| 	 | D5.3 User Requirement Reports - Final Cycle |
+| 	 | D5.3 User Requirement Reports - Final Cycle | [Download (1,4MB)]({{site.baseurl}}/assets/deliverables/D5.3.pdf)
 | 	 | D5.4 Workshops Report |
 | 	 | D5.5 Tool Building and Tailoring Report |
 | WP6	 | D6.1 MEP Questionnaire | [Download (314KB)]({{site.baseurl}}/assets/deliverables/D6.1.pdf)
@@ -50,7 +50,7 @@ title: Deliverables
 | 	 | D7.4 Educational material/ resources | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D7.4.pdf)
 | 	 | D7.5 Tool Implementation |
 | 	 | D7.6 Call for large-scale Trials |
-| 	 | D7.7 Large-scale trial report including best practices |
+| 	 | D7.7 Large-scale trial report including best practices | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D7.6.pdf)
 | WP8	 | D8.1 Fact sheet & continuously updated website, social media |
 | 	 | D8.2 Dissemination strategy, materials, press rel. & testimonials | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D8.2.pdf)
 | 	 | D8.3 Stakeholder identification and outreach plan | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D8.3.pdf)
