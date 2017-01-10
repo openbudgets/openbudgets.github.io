@@ -33,7 +33,7 @@ For the <b>beta version</b>, we have developed tools around the three pillars of
 
 
 
-[Click here](http://openbudgets.eu/post/2016/11/18/indigo-released/) to read the full blogpost on Indigo.
+[Click here](http://openbudgets.eu/post/2016/11/17/indigo-released/) to read the full blogpost on Indigo.
 
 ---
 
