@@ -11,7 +11,7 @@ _A post by Anna Alberts of [OKF DE](http://www.okfn.de/en/)._
 
 How can we track EU spending across Europe?
  
-EU-spending is often portrayed as intransparent and at risk of corruption or waste. Now that the debate about the EU across member states heightens, those in favour of less Europe paint a picture of money-squandering institutions and unaccountable “eurocrats”. But with so much rumour and speculation it begs the questions: how does the EU actually spends its money? How transparent are EU budgets and funds and can how we track EU spending?
+EU-spending is often portrayed as intransparent and at risk of corruption or waste. Now that the debate about the EU across member states heightens, those in favour of less Europe paint a picture of money-squandering institutions and unaccountable “eurocrats”. But with so much rumour and speculation it begs the questions: how does the EU actually spends its money? How transparent are EU budgets and funds and how can we track EU spending?
  
 In the past, [Open Spending](https://openspending.org) and [Open Knowledge International](http://okfn.org) have already done in-depth research on this topic in the report: “How does the EU spend its money”[1]. This report shows one thing clearly: EU spending is complex.
  
