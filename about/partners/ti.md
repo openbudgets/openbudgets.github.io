@@ -5,7 +5,7 @@ title: Transparency International EU Office
 
 ![TI Logo]({{site.baseurl}}/img/logos/TI.png "TI Logo")
 
-[Transparency International EU Office Website](http://www.transparencyinternational.eu/)
+[Transparency International EU Office Website](http://www.transparency.eu/)
 
  
 Transparency International’s Liaison Office to the EU (TI-EU) is the regional umbrella organisation of TI, the leading global CSO dedicated to the fight against corruption. TI-EU promotes transparency, integrity and accountability so citizens’ lives in the EU are free from corruption. 

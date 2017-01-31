@@ -10,7 +10,7 @@ image:      ../assets/posts/2017-01/Parliament.jpg
 excerpt:    >
   An investigation by Transparency International EU Office has uncovered three ways MEPs fiddle with expenses.
 ---
-_A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/) that first appeared [here](http://transparency.eu/expenses/)._
+_A post by Nick Aiossa of [Transparency International EU Office](http://transparency.eu/) that first appeared [here](http://transparency.eu/expenses/)._
 
 
 <img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-01/titleimage.png">
