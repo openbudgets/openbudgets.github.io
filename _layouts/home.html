@@ -18,6 +18,19 @@ layout: default
     <div class="{% if page.aside == true %}aside {% endif %}wrapper">
       <article>
 
+        {% if page.video %}
+        <section class="video">
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </section>
+        {% endif %}
+
+        <section>
+          {{ content | markdownify }}
+          <a href="{{ site.baseurl }}/about/objectives/">Our objectives</a>
+        </section>
+
         <section class="blog-posts">
           <h2>Recently published on the blog</h2>
           {% for post in site.categories.post limit:2  %}
@@ -32,21 +45,6 @@ layout: default
           {% endfor %}
         </section>
 
-
-
-        {% if page.video %}
-        <section class="video">
-          <div class="video-wrapper">
-            <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-          </div>
-        </section>
-        {% endif %}
-
-        <section>
-          {{ content | markdownify }}
-          <a href="{{ site.baseurl }}/about/objectives/">Our objectives</a>
-        </section>
-        
       </article>
       {% if page.aside == true %}
       <aside>

@@ -13,17 +13,7 @@ excerpt:    >
 _A post by Nick Aiossa of [Transparency International EU Office](http://transparencyinternational.eu/) that first appeared [here](http://transparency.eu/expenses/)._
 
 
-
-© European Union 2017 – European Parliament.jpg
-
-
-# 3 ways MEPs can fiddle expenses
-
-
-##### Author
-
-[Nicholas Aiossa](http://transparency.eu/author/nicholas-aiossa/)
-
+<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-01/titleimage.png">
 
 
 The Westminster [expenses scandal](https://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal) in the UK back in 2009 made headlines with journalists uncovering parliamentarians using their expenses to redecorate their home homes, evade taxes and one MP even used expenses to build a [duck house](https://www.theguardian.com/politics/2009/may/23/mps-expenses-conservatives). This lead to a [massive overhaul](https://www.theguardian.com/politics/2016/may/17/mps-expenses-martin-williams-parliament-ltd) of how the whole expenses system was run and increased transparency around what MPs were spending tax payers’ money on.
@@ -36,7 +26,7 @@ The secretarial allowance, used by MEPs to pay their staff, amounts to €24,164
 
 The latest example has seen Marine Le Pen and Front National embroiled in a [fraud case in France](http://www.politico.eu/article/marine-le-pens-party-under-investigation-for-fraud-national-front/) and having the [European Parliament trying to recover €339,000](http://www.politico.eu/article/european-parliament-seeks-339000-euros-from-marine-le-pen-national-front-france/) for misusing their staff allowance. But this budget line has been a risk area for years. The infamous 2008 European Parliament [Internal Audit Report](http://www.europarl.europa.eu/register/audit/EP-PE_ADT(2006)0002_EN.pdf), also known as the “Galvin Report” after the internal auditor who authored it, documented risks in the control of these expenses and the numerous ways MEPs were fiddling with it; from concluding service provider contracts with companies owned by the MEP to funnelling money back to domestic political parties.
 
-> There are five categories of staff that MEPs can use their allowance to pay. Accredited Parliamentary Assistants, who are based in Brussels and who maintain a direct contract with the Parliament. Local parliamentary assistants, who are based in an MEP’s constituency and have a private employment relationship with the MEP. Service provider and intern contracts, which are temporary contracts signed with the MEP, and paying agents, who manage the local contracts to ensure the requisite national taxes and contributions are paid.
+There are five categories of staff that MEPs can use their allowance to pay. Accredited Parliamentary Assistants, who are based in Brussels and who maintain a direct contract with the Parliament. Local parliamentary assistants, who are based in an MEP’s constituency and have a private employment relationship with the MEP. Service provider and intern contracts, which are temporary contracts signed with the MEP, and paying agents, who manage the local contracts to ensure the requisite national taxes and contributions are paid.
 
 Since 2008, the statutory and internal rules on transparency have improved. Rules governing contract controls have been enhanced and the names of assistants and service providers are now published on the [Parliament’s website](http://www.europarl.europa.eu/meps/en/assistants.html). Yet, we still see irregularities and fraudulent activities by MEPs with their staff allowance.
 
