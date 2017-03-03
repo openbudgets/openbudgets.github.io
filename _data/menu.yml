@@ -19,6 +19,9 @@
 - title: "Blog"
   slug: "blog"
 
+- title: "Tools"
+  slug: "tools"
+
 - title: "Contact"
   slug: "contact"
 
