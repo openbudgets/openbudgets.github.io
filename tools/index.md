@@ -5,20 +5,33 @@ title: "OpenBudgets.eu Tools"
 
 
 
-We, the OpenBudgets consortium, have produced a number of tools and resources in the course of the project that will eventually be incorporated into the final platform. View a selection of those tools below. 
+We, the OpenBudgets consortium, have produced a number of tools and resources in the course of the project that will eventually be incorporated into the final platform. Find information on the individual tools below. 
 
 
 ---
 
 
-| **Tool**: |  Participatory Budgeting Portal   |Data Mining Tool Collection  | LinkedPipes ETL  | Cooking Budgets  | 
+| **Tool**: |  Participatory Budgeting Portal   | Data Mining Tool Collection  | LinkedPipes ETL  | Cooking Budgets  | 
 |----|---------|----------|-----------|----------------------------------|
 | **Description**: |  An open-source tool for public administrations to use when consulting their citizens about how to allocate the budget and approval. | A series of data mining tools resulting in novel and powerful ways to gain insights into budget data.  |   A tool for handling and publishing web data primarily in RDF according to the Linked Open Data principles. | A collection of worst-practices by public officials to enrich themselves or otherwise mismanage public funds.      |  
-| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - CiViO.pdf)**    | **[Download](/assets/tools/OBEU Tool - Data Mining Tools.pdf)**    | **[Download](/assets/tools/OBEU Tool - LinkedPipes ETL.pdf)** | **[Download](/assets/tools/OBEU Tool - Cookding Budgets.pdf)** |
-| **Partners**: | **[CiViO](/about/partners/civio/)**  | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)** | **[University of Economics, Prague](/about/partners/vse/)**   |  **[J++](/about/partners/j++/)** |  
+| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - CiViO.pdf)**    | **[Download](/assets/tools/OBEU Tool - Data Mining Tools.pdf)**    | **[Download](/assets/tools/OBEU Tool - LinkedPipes ETL.pdf)** | **[Download](/assets/tools/OBEU Tool - Cooking Budgets.pdf)** |
+| **Partners**: | **[CiViO](/about/partners/civio/)**  | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**, **[University of Economics, Prague](/about/partners/vse/)**, **[Open Knowledge Greece](/about/partners/okgr/)**  | **[University of Economics, Prague](/about/partners/vse/)**   |  **[J++](/about/partners/j++/)** |  
+|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - CiViO.png" alt="Making Budgets Attractive" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Data Mining Tools.png" width="200" height="300">  | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - LinkedPipes ETL.png" width="200" height="300"> | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Cooking Budgets.png" width="200" height="300"> |
 
+---
+---
 
+| **Tool**: |  Microsite   | Indigo  |  OpenSpending |  KPI  | 
+|----|---------|----------|-----------|----------------------------------|
+| **Description**: |  A lean and powerful interface to facilitate citizen interaction with budgets. | Perform time series analysis of budget data, and create your own fiscal indicators.  | *coming soon* | *coming soon* |  
+| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Microsite.pdf)**    | **[Download](/assets/tools/OBEU Tool - Indigo.pdf)**    |  |  |
+| **Partners**: | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**  | **[Open Knowledge Greece](/about/partners/okgr/)**  |    |   |  
+|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Microsite.png" alt="Making Budgets Attractive" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Indigo.png" width="200" height="300">  |  |  |
 
+---
+---
+---
+---
 
 <p>For interview requests and further information please contact:</p>
 
