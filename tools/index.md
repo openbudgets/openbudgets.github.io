@@ -30,8 +30,6 @@ We, the OpenBudgets consortium, have produced a number of tools and resources in
 
 ---
 ---
----
----
 
 <p>For interview requests and further information please contact:</p>
 
