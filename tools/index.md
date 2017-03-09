@@ -23,10 +23,10 @@ We, the OpenBudgets consortium, have produced a number of tools and resources in
 
 | **Tool**: |  Microsite   | Indigo  |  OpenSpending |  KPI  | 
 |----|---------|----------|-----------|----------------------------------|
-| **Description**: |  A lean and powerful interface to facilitate citizen interaction with budgets. | Perform time series analysis of budget data, and create your own fiscal indicators.  | *coming soon* | *coming soon* |  
-| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Microsite.pdf)**    | **[Download](/assets/tools/OBEU Tool - Indigo.pdf)**    |  |  |
-| **Partners**: | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**  | **[Open Knowledge Greece](/about/partners/okgr/)**  |    |   |  
-|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Microsite.png" alt="Making Budgets Attractive" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Indigo.png" width="200" height="300">  |  |  |
+| **Description**: |  A lean and powerful interface to facilitate citizen interaction with budgets. | Perform time series analysis of budget data, and create your own fiscal indicators.  | A platform that offers a set of components for working with fiscal data. |  |  
+| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Microsite.pdf)**    | **[Download](/assets/tools/OBEU Tool - Indigo.pdf)**    | **[Download](/assets/tools/OBEU Tool - OpenSpending.pdf)** | *coming soon* |
+| **Partners**: | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**  | **[Open Knowledge Greece](/about/partners/okgr/)**  |  **[Open Knowledge International](/about/partners/oki/)**  |   |  
+|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Microsite.png" alt="Making Budgets Attractive" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Indigo.png" width="200" height="300">  | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - OpenSpending.png" width="200" height="300"> |  |
 
 ---
 ---
