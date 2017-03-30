@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " European Structural Funds: A Data Quality Index. "
-date:   2017-04-01
+date:   2017-03-31
 categories: resources
 author:     Michael Peters
 author_affiliation: Open Knowledge Foundation Deutschland

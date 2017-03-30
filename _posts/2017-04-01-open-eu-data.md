@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Turning European Subsidy Data into Open Data
-date:       2017-04-01
+date:       2017-03-31
 categories: post
 author:     Michael Peters
 author_affiliation: Open Knowledge Foundation Germany
