@@ -34,7 +34,7 @@ We, the OpenBudgets consortium, have produced a number of tools and resources in
 | **Description**: |  A linked data alignment tool. | A browser to gain insights into linked data.  |  |  |  
 | **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Alignment.pdf)**    | **[Download](/assets/tools/OBEU Tool - RDFBrowser.pdf)**    |  |  |
 | **Partners**: | **[Open Knowledge Greece](/about/partners/okgr/)**   | **[Open Knowledge Greece](/about/partners/okgr/)**  |    |   |  
-|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Alignment.png" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - RDFBRowser.png" width="200" height="300">  |  |  |
+|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Alignment.png" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - RDFBrowser.png" width="200" height="300">   |  |  |
 
 
 <p>For interview requests and further information please contact:</p>
