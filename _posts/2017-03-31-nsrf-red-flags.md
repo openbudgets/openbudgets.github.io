@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Red Flags in NSRF programs
-date:       2017-24-30
+date:       2017-03-31
 categories: post
 author:     Charalampos Bratsas
 author_affiliation: Open Knowledge Greece
