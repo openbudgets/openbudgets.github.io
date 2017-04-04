@@ -35,7 +35,7 @@ The ranking is based on the combination of  two scores: Portal and Data Quality.
 Our analysis showed that only 16 of 28 EU member states have an English version of their portal, closed data formats are still common with two PDFs and five webapps being used with a total of 24 member states that published their data so far in the 2014-2020 period. However, in comparison to the 2007 - 2013 funding period, the quality of the data and the level of openness has improved. These findings are based on the data collected for <a href="http://Subsidystories.eu">subsidystories.eu</a>, which shows how almost 300 Billion in European Subsidies are spent. 
 </p>
 		</td>
-		<td><img src="{{site.baseurl}}/assets/blog/2017/04/overall-rankingIII.png" ></td>
+		<td><img src="{{site.baseurl}}/assets/posts/2017-04/overall-rankingIII.png" ></td>
 		</tr>
 	</tbody>
 </table>
