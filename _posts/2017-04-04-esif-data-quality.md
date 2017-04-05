@@ -10,7 +10,7 @@ image:      ../assets/posts/2017-04/Subsidystory.png
 excerpt:    >
   Today OpenBudgets.eu presents the European Structural Funds Data Quality Index. Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal.
 ---
-_A post by Michael Peters of [Open Knowledge Foundation Germany](http://okfn.de/) that first appeared [here](https://okfn.de/blog/2017/04/open-eu-data)._
+_A post by Michael Peters of [Open Knowledge Foundation Germany](http://okfn.de/) that first appeared [here](https://okfn.de/blog/2017/04/esif-data-quality-index/)._
 
 ---
 
