@@ -11,6 +11,8 @@ excerpt:    It is that time of year again here in Brussels. As predictable as th
 ---
 *Update: On the 27th of April a majority of MEPs voted against amendments to increase transparency and financial accountability of the General Expenditure Allowance, specifically voting against keeping separate back accounts, keeping any receipts, or having to pay unused money back at the end of their mandate. See voting details [here](http://transparency.eu/wp-content/uploads/2017/05/AM1_all-parts_RCV.pdf).*
 
+*This blog is cross-posted from: http://transparency.eu/bluebells/*
+
 It is that time of year again here in Brussels. As predictable as the bluebells blooming in les bois bordering the city, the Parliament will be voting once again this week on its annual financial [discharge report](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2f%2fEP%2f%2fTEXT%2bREPORT%2bA8-2017-0153%2b0%2bDOC%2bXML%2bV0%2f%2fEN&language=EN). And, once again, MEPs will be debating and voting on whether their own allowances will be given any transparency or accountability.
 
 MEPs are entitled to a number of allowances designed to help carry out their mandate. The problem child of these various allowances is the General Expenditure Allowance (GEA). This budget line is meant for office expenses related to their work as a MEP, such as rental costs for constituency office space, phone bills, or office supplies. The GEA amounts to € 4,342 per month/per MEP and the Parliament transfers this sum to the MEPs’ bank account of their choosing, including their own personal accounts by default. The spending under this budget line amounts to just under €40 million a year in taxpayers’ money.
