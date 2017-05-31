@@ -5,10 +5,12 @@ date:       2017-05-31
 categories: post
 author:     Nick Aiossa
 author_affiliation: Transparency International EU
-author_affiliation_link: http://transparency.eu
+author_affiliation_link: transparency.eu
 image:      ../assets/posts/2017-05/IMG_20170423_155007-EFFECTS-e1493043619874-1170x684.jpg
-excerpt:    It is that time of year again here in Brussels. As predictable as the bluebells blooming in les bois bordering the city, the Parliament will be voting once again this week on its annual financial discharge report. And, once again, MEPs will be debating and voting on whether their own allowances will be given any transparency or accountability.
+excerpt:    >
+  It is that time of year again here in Brussels. As predictable as the bluebells blooming in les bois bordering the city, the Parliament will be voting once again this week on its annual financial discharge report. And, once again, MEPs will be debating and voting on whether their own allowances will be given any transparency or accountability.
 ---
+
 *Update: On the 27th of April a majority of MEPs voted against amendments to increase transparency and financial accountability of the General Expenditure Allowance, specifically voting against keeping separate back accounts, keeping any receipts, or having to pay unused money back at the end of their mandate. See voting details [here](http://transparency.eu/wp-content/uploads/2017/05/AM1_all-parts_RCV.pdf).*
 
 *This blog is cross-posted from: http://transparency.eu/bluebells/*
