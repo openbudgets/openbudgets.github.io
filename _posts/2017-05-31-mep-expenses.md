@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Budgets & bluebells in Brussels: Springtime in the European Parliament
+title:      "Budgets & bluebells in Brussels: Springtime in the European Parliament"
 date:       2017-05-31
 categories: post
 author:     Nick Aiossa
