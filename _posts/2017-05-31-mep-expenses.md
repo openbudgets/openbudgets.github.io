@@ -1,3 +1,4 @@
+
 ---
 layout:     post
 title:      Budgets & bluebells in Brussels: Springtime in the European Parliament
@@ -10,6 +11,7 @@ image:      ../assets/posts/2017-05/IMG_20170423_155007-EFFECTS-e1493043619874-1
 excerpt:    >
   It is that time of year again here in Brussels. As predictable as the bluebells blooming in les bois bordering the city, the Parliament will be voting once again this week on its annual financial discharge report. And, once again, MEPs will be debating and voting on whether their own allowances will be given any transparency or accountability.
 ---
+
 
 *Update: On the 27th of April a majority of MEPs voted against amendments to increase transparency and financial accountability of the General Expenditure Allowance, specifically voting against keeping separate back accounts, keeping any receipts, or having to pay unused money back at the end of their mandate. See voting details [here](http://transparency.eu/wp-content/uploads/2017/05/AM1_all-parts_RCV.pdf).*
 
