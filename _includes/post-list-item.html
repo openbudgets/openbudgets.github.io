@@ -11,7 +11,7 @@
         {% endif %}
         <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <div class="content">
-        {{ post.excerpt }}
+        {{ post.excerpt | markdownify }}
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
     </div>
