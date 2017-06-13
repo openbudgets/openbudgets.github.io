@@ -1,6 +1,5 @@
-# - title: "About"
-#  slug: "about"
-# disabled as already featurd above
+- title: "About"
+  slug: "about"
 
 - title: "Work Packages"
   slug: "about/work-packages"
@@ -11,9 +10,5 @@
 - title: "Technical Structure"
   slug: "about/technical-structure"
 
-- title: "Partners"
-  slug: "about/partners"
-
 - title: "Resources"
   slug: "resources"
-  

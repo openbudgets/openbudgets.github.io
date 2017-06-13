@@ -152,35 +152,34 @@ picture {
 }
 
 .banner {
-    background-color: $primary;
-    color: #fff;
-    line-height: 1.2;
+  background-color: $primary;
+  color: #fff;
 
-    a {
-      color: inherit;
-    }
+  h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+  }
+
+  .wrapper {
+    padding: $base-spacing;
 
     @media (min-width: $medium-screen) {
-        font-size: rem(18);
+      padding: $base-spacing * 2.5 $base-spacing;
     }
-
+  }
+  span {
     @media (min-width: $large-screen) {
-      background-color: #fff;
-      color: $base-font-color;
+      @include span-columns(8);
+      position: relative;
+      padding-right: $base-spacing*2;
+
+      :first-child {
+        margin-top: 0;
+      }
+      :last-child {
+        margin-bottom: 0;
+      }
     }
-
-    .wrapper {
-        padding: $base-spacing;
-
-        @media (min-width: $large-screen) {
-          padding-top: 0;
-          padding-bottom: 0;
-        }
-
-        :last-child {
-            margin-bottom: 0;
-        }
-    }
+  }
 }
 
 .video-wrapper {
@@ -194,5 +193,36 @@ picture {
   iframe {
     @include position(absolute, 0 null null 0);
     @include size(100%);
+  }
+}
+
+section.users {
+  & > div {
+    @include outer-container;
+    padding: $base-spacing;
+
+    .item {
+      display: block;
+      text-align: center;
+
+      img {
+        height: 100px;
+      }
+
+      h2 {
+        text-transform: uppercase;
+        font-size: 1.15em;
+
+        a {
+          color: inherit;
+        }
+      }
+
+      @media (min-width: $large-screen) {
+        @include span-columns(4);
+        font-size: 1.1em;
+      }
+    }
+
   }
 }

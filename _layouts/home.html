@@ -1,56 +1,43 @@
 ---
 layout: default
 ---
-{% capture future_events %}{% for event in site.data.events %}{% if event.status == 'future' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
-{% assign future_e = future_events | split:"@@" %}
-
-{% capture featured_events %}{% for event in site.data.events %}{% if event.status == 'featured' %}<h3><a href="{{ event.link }}">{{ event.title }}</a></h3><span>{{ event.description | truncate: 270 | markdownify }}</span><a href="{{ event.link }}">Join us!</a>@@{% endif %}{% endfor %}{% endcapture %}
-{% assign featured_e = featured_events | split:"@@" %}
-
 <div class="home">
-    <div class="banner">
-        <div class="wrapper">
-            <span>
-                <h1>{{ site.description }}</h1>
-            </span>
-        </div>
+  <div class="banner">
+    <div class="wrapper">
+      <span>
+        <h1>{{ site.description }}</h1>
+      </span>
     </div>
-    <div class="{% if page.aside == true %}aside {% endif %}wrapper">
-      <article>
+  </div>
 
-        {% if page.video %}
-        <section class="video">
-          <div class="video-wrapper">
-            <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-          </div>
-        </section>
-        {% endif %}
+  {% include users.html %}
 
-        <section>
-          {{ content | markdownify }}
-          <a href="{{ site.baseurl }}/about/objectives/">Our objectives</a>
-        </section>
-
-        <section class="blog-posts">
-          <h2>Recently published on the blog</h2>
-          {% for post in site.categories.post limit:2  %}
+  <section class="blog-posts">
+    <div class="wrapper">
+      <h2>Get to know new ways to discover and share fiscal datasets.</h2>
+      {% assign postnum = 0 %}
+      {% for post in site.categories.post limit:2  %}
+      {% assign postnum = postnum | plus: 1 %}
+        <article class="post-{{ postnum }}">
+          <a class="image" href="{{ site.baseurl }}{{ post.url }}">
+            <span style="background-image:url( {{ site.baseurl }}/img/{{ post.image }} )"></span>
+          </a>
+          <span class="date">{{ post.date | date: "%-d %b" }} {{ post.date | date: "%Y" }}</span>
+          <div class="text">
             <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            {% if post.author %}
-            <p class="author">
-              A post by {{ post.author }}{% if post.author_affiliation %} of <em>{% if post.author_affiliation_link %}<a href="{{ post.author_affiliation_link }}">{% endif %}{{ post.author_affiliation }}{% if post.author_affiliation_link %}</a>{% endif %}</em>{% endif %}.
-            </p>
-            {% endif %}
-            <span>{{ post.excerpt | truncate: 500 | markdownify }}</span>
-            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-          {% endfor %}
-        </section>
-
-      </article>
-      {% if page.aside == true %}
-      <aside>
-        {% include aside.html %}
-      </aside>
-      {% endif %}
+            {{ post.excerpt | truncate: 140 | markdownify }}
+          </div>
+        </article>
+      {% endfor %}
     </div>
+  </section>
+
+  <section class="about">
+    <div class="wrapper">
+      <article>
+        {{ content | markdownify }}
+      </article>
+    </div>
+  </section>
 
 </div>

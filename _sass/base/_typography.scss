@@ -17,6 +17,7 @@ h6 {
   font-size: $base-font-size;
   line-height: $heading-line-height;
   margin: $base-spacing 0 $small-spacing 0;
+  color: $heading-font-color;
 }
 
 p {
@@ -38,16 +39,6 @@ a {
   &:focus {
     outline: none;
   }
-}
-
-h1, h2, h3, h4, h5, h6,
-strong,
-b {
-    font-weight: 600;
-
-    a {
-        color: $secondary;
-    }
 }
 
 h1 {
