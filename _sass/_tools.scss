@@ -1,0 +1,47 @@
+.tools {
+  .tool-list {
+
+    .tool {
+      padding: $base-spacing;
+
+      .type {
+        color: $light-green;
+      }
+
+      img {
+        height: 100px;
+      }
+
+      .name {
+        color: $black;
+        font-size: 1.3em;
+
+        a {
+          color: inherit;
+        }
+      }
+
+      .primary-link {
+        display: block;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: $secondary;
+      }
+
+      .secondary-link {
+        display: block;
+        font-style: italic;
+      }
+
+      @media (min-width: $medium-screen) and (max-width: $large-screen){
+        @include span-columns(6);
+        @include omega(2n);
+      }
+
+      @media (min-width: $large-screen) {
+        @include span-columns(4);
+        @include omega(3n);
+      }
+    }
+  }
+}

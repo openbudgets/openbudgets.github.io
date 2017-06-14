@@ -153,10 +153,18 @@ picture {
 
 .banner {
   background-color: $primary;
-  color: #fff;
+  color: rgba(#fff,0.7);
+  font-weight: bold;
+  font-size: 1.3em;
 
-  h1, h2, h3, h4, h5, h6 {
-    color: inherit;
+  h1, h2, h3, h4, h5, h6,
+  a {
+    color: #fff;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.1rem;
   }
 
   .wrapper {

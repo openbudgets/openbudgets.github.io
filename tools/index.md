@@ -1,54 +1,106 @@
 ---
-layout: page
-title: "OpenBudgets.eu Tools"
+layout: tools
+title: "Our tools"
+tools:
+  - name: Visualize your data set and embed it on your website
+    description: Here you can upload your fiscal dataset. After you have described each column, you can produce instant visualisations to share with your electorate.
+    image: tree-map.svg
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Embed a visualization on your website
+    description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
+    image: embed.svg
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Showcase the performance of your city
+    description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
+    image: performance.svg
+    primary_link: "#"
+    secondary_link: "#"
+    secondary_link_text: watch demo
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Let your electorate become decision makers in the budgeting process
+    description: With the Participatory Budgeting Tool, you can let your electorate become decision makers in the budgeting process!
+    image: chart.svg
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Use the Data mining tool  collection
+    description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
+    image: mining.svg
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Build your own pipelines
+    description: Create custom pipelines to source, process, and convert data from almost any source into a variety of formats.
+    primary_link: "#"
+    secondary_link: "#"
+    secondary_link_text: run demo
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Browse RDF Data
+    description: an open source content negotiator and HTML description generator for RDF resources. It is a PHP web application, able to be deployed in most environments out of the box with minimum effort, lowering the barrier for publishing Linked Data on the Web.
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+
+stories:
+  - name: Read recipes for Cooking Budgets
+    description: This collection of common corruption schemata displays European processes in bribery, embezzlement, favoritism and general abuse of public resources for private gains. It is meant to be used as a resource for journalists seeking to investigate misuse of public funds.
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Read The Football Tax
+    description: The Football Tax is a journalistic investigation that traces public spending to professional football.
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+
+platforms:
+  - name: Discover Subsidy Stories
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+
+games:
+  - name: Order of Magnitude Guess
+    description: Budget and Spending data requires both a technical understanding and an immaculate sense of magnitude. Find out how you compare to others in your field using the Order of Magnitude Guessr
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
+  - name: Put yourself in the shoes of a tempted official
+    description: This game puts the player in the shoes of a public servant, tempted at various stages of his career path. How long will you stay legal?
+    primary_link: "#"
+    audience:
+      - Administration
+      - Data Wrangling
+      - Journalism
 ---
 
-
-
-We, the OpenBudgets consortium, have produced a number of tools and resources in the course of the project that will eventually be incorporated into the final platform. Find information on the individual tools below. 
-
-
----
-
-
-| **Tool**: |  Participatory Budgeting Portal   | Data Mining Tool Collection  | LinkedPipes ETL  | Cooking Budgets  | 
-|----|---------|----------|-----------|----------------------------------|
-| **Description**: |  An open-source tool for public administrations to use when consulting their citizens about how to allocate the budget and approval. | A series of data mining tools resulting in novel and powerful ways to gain insights into budget data.  |   A tool for handling and publishing web data primarily in RDF according to the Linked Open Data principles. | A collection of worst-practices by public officials to enrich themselves or otherwise mismanage public funds.      |  
-| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - CiViO.pdf)**    | **[Download](/assets/tools/OBEU Tool - Data Mining Tools.pdf)**    | **[Download](/assets/tools/OBEU Tool - LinkedPipes ETL.pdf)** | **[Download](/assets/tools/OBEU Tool - Cooking Budgets.pdf)** |
-| **Partners**: | **[CiViO](/about/partners/civio/)**  | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**, **[University of Economics, Prague](/about/partners/vse/)**, **[Open Knowledge Greece](/about/partners/okgr/)**  | **[University of Economics, Prague](/about/partners/vse/)**   |  **[J++](/about/partners/j++/)** |  
-|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - CiViO.png" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Data Mining Tools.png" width="200" height="300">  | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - LinkedPipes ETL.png" width="200" height="300"> | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Cooking Budgets.png" width="200" height="300"> |
-
----
-
-| **Tool**: |  Microsite   | Indigo  |  OpenSpending |  KPI  | 
-|----|---------|----------|-----------|----------------------------------|
-| **Description**: |  A lean and powerful interface to facilitate citizen interaction with budgets. | Perform time series analysis of budget data, and create your own fiscal indicators.  | A platform that offers a set of components for working with fiscal data. | Indicators to measure the performance of public administrations. |  
-| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Microsite.pdf)**    | **[Download](/assets/tools/OBEU Tool - Indigo.pdf)**    | **[Download](/assets/tools/OBEU Tool - OpenSpending.pdf)** | **[Download](/assets/tools/OBEU Tool - KPI.pdf)** |
-| **Partners**: | **[Fraunhofer IAIS](/about/partners/fraunhofer/)**, **[Bonn University](/about/partners/unibonn/)**  | **[Open Knowledge Greece](/about/partners/okgr/)**  |  **[Open Knowledge International](/about/partners/oki/)**  |  **[Open Knowledge Greece](/about/partners/okgr/)**  |  
-|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Microsite.png" alt="Making Budgets Attractive" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Indigo.png" width="200" height="300">  | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - OpenSpending.png" width="200" height="300"> | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - KPI.png" width="200" height="300">  |
-
----
-
-| **Tool**: |  Alignment   | RDFBrowser  |   |    | 
-|----|---------|----------|-----------|----------------------------------|
-| **Description**: |  A linked data alignment tool. | A browser to gain insights into linked data.  |  |  |  
-| **Download PDF Description**: |       **[Download](/assets/tools/OBEU Tool - Alignment.pdf)**    | **[Download](/assets/tools/OBEU Tool - RDFBrowser.pdf)**    |  |  |
-| **Partners**: | **[Open Knowledge Greece](/about/partners/okgr/)**   | **[Open Knowledge Greece](/about/partners/okgr/)**  |    |   |  
-|  |       <img src="{{site.baseurl}}/assets/tools/OBEU Tool - Alignment.png" width="200" height="300">   | <img src="{{site.baseurl}}/assets/tools/OBEU Tool - RDFBrowser.png" width="200" height="300">   |  |  |
-
-
-<p>For interview requests and further information please contact:</p>
-
-<p><b>Anna Alberts</b> <br>
-Open Knowledge Foundation Deutschland <br>
-<a href="mailto:anna.alberts@okfn.de">E-mail</a> <br>
-<a href="https://twitter.com/Anna_Alberts">Twitter</a><br>
-Office: +49 30 57703666 0 <br>
-Mobile: +49 176 21370998</p>
-
-<p><b>Bela Seeger</b> <br>
-Open Knowledge Foundation Deutschland <br>
-<a href="mailto:bela.seeger@okfn.de">E-mail</a> <br>
-<a href="https://twitter.com/bela_okf">Twitter</a><br>
-Office: +49 30 57703666 0</p>
-
+After choosing a tool, you will get to the OpenSpending Upload process. [Read the tutorial](upload)
