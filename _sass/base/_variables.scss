@@ -16,12 +16,13 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$DarkGreen: #50B958;
-$LightGreen: #95E19A;
-$Black: #273D3A;
+$dark-green: #478a4b;
+$medium-green: #50B958;
+$light-green: #95E19A;
+$black: #273D3A;
 
-$primary: $DarkGreen;
-$secondary: $LightGreen;
+$primary: $medium-green;
+$secondary: $dark-green;
 $dark-gray: #868593;
 $medium-gray: #D5D5D5;
 $light-gray: #F0F5F4;
