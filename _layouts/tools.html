@@ -11,6 +11,46 @@ layout: default
     </div>
   </div>
   <div class="wrapper">
+    <div class="tool-filters">
+      {% capture audiences %}{% for t in page.tools %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.stories %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.platforms %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.games %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% endcapture %}
+      {% assign audiencestring = audiences | replace_first: '@@', '' | split: '@@' %}
+
+      {% for a in audiencestring %}
+        {% unless audiencelist contains a %}
+          {% capture audiencelist %}{{ audiencelist }}@@{{ a }}{% endcapture %}
+        {% endunless %}
+      {% endfor %}
+
+      {% assign audiencelistsorted = audiencelist | replace_first: '@@', '' | split: '@@' | sort %}
+
+      {% comment %} list of audiences captured (above) from front matter {% endcomment %}
+      <div class="filter-select">
+        <label>Filter by audience</label>
+        <p class="current audience"><span>Currently showing: </span><strong>All</strong></p>
+        <ul class="audience filter-buttons" data-filter-group="audience">
+          <li data-filter="" class="active">All</li>
+          {% for a in audiencelistsorted %}
+            <li data-filter=".audience-{{ a | downcase | replace: ' ', '-' }}">
+              {{ a }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      {% comment %} fixed list of types {% endcomment %}
+      <div class="filter-select">
+        <label>Filter by type</label>
+        <p class="current type"><span>Currently showing: </span><strong>All</strong></p>
+        <ul class="type filter-buttons" data-filter-group="type">
+          <li data-filter="" class="active">All</li>
+          <li data-filter=".type-tool">Tools</li>
+          <li data-filter=".type-story">Stories</li>
+          <li data-filter=".type-platform">Platforms</li>
+          <li data-filter=".type-game">Games</li>
+        </ul>
+      </div>
+    </div>
+
     <div class="tool-list">
       {% assign toolnum = 0 %}
       {% for t in page.tools %}

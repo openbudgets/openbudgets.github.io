@@ -39,21 +39,9 @@
         <script src="{{ "/js/plugins.js" | prepend: site.baseurl }}"></script>
         <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
-        {% if page.aside == true and site.twitter_feed %}
-        <script src="{{ "/js/vendor/twitterFetcher_min.js" | prepend: site.baseurl }}"></script>
-        <script>
-          var configProfile = {
-            "id": '{{ site.twitter_feed }}',
-            "domId": 'twitter',
-            "maxTweets": 5,
-            "enableLinks": true,
-            "showUser": true,
-            "showTime": false,
-            "showImages": false,
-            "lang": 'en'
-          };
-          twitterFetcher.fetch(configProfile);
-        </script>
+        {% if page.layout == 'tools' %}
+        <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+        <script src="{{ "/js/tools.js" | prepend: site.baseurl }}"></script>
         {% endif %}
 
         {% if site.googleanalytics %}

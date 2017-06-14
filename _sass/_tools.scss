@@ -1,5 +1,8 @@
 .tools {
   .tool-list {
+    clear: both;
+    padding-top: 200px;
+    padding-bottom: 100px;
 
     .tool {
       padding: $base-spacing;
@@ -41,6 +44,95 @@
       @media (min-width: $large-screen) {
         @include span-columns(4);
         @include omega(3n);
+      }
+    }
+  }
+
+  .tool-filters {
+    display: none;
+  }
+
+  .js & {
+    .tool-filters {
+      display: block;
+      position: absolute;
+      z-index: 1;
+      padding: $base-spacing $base-spacing/2;
+
+      .filter-select {
+        float: left;
+        margin: $base-spacing/2;
+
+        .current {
+          background-color: lighten($medium-gray, 5%);
+          display: block;
+          margin: 0;
+          padding: $base-spacing*0.5;
+          border-radius: $base-border-radius;
+          cursor: pointer;
+          color: $black;
+          border: solid 1px $medium-gray;
+          position: relative;
+
+          &:after {
+            content: '';
+            display: block;
+            width: 20px;
+            height: 20px;
+            position: absolute;
+            right: $base-spacing/2;
+            top: 50%;
+            margin-top: -10px;
+            background-image: url("../img/down-arrow.svg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+          }
+
+          span {
+            display: block;
+            width: 0;
+            height: 0;
+            overflow: hidden;
+          }
+        }
+
+        .filter-buttons {
+          height: 0;
+          overflow: hidden;
+          border: solid 1px $medium-gray;
+          opacity: 0;
+
+          li {
+            padding: $base-spacing*0.5 100px $base-spacing*0.5 $base-spacing*0.5;
+          }
+        }
+
+        &.open {
+          .current {
+            border-radius: $base-border-radius $base-border-radius 0 0;
+          }
+          .filter-buttons {
+            height: auto;
+            opacity: 1;
+            max-height: 50vh;
+            overflow-y: auto;
+            background-color: $light-gray;
+            border-radius: 0 0 $base-border-radius $base-border-radius;
+
+            li {
+              &:hover {
+                background-color: rgba($light-green,0.5);
+                cursor: pointer;
+              }
+
+              &.active {
+                background-color: $primary;
+                color: #fff;
+              }
+            }
+          }
+        }
       }
     }
   }

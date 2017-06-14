@@ -7,7 +7,6 @@ tools:
     image: tree-map.svg
     primary_link: "#"
     audience:
-      - Administration
       - Data Wrangling
       - Journalism
   - name: Embed a visualization on your website
@@ -16,7 +15,6 @@ tools:
     primary_link: "#"
     audience:
       - Administration
-      - Data Wrangling
       - Journalism
   - name: Showcase the performance of your city
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
@@ -26,7 +24,6 @@ tools:
     secondary_link_text: watch demo
     audience:
       - Administration
-      - Data Wrangling
       - Journalism
   - name: Let your electorate become decision makers in the budgeting process
     description: With the Participatory Budgeting Tool, you can let your electorate become decision makers in the budgeting process!
@@ -34,9 +31,7 @@ tools:
     primary_link: "#"
     audience:
       - Administration
-      - Data Wrangling
-      - Journalism
-  - name: Use the Data mining tool  collection
+  - name: Use the Data mining tool collection
     description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
     image: mining.svg
     primary_link: "#"
@@ -58,7 +53,6 @@ tools:
     primary_link: "#"
     audience:
       - Administration
-      - Data Wrangling
       - Journalism
 
 stories:
@@ -66,15 +60,11 @@ stories:
     description: This collection of common corruption schemata displays European processes in bribery, embezzlement, favoritism and general abuse of public resources for private gains. It is meant to be used as a resource for journalists seeking to investigate misuse of public funds.
     primary_link: "#"
     audience:
-      - Administration
       - Data Wrangling
-      - Journalism
   - name: Read The Football Tax
     description: The Football Tax is a journalistic investigation that traces public spending to professional football.
     primary_link: "#"
     audience:
-      - Administration
-      - Data Wrangling
       - Journalism
 
 platforms:
@@ -82,8 +72,6 @@ platforms:
     description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
     primary_link: "#"
     audience:
-      - Administration
-      - Data Wrangling
       - Journalism
 
 games:
@@ -93,14 +81,13 @@ games:
     audience:
       - Administration
       - Data Wrangling
-      - Journalism
   - name: Put yourself in the shoes of a tempted official
     description: This game puts the player in the shoes of a public servant, tempted at various stages of his career path. How long will you stay legal?
     primary_link: "#"
     audience:
       - Administration
-      - Data Wrangling
       - Journalism
+
 ---
 
 After choosing a tool, you will get to the OpenSpending Upload process. [Read the tutorial](upload)
