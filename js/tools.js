@@ -25,6 +25,9 @@ jQuery(document).ready(function($){
 		$(this).parent(".filter-buttons").children("li").removeClass("active");
 		$(this).addClass("active");
 
+		// close menu
+		$(this).parents(".filter-select").removeClass("open");
+
 		// clear hash
 		location.hash = '';
 
