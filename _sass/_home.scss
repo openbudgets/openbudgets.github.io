@@ -95,6 +95,10 @@
     &.users {
       padding-top: $base-spacing;
 
+      h2 {
+        display: none;
+      }
+
       @media (min-width: $large-screen) {
         padding-top: $base-spacing*3;
         padding-bottom: $base-spacing*2;

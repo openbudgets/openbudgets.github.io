@@ -209,6 +209,10 @@ section.users {
     @include outer-container;
     padding: $base-spacing;
 
+    h2 {
+      margin-bottom: $base-spacing*2;
+    }
+
     .item {
       display: block;
       text-align: center;
@@ -217,7 +221,7 @@ section.users {
         height: 100px;
       }
 
-      h2 {
+      h3 {
         text-transform: uppercase;
         font-size: 1.15em;
 

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="docs">
+  <div class="banner">
+    <div class="wrapper">
+      <span>
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </span>
+    </div>
+  </div>
+
+  <article>
+    {% for s in page.steps %}
+    <div class="step{% if s.class %} {{ s.class }}{% endif %}">
+      <div class="wrapper">
+        <h2>{{ s.heading }}</h2>
+        <figure>
+          <figcaption>
+            <h3>{{ s.caption-heading }}</h3>
+            <em>{{ s.caption }}</em>
+          </figcaption>
+          {% if s.image %}
+          <img src="{{ site.baseurl }}/img/{{ s.image }}" alt="">
+          {% endif %}
+        </figure>
+      </div>
+    </div>
+    {% endfor %}
+  </article>
+  {% include users.html %}
+</div>

@@ -90,4 +90,4 @@ games:
 
 ---
 
-After choosing a tool, you will get to the OpenSpending Upload process. [Read the tutorial](upload)
+After choosing a tool, you will get to the OpenSpending Upload process. [Read the tutorial](../documentation)
