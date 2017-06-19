@@ -25,6 +25,9 @@ jQuery(document).ready(function($){
 		$(this).parent(".filter-buttons").children("li").removeClass("active");
 		$(this).addClass("active");
 
+		// clear hash
+		location.hash = '';
+
 	});
 
 	// flatten object by concatting values
@@ -50,5 +53,43 @@ jQuery(document).ready(function($){
 	$('.filter-select').on( 'click', '.current', function() {
 		$(this).parent(".filter-select").toggleClass("open");
 	});
+
+
+	// get URL hash
+	function getHashFilter() {
+		var hash = location.hash;
+		// get filter=filterName
+		var matches = location.hash.match( /filter=([^&]+)/i );
+		var hashFilter = matches && matches[1];
+		return hashFilter && decodeURIComponent( hashFilter );
+	}
+
+	function onHashchange() {
+    var hashFilter = getHashFilter();
+    if ( !hashFilter ) {
+      return;
+    }
+
+    // filter isotope
+    $grid.isotope({
+      itemSelector: '.tool',
+      filter: hashFilter
+    });
+
+    // set active class
+    if ( hashFilter ) {
+      $(".filter-buttons").find('.active').removeClass('active');
+      $(".filter-buttons").find('[data-filter="' + hashFilter + '"]').addClass('active');
+    }
+
+		// update currently showing text
+		var currentAudience = $( ".audience.filter-buttons li.active" ).text();
+		$( "p.current.audience strong" ).html( currentAudience );
+
+  }
+
+  $(window).on( 'hashchange', onHashchange );
+  // trigger event handler to init Isotope
+  onHashchange();
 
 });
