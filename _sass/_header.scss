@@ -90,7 +90,9 @@
 
                 &.active {
                     & > a {
-                        border-color: $header-text-colour;
+                        border-color: $primary;
+                        background-color: $primary;
+                        color: $header-colour;
                     }
                 }
 
