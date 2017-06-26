@@ -44,6 +44,19 @@
         <script src="{{ "/js/tools.js" | prepend: site.baseurl }}"></script>
         {% endif %}
 
+        {% if page.layout == 'docs' %}
+        <script src="{{ "/js/vendor/jquery.colorbox-min.js" | prepend: site.baseurl }}"></script>
+        <script>
+          jQuery(document).ready(function($){
+          {% assign group = 0 %}
+          {% for s in page.steps %}
+            {% assign group = group | plus: 1 %}
+          	$(".group{{ group }}").colorbox({rel:'group{{ group }}', width:"80%"});
+          {% endfor %}
+          });
+        </script>
+        {% endif %}
+
         {% if site.googleanalytics %}
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=

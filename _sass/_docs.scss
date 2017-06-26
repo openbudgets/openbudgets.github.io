@@ -47,6 +47,10 @@
       img {
         margin-top: $base-spacing;
       }
+
+      .image-list {
+        display: none;
+      }
     }
 
     &.done {

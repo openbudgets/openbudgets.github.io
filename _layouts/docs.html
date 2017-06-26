@@ -12,7 +12,9 @@ layout: default
   </div>
 
   <article>
+    {% assign step = 0 %}
     {% for s in page.steps %}
+    {% assign step = step | plus: 1 %}
     <div class="step{% if s.class %} {{ s.class }}{% endif %}">
       <div class="wrapper">
         <h2>{{ s.heading }}</h2>
@@ -22,7 +24,20 @@ layout: default
             <em>{{ s.caption }}</em>
           </figcaption>
           {% if s.image %}
+          {% if s.large-images %}
+          <a class="group{{ step }}" href="{{ site.baseurl }}/img/{% for i in s.large-images limit:1 %}{{ i }}{% endfor %}">
+            <img src="{{ site.baseurl }}/img/{{ s.image }}" alt="">
+          </a>
+          <ul class="image-list">
+            {% for i in s.large-images offset:1 %}
+            <li>
+              <a class="group{{ step }}" href="{{ site.baseurl }}/img/{{ i }}">Image</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% else %}
           <img src="{{ site.baseurl }}/img/{{ s.image }}" alt="">
+          {% endif %}
           {% endif %}
         </figure>
       </div>
