@@ -7,15 +7,14 @@ tools:
     image: tree-map.svg
     primary_link: "#"
     audience:
-      - Data Wrangling
+      - Administration
       - Journalism
-  - name: Embed a visualization on your website
+  - name: Embed the microsite on your website
     description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
     image: embed.svg
     primary_link: "#"
     audience:
       - Administration
-      - Journalism
   - name: Showcase the performance of your city
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
     image: performance.svg
@@ -24,7 +23,6 @@ tools:
     secondary_link_text: watch demo
     audience:
       - Administration
-      - Journalism
   - name: Let your electorate become decision makers in the budgeting process
     description: With the Participatory Budgeting Tool, you can let your electorate become decision makers in the budgeting process!
     image: chart.svg
@@ -36,31 +34,26 @@ tools:
     image: mining.svg
     primary_link: "#"
     audience:
-      - Administration
       - Data Wrangling
-      - Journalism
   - name: Build your own pipelines
     description: Create custom pipelines to source, process, and convert data from almost any source into a variety of formats.
     primary_link: "#"
     secondary_link: "#"
     secondary_link_text: run demo
     audience:
-      - Administration
       - Data Wrangling
-      - Journalism
   - name: Browse RDF Data
     description: an open source content negotiator and HTML description generator for RDF resources. It is a PHP web application, able to be deployed in most environments out of the box with minimum effort, lowering the barrier for publishing Linked Data on the Web.
     primary_link: "#"
     audience:
-      - Administration
-      - Journalism
+      - Data Wrangling
 
 stories:
   - name: Read recipes for Cooking Budgets
     description: This collection of common corruption schemata displays European processes in bribery, embezzlement, favoritism and general abuse of public resources for private gains. It is meant to be used as a resource for journalists seeking to investigate misuse of public funds.
     primary_link: "#"
     audience:
-      - Data Wrangling
+      - Journalism
   - name: Read The Football Tax
     description: The Football Tax is a journalistic investigation that traces public spending to professional football.
     primary_link: "#"
@@ -73,14 +66,14 @@ platforms:
     primary_link: "#"
     audience:
       - Journalism
+      - Data Wrangling
 
 games:
-  - name: Order of Magnitude Guess
+  - name: Order of Magnitude Guessr
     description: Budget and Spending data requires both a technical understanding and an immaculate sense of magnitude. Find out how you compare to others in your field using the Order of Magnitude Guessr
     primary_link: "#"
     audience:
-      - Administration
-      - Data Wrangling
+      - Journalism
   - name: Put yourself in the shoes of a tempted official
     description: This game puts the player in the shoes of a public servant, tempted at various stages of his career path. How long will you stay legal?
     primary_link: "#"
