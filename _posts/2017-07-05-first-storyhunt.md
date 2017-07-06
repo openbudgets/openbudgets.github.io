@@ -3,7 +3,7 @@ layout:     post
 title:      "Storyhunt: Uncover the EU - The Weekend"
 date:       2017-07-05
 categories: post
-author:     Michael Peters
+author:     Anna Alberts, Michael Peters
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: okfn.de
 image:      ../assets/posts/2017-07/storyhunt.JPG
