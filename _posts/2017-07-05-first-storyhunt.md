@@ -19,6 +19,8 @@ The weekend was structured following our main data-analysis methodology tool: th
 
 To help the participants select a topic, we started with interactive expert sessions on data journalism projects on the EU’s financial system. [Stefan Wehrmeyer](https://twitter.com/stefanwehrmeyer?lang=en) focused on the [farmsubsidy](http://farmsubsidy.openspending.org/) project and how it helped foster thorough investigations into the EU’s agricultural and pollution policies. [Brigitte Alfter](http://www.alfter.dk/) stressed the importance of cross-border journalistic collaboration, because national coverage alone does not raise significant attention in covering EU policies. 
 
+<img alt="The Story Hunters" src="{{site.baseurl}}/assets/posts/2017-07/storyhunt.JPG">
+
 In order to prepare balanced interdisciplinary teams, the participants analysed their own skill set using a character sheets explaining their skills around design, programming, and storytelling to one another. 
 
 After being introduced to the topic of EU structural funds, participants were asked to provide their hunches and hypotheses on what they thought could be found in the subsidy data. The hunches were then condensed to a small set of research ideas and started focusing on the challenges ahead. The participants formed three teams focusing on different topics such as large infrastructure projects in the EU, namely the A1 highway in Poland, (non-european) pharma companies and the EU subsidies they receive and land-grabbing and farm subsidies in Romania.  
