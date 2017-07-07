@@ -6,12 +6,12 @@ categories: post
 author:     Anna Alberts & Michael Peters
 author_affiliation: Open Knowledge Foundation Deutschland
 author_affiliation_link: okfn.de
-image:      ../assets/posts/2017-07/storyhunt.JPG
+image:      ../assets/posts/2017-07image_0.jpg
 excerpt:    >
   OpenBudgets.eu and [Datenschule](https://datenschule.de/) organised the Story Hunt this spring: a program for Journalists, Activists, NGOs, Designers, and Coders to dive into EU financial flows. The program was based on the previous work of [subsidystories.eu](http://subsidystories.eu/); the data collection project brining together all EU subsidy data. StoryHunt encouraged the participants to take a closer look at the data and find stories and leads. The program consisted of two parts: a workshop series and a weekend long data dive. This blogpost reviews the workshop sessions, our weekend recap can be found [here](http://openbudgets.eu/post/2017/07/05/first-storyhunt/). 
 ---
 
-<img alt="The Story Hunters" src="{{site.baseurl}}/assets/posts/2017-07/image_0.JPG">
+<img alt="The Story Hunters" src="{{site.baseurl}}/assets/posts/2017-07/image_0.jpg">
 
 OpenBudgets.eu and [Datenschule](https://datenschule.de/) organised the Story Hunt this spring: a program for Journalists, Activists, NGOs, Designers, and Coders to dive into EU financial flows. The program was based on the previous work of [subsidystories.eu](http://subsidystories.eu/); the data collection project brining together all EU subsidy data. StoryHunt encouraged the participants to take a closer look at the data and find stories and leads. The program consisted of two parts: a workshop series and a weekend long data dive. This blogpost reviews the workshop sessions, our weekend recap can be found [here](http://openbudgets.eu/post/2017/07/05/first-storyhunt/).
 
