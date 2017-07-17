@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 146 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;">
+    <g id="Group.-5.-Copy" transform="matrix(1,0,0,1,1.01008,1.70999)">
+        <path id="Line" d="M21.5,0.5L21.5,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line1" d="M2.5,0.5L2.5,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line.-Copy" d="M2.5,0.5L2.5,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line2" d="M44.1,0.5L44.1,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line3" d="M65.7,0.5L65.7,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line4" d="M87.3,0.5L87.3,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line5" d="M108.9,0.5L108.9,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <path id="Line6" d="M130.5,0.5L130.5,88.5" style="fill:none;stroke:rgb(104,197,110);stroke-width:1px;"/>
+        <g id="Group.-4">
+            <g id="Group.-3">
+                <path id="Line7" d="M1.051,0.352L1.051,88.945" style="fill:none;stroke:white;stroke-width:1px;"/>
+                <path id="Path.-2" d="M19.926,34.801L34.589,24.891L46.582,34.801L63.58,32.439L78.418,48.977L96.029,44.635L95.544,88.781L1.355,89.371L1.355,38.095L7.779,44.646L19.926,34.801Z" style="fill:rgb(200,243,203);"/>
+                <path id="Path.-21" d="M118.648,58.266L142.909,55.846L142.909,88.753L95.387,89.11L96.133,44.806L118.648,58.266Z" style="fill:rgb(137,219,142);"/>
+                <path id="Line8" d="M142.65,88.945L95.684,88.945" style="fill:none;stroke:rgb(193,243,196);stroke-width:1px;"/>
+                <path id="Line9" d="M94.983,88.945L1.051,88.945" style="fill:none;stroke:white;stroke-width:1px;"/>
+            </g>
+            <path id="Path.-3" d="M1.517,37.976L7.482,44.33L34.312,25.142L46.596,34.721L63.215,32.078L78.878,49.952L96.015,44.581" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;"/>
+            <path id="Path.-4" d="M141.53,55.837L119.042,58.519L95.224,43.775" style="fill:none;stroke:rgb(193,243,196);stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1,3;"/>
+        </g>
+        <path id="Path.-5" d="M0.542,74.122L16.376,55.147L31.031,58.995L42.662,51L61.137,76.309L72.443,68.089L94.952,74.976L118.139,66.302L132.944,79.396L142.528,69.547L141.58,88.712L0,89.184L0.542,74.122Z" style="fill:rgb(118,208,124);"/>
+    </g>
+</svg>

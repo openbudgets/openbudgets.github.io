@@ -1,7 +1,10 @@
-- title: "Explore Data"
+- title: "Upload"
   slug: "#"
 
-- title: "Data Toolbox"
+- title: "Explore"
+  slug: "#"
+
+- title: "Toolbox"
   slug: "tools"
 
 - title: "Documentation"
