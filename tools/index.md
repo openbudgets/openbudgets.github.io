@@ -87,6 +87,7 @@ stories:
 platforms:
   - name: Discover Subsidy Stories
     description: Dive into a massive database containing data on the beneficiaries of three of the most important financial instruments of the European Union, namely ERDF, ESIF, and Cohesion fund.
+    image: ../img/toolbox/subsidy.svg
     primary_link: "http://subsidystories.eu"
     audience:
       - Journalism
