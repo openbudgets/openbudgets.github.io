@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="117px" viewBox="0 0 119 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="29.5" cy="29.5" r="29.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload" transform="translate(-755.000000, -1710.000000)">
+            <g id="Group-24" transform="translate(734.000000, 1710.000000)">
+                <rect id="Rectangle-25" fill="#C8F3CB" x="70" y="19" width="27" height="5" rx="2.5"></rect>
+                <g id="Group-17" transform="translate(81.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval-6" fill="#C8F3CB" xlink:href="#path-1"></use>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" points="23.34375 21 35.0449219 21 39.5527344 31.3671875 31.4482422 38.4902344 20 31.3671875"></polygon>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" transform="translate(43.776367, 5.745117) rotate(-1.000000) translate(-43.776367, -5.745117) " points="37.34375 -3 49.0449219 -3 53.5527344 7.3671875 45.4482422 14.4902344 34 7.3671875"></polygon>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" transform="translate(11.166811, 10.024042) rotate(-81.000000) translate(-11.166811, -10.024042) " points="4.73419387 1.27892443 16.4353657 1.27892443 20.9431782 11.6461119 12.8386861 18.7691588 1.39044387 11.6461119"></polygon>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" transform="translate(5.166811, 40.024042) rotate(207.000000) translate(-5.166811, -40.024042) " points="-1.26580613 31.2789244 10.4353657 31.2789244 14.9431782 41.6461119 6.83868605 48.7691588 -4.60955613 41.6461119"></polygon>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" transform="translate(29.995183, 56.716906) rotate(146.000000) translate(-29.995183, -56.716906) " points="23.562566 47.9717887 35.2637379 47.9717887 39.7715504 58.3389762 31.6670582 65.4620231 20.218816 58.3389762"></polygon>
+                    <polygon id="Path-19" fill="#5DA962" mask="url(#mask-2)" transform="translate(55.995183, 33.716906) rotate(146.000000) translate(-55.995183, -33.716906) " points="49.562566 24.9717887 61.2637379 24.9717887 65.7715504 35.3389762 57.6670582 42.4620231 46.218816 35.3389762"></polygon>
+                </g>
+                <rect id="Rectangle-25" fill="#5DA962" x="63" y="28" width="42" height="5" rx="2.5"></rect>
+                <rect id="Rectangle-25" fill="#5DA962" x="65" y="39" width="27" height="5" rx="2.5"></rect>
+                <g id="Group-23" transform="translate(49.341365, 65.914338) rotate(-24.000000) translate(-49.341365, -65.914338) translate(16.841365, 17.914338)">
+                    <g id="Group-22" transform="translate(11.000000, 37.000000)">
+                        <path d="M7.21484375,2.97070312 L7.21484375,33.9765625 C3.48046875,38.3815104 1.56705729,41.9348958 1.47460938,44.6367187 C1.38216146,47.3385417 1.3359375,50.360026 1.3359375,53.7011719 L29.2265625,53.7011719 L29.2265625,0.271484375 L7.21484375,2.97070312 Z" id="Path-20" fill="#C8F3CB"></path>
+                        <polygon id="Path-21" fill="#51B858" points="29.8222656 51.9238281 29.8222656 57.4765625 0.939453125 57.4765625 0.939453125 51.9238281"></polygon>
+                    </g>
+                    <g id="Group-21" transform="translate(32.500000, 33.314431) rotate(-48.000000) translate(-32.500000, -33.314431) translate(3.000000, 17.314431)">
+                        <g id="Group-18" fill="#478A4B">
+                            <path d="M57.9822275,6.68237062 C57.7623611,4.6124901 56.0107778,3 53.8825773,3 L53.8825773,3 L4.11742274,3 L4.11742274,3 C1.94775345,3 0.169521423,4.6759422 0.00667316612,6.80388011 L2.70750211e-05,6.80389404 L2.70750211e-05,7.93603516 L58.0101929,7.93603516 L58.0101929,6.68231201 L57.9822275,6.68237062 Z" id="Combined-Shape"></path>
+                            <rect id="Rectangle-13" x="4.12290981" y="0" width="5.15363727" height="6.18436472" rx="2.57681863"></rect>
+                            <rect id="Rectangle-13" x="11.338002" y="0" width="5.15363727" height="6.18436472" rx="2.57681863"></rect>
+                            <rect id="Rectangle-13" x="42.2598256" y="0" width="5.15363727" height="6.18436472" rx="2.57681863"></rect>
+                            <rect id="Rectangle-13" x="49.4749178" y="0" width="5.15363727" height="6.18436472" rx="2.57681863"></rect>
+                            <rect id="Rectangle-13" x="35.0447334" y="0" width="5.15363727" height="6.18436472" rx="2.57681863"></rect>
+                        </g>
+                        <g id="Group-19" transform="translate(0.000000, 7.000000)" fill="#7DDB84">
+                            <rect id="Rectangle-19" x="0" y="2" width="58" height="11" rx="5.5"></rect>
+                            <polygon id="Rectangle-20" points="0 1 26.0703125 0.743774414 58 0.743774414 58 8 0 8"></polygon>
+                        </g>
+                        <rect id="Rectangle-23" fill="#7DDB84" transform="translate(27.497676, 22.173682) rotate(47.000000) translate(-27.497676, -22.173682) " x="22.4976763" y="14.173682" width="10" height="16" rx="5"></rect>
+                        <g id="Group-20" transform="translate(0.000000, 7.000000)" fill="#379A3E">
+                            <rect id="Rectangle-19" x="0" y="1.72851562" width="26" height="11" rx="5.5"></rect>
+                            <rect id="Rectangle-20" x="0" y="0.728515625" width="26" height="7"></rect>
+                        </g>
+                        <rect id="Rectangle-22" fill="#FFFFFF" x="30" y="16" width="18" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-21" fill="#478A4B" x="35.6617388" y="11.5137103" width="3" height="9" rx="1.5"></rect>
+                        <rect id="Rectangle-21" fill="#478A4B" x="40.6617388" y="11.5137103" width="3" height="9" rx="1.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
