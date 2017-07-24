@@ -1,10 +1,14 @@
 ---
-layout: post
-title: Participatory budgets are born with the desire to democratise power at a local level
-date: 2017-07-04
+layout:     post
+title:      "Participatory budgets are born with the desire to democratise power at a local level"
+date:       2017-07-23
 categories: post
-image: ../assets/posts/2017-07/AMIR-47_small.jpg
-published: true
+author:     Diana Krebs
+author_affiliation: Open Knowledge Foundation
+author_affiliation_link: okfn.org
+image:      ../assets/posts/2017-07/image_0.jpg
+excerpt:    >
+  For most municipalities, participatory budgeting is a relatively new approach to include their citizens directly in the decision making for new investments and developments in their community. 
 ---
 
 “Participatory budgets are born with the desire to democratise power at a local level” 
