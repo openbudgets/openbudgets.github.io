@@ -4,7 +4,7 @@ title: Participatory budgets are born with the desire to democratise power at a 
 date: 2017-07-04
 categories: post
 image: ../assets/posts/2017-07/AMIR-47_small.jpg
-published: false
+published: true
 ---
 
 “Participatory budgets are born with the desire to democratise power at a local level” 
