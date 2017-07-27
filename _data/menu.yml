@@ -1,14 +1,11 @@
 - title: "Upload"
-  slug: "#"
+  slug: "comingsoon"
 
 - title: "Explore"
-  slug: "#"
+  slug: "comingsoon"
 
 - title: "Toolbox"
   slug: "tools"
-
-- title: "Documentation"
-  slug: "documentation"
 
 - title: "Blog"
   slug: "blog"
