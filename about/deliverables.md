@@ -19,7 +19,7 @@ title: Deliverables
 | WP2	 | D2.1 Tools for Semantic Lifting of Multiformat Budgetary Data | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D2.1.pdf)
 | 	 | D2.2 Data Optimisation, Enrichment and Preparation for Analysis | [Download (799KB)]({{site.baseurl}}/assets/deliverables/D2.2.pdf)
 | 	 | D2.3 Requirements for Statistical Analytics and Data Mining | [Download (684KB)]({{site.baseurl}}/assets/deliverables/D2.3.pdf)
-| 	 | D2.4 Data Mining and Statistical Analytics Techniques | [Download (1,1MB)]({{site.baseurl}/assets/deliverables/D2.4.pdf)
+| 	 | D2.4 Data Mining and Statistical Analytics Techniques | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D2.4.pdf)
 | 	 | D2.5 Data Mining Interfaces | [Download (2,2MB)]({{site.baseurl}}/assets/deliverables/D2.5.pdf)
 | WP3	 | D3.1 Visualisations Collection (existing and ideas) | [Download **(15,4MB)**]({{site.baseurl}}/assets/deliverables/D3.1.pdf) |
 | 	 | D3.2 Visualisations Creation Framework |  [Download (1,5MB)]({{site.baseurl}}/assets/deliverables/D3.2.pdf)
