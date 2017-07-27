@@ -21,7 +21,7 @@ tools:
       - Administration
   - name: Showcase the performance of your city
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
-    image: performance.svg
+    image: ../img/toolbox/performance.svg
     primary_link: "http://kpi.okfn.gr/"
     secondary_link: "/assets/tools/OBEU Tool - KPI.pdf"
     secondary_link_text: watch demo
@@ -37,7 +37,7 @@ tools:
       - Administration
   - name: Use the Data Mining Tool Collection
     description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
-    image: mining.svg
+    image: ../img/toolbox/mining.svg
     primary_link: "/comingsoon"
     secondary_link: "/assets/tools/OBEU Tool - Data Mining Tools.pdf"
     secondary_link_text: More Information
@@ -61,7 +61,7 @@ tools:
       - Data Wrangling
   - name: Match Heterogeneous Codelists found in Fiscal Datasets
     description: An application for online, collaborative, system aided manual entity linking. The tool can be used to manually create linksets between two knowledge graphs or to validate linkesets.
-    image: ../img/toolbox/rdf.svg
+    image: ../img/toolbox/alignment.svg
     primary_link: "http://alignment.okfn.gr/dashboard"
     secondary_link: "/assets/tools/OBEU Tool - Alignment.pdf"
     secondary_link_text: More Information
