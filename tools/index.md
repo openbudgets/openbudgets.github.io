@@ -110,4 +110,4 @@ games:
 
 ---
 
-After choosing a tool, you will get to the OpenSpending Upload process. [Read the tutorial](../documentation)
+Choose a tool to launch it. <!--[Read the tutorial](../documentation)-->
