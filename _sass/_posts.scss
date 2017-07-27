@@ -9,29 +9,13 @@
             @include outer-container;
 
             .date {
-                font-size: 0.8em;
-                color: $medium-gray;
-
-                @media (min-width: $medium-screen) {
-                    @include span-columns(1);
-                    padding-top: $small-spacing / 2;
-
-                    span {
-                        display: block;
-                        background-color: $base-background-color;
-                    }
-                }
+                font-weight: bold;
+                color: $black;
             }
 
             .text {
                 @media (min-width: $medium-screen) {
-                    @include span-columns(8);
-                }
-
-                .title {
-                    a {
-                        color: $base-font-color;
-                    }
+                    @include span-columns(9);
                 }
 
                 .categories {
@@ -52,8 +36,11 @@
                 }
 
                 & > a {
-                    @extend button;
-                    margin-top: $small-spacing;
+                  text-transform: uppercase;
+                  color: $dark-green;
+                  font-weight: bold;
+                  display: inline-block;
+                  margin-top: $base-spacing;
                 }
             }
 

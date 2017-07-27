@@ -1,17 +1,9 @@
 <article>
-    <div class="date"><span>{{ post.date | date: "%-d %b" }}</span> <span class="year">{{ post.date | date: "%Y" }}</span></div>
-
     <div class="text">
-        {% if post.categories %}
-        <ul class="categories">
-        {% for cat in post.categories %}
-            <li>{{ cat }}</li>
-        {% endfor %}
-        </ul>
-        {% endif %}
+        <div class="date"><span>{{ post.date | date: "%-d %b" }}</span> <span class="year">{{ post.date | date: "%Y" }}</span></div>
         <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <div class="content">
-        {{ post.excerpt }}
+        {{ post.excerpt | markdownify }}
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
     </div>

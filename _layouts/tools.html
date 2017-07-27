@@ -1,0 +1,138 @@
+---
+layout: default
+---
+<div class="tools">
+  <div class="banner">
+    <div class="wrapper">
+      <span>
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </span>
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="tool-filters">
+      {% capture audiences %}{% for t in page.tools %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.stories %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.platforms %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% for t in page.games %}{% for a in t.audience %}@@{{ a }}{% endfor %}{% endfor %}{% endcapture %}
+      {% assign audiencestring = audiences | replace_first: '@@', '' | split: '@@' %}
+
+      {% for a in audiencestring %}
+        {% unless audiencelist contains a %}
+          {% capture audiencelist %}{{ audiencelist }}@@{{ a }}{% endcapture %}
+        {% endunless %}
+      {% endfor %}
+
+      {% assign audiencelistsorted = audiencelist | replace_first: '@@', '' | split: '@@' | sort %}
+
+      {% comment %} list of audiences captured (above) from front matter {% endcomment %}
+      <div class="filter-select">
+        <label>Filter by audience</label>
+        <p class="current audience"><span>Currently showing: </span><strong>All</strong></p>
+        <ul class="audience filter-buttons" data-filter-group="audience">
+          <li data-filter="" class="active">All</li>
+          {% for a in audiencelistsorted %}
+            <li data-filter=".audience-{{ a | downcase | replace: ' ', '-' }}">
+              {{ a }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      {% comment %} fixed list of types {% endcomment %}
+      <div class="filter-select">
+        <label>Filter by type</label>
+        <p class="current type"><span>Currently showing: </span><strong>All</strong></p>
+        <ul class="type filter-buttons" data-filter-group="type">
+          <li data-filter="" class="active">All</li>
+          <li data-filter=".type-tool">Tools</li>
+          <li data-filter=".type-story">Stories</li>
+          <li data-filter=".type-platform">Platforms</li>
+          <li data-filter=".type-game">Games</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tool-list">
+      {% assign toolnum = 0 %}
+      {% for t in page.tools %}
+      {% assign toolnum = toolnum | plus: 1 %}
+      <div class="tool type-tool{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
+        <h2 class="type">Tool {{ toolnum }}</h2>
+        <a href="{{ t.primary_link }}">
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        <img src="{{ site.baseurl }}/img/{{ t.image | replace:'.svg','-c.svg' }}" alt="" class="colour" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        </a>
+        <h3 class="name"><a href="{{ t.primary_link }}">{{ t.name }}</a></h3>
+        {{ t.description | markdownify }}
+        <a class="primary-link" href="{{ t.primary_link }}">Start the tool</a>
+        {% if t.secondary_link %}
+        <a class="secondary-link" href="{{ t.secondary_link }}">{{ t.secondary_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+      {% for t in page.stories %}
+      <div class="tool type-story{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
+        <h2 class="type">Story</h2>
+        <a href="{{ t.primary_link }}">
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        <img src="{{ site.baseurl }}/img/{{ t.image | replace:'.svg','-c.svg' }}" alt="" class="colour" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        </a>
+        <h3 class="name"><a href="{{ t.primary_link }}">{{ t.name }}</a></h3>
+        {{ t.description | markdownify }}
+        <a class="primary-link" href="{{ t.primary_link }}">Read the story</a>
+        {% if t.secondary_link %}
+        <a class="secondary-link" href="{{ t.secondary_link }}">{{ t.secondary_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+      {% for t in page.platforms %}
+      <div class="tool type-platform{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
+        <h2 class="type">Platform</h2>
+        <a href="{{ t.primary_link }}">
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        <img src="{{ site.baseurl }}/img/{{ t.image | replace:'.svg','-c.svg' }}" alt="" class="colour" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        </a>
+        <h3 class="name"><a href="{{ t.primary_link }}">{{ t.name }}</a></h3>
+        {{ t.description | markdownify }}
+        <a class="primary-link" href="{{ t.primary_link }}">Go to website</a>
+        {% if t.secondary_link %}
+        <a class="secondary-link" href="{{ t.secondary_link }}">{{ t.secondary_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+      {% for t in page.games %}
+      <div class="tool type-game{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
+        <h2 class="type">Game</h2>
+        <a href="{{ t.primary_link }}">
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        <img src="{{ site.baseurl }}/img/{{ t.image | replace:'.svg','-c.svg' }}" alt="" class="colour" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        </a>
+        <h3 class="name"><a href="{{ t.primary_link }}">{{ t.name }}</a></h3>
+        {{ t.description | markdownify }}
+        <a class="primary-link" href="{{ t.primary_link }}">Play the game</a>
+        {% if t.secondary_link %}
+        <a class="secondary-link" href="{{ t.secondary_link }}">{{ t.secondary_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

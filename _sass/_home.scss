@@ -1,63 +1,148 @@
 .home {
-    .banner {
-      background-color: $primary;
-      color: #fff;
+  .banner {
+    h1 {
+      font-size: 1.5em;
+    }
+  }
+  & > section {
+
+    & > a {
+      @extend button;
+      margin-bottom: $base-spacing;
+    }
+
+    &.blog-posts {
+      background-color: $light-gray;
+
+      @media (min-width: $large-screen) {
+        margin-top: 6em;
+      }
 
       .wrapper {
         padding: $base-spacing;
+      }
+
+      h2 {
+        color: $primary;
 
         @media (min-width: $medium-screen) {
-          padding: $base-spacing * 2 $base-spacing;
+          font-size: 2em;
+        }
+
+        @media (min-width: $large-screen) {
+          width: 50%;
+          font-size: 3em;
+          position: relative;
+          top: -2.8em;
         }
       }
-        span {
-            @media (min-width: $medium-screen) {
-                @include span-columns(8);
-                position: relative;
-                padding-right: $base-spacing*2;
 
-                &:before {
-                    width: 388px;
-                    content: '';
-                    position: absolute;
-                    left: 100%;
-                    top: - $base-spacing * 2;
-                    bottom: - $base-spacing * 2;
-                    background-image: url(../img/banner-image.png);
-                    background-size: 388px auto;
-                    background-position: 0 30px;
-                    background-repeat: no-repeat;
-                }
+      article {
+        padding: 0;
+        margin-bottom: $base-spacing*1.5;
 
-                :first-child {
-                  margin-top: 0;
-                }
-            }
-        }
-    }
+        @media (min-width: $medium-screen) {
+          @include span-columns(6);
 
-    article {
-        & > section {
-            margin-bottom: $base-spacing;
-
-            & > a {
-                @extend button;
-                margin-bottom: $base-spacing;
-            }
-
-            &.blog-posts {
-              .author {
-                font-size: 0.9rem;
-              }
-            }
-
-            &.video {
-              padding-bottom: $base-spacing;
-            }
+          .text {
+            font-size: 1.1em;
 
             h3 {
-              text-transform: uppercase;
+              font-size: 1.7em;
             }
+          }
+
+          &.post-1 {
+            padding-right: $base-spacing;
+          }
+          &.post-2 {
+            padding-left: $base-spacing;
+          }
         }
+
+        @media (min-width: $large-screen) {
+          margin-top: -5em;
+        }
+      }
+
+      .image {
+        display: none;
+
+        @media (min-width: $medium-screen) {
+          display: block;
+          padding: 0 0 $base-spacing $base-spacing;
+          text-align: center;
+
+          span {
+            display: inline-block;
+            height: 0;
+            width: 250px;
+            padding-top: 250px;
+            background-size: cover;
+            border-radius: 50%;
+          }
+        }
+      }
+
+      .date {
+        font-weight: bold;
+        color: $black;
+        display: block;
+      }
+
     }
+
+    &.users {
+      padding-top: $base-spacing;
+
+      h2 {
+        display: none;
+      }
+
+      @media (min-width: $large-screen) {
+        padding-top: $base-spacing*3;
+        padding-bottom: $base-spacing*2;
+      }
+
+      .item {
+        .more {
+          display: none;
+        }
+      }
+    }
+
+    &.about {
+      .wrapper {
+        @media (min-width: $large-screen) {
+          background-image: url(../img/team.jpg);
+          background-repeat: no-repeat;
+          background-position: right center;
+          padding-top: $base-spacing*5;
+          padding-bottom: $base-spacing*5;
+        }
+      }
+
+      article {
+        padding-top: $base-spacing/2;
+        padding-bottom: $base-spacing/2;
+
+        h2 {
+          margin-top: 1rem;
+        }
+
+        @media (min-width: $large-screen) {
+          width: 50%;
+          background-color: rgba(#fff,0.75);
+
+          h2 {
+            font-size: 2.8em;
+          }
+
+          p {
+            font-size: 1.1em;
+          }
+        }
+      }
+    }
+  }
 }

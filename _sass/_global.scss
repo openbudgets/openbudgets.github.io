@@ -152,35 +152,42 @@ picture {
 }
 
 .banner {
-    background-color: $primary;
-    color: #fff;
-    line-height: 1.2;
+  background-color: $primary;
+  color: rgba(#fff,0.7);
+  font-weight: bold;
+  font-size: 1.3em;
 
-    a {
-      color: inherit;
-    }
+  h1, h2, h3, h4, h5, h6,
+  a {
+    color: #fff;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.1rem;
+  }
+
+  .wrapper {
+    padding: $base-spacing;
 
     @media (min-width: $medium-screen) {
-        font-size: rem(18);
+      padding: $base-spacing * 2.5 $base-spacing;
     }
-
+  }
+  span {
     @media (min-width: $large-screen) {
-      background-color: #fff;
-      color: $base-font-color;
+      @include span-columns(8);
+      position: relative;
+      padding-right: $base-spacing*2;
+
+      :first-child {
+        margin-top: 0;
+      }
+      :last-child {
+        margin-bottom: 0;
+      }
     }
-
-    .wrapper {
-        padding: $base-spacing;
-
-        @media (min-width: $large-screen) {
-          padding-top: 0;
-          padding-bottom: 0;
-        }
-
-        :last-child {
-            margin-bottom: 0;
-        }
-    }
+  }
 }
 
 .video-wrapper {
@@ -194,5 +201,40 @@ picture {
   iframe {
     @include position(absolute, 0 null null 0);
     @include size(100%);
+  }
+}
+
+section.users {
+  & > div {
+    @include outer-container;
+    padding: $base-spacing;
+
+    h2 {
+      margin-bottom: $base-spacing*2;
+    }
+
+    .item {
+      display: block;
+      text-align: center;
+
+      img {
+        height: 100px;
+      }
+
+      h3 {
+        text-transform: uppercase;
+        font-size: 1.15em;
+
+        a {
+          color: inherit;
+        }
+      }
+
+      @media (min-width: $large-screen) {
+        @include span-columns(4);
+        font-size: 1.1em;
+      }
+    }
+
   }
 }
