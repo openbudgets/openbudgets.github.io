@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 160 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Rectangle.-3" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <rect x="442" y="676" width="150" height="10" style="fill:rgb(210,238,212);"/>
+    </g>
+    <g id="Rectangle.-31" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <rect x="478" y="695.527" width="56" height="3" style="fill:rgb(81,184,88);"/>
+    </g>
+    <g id="Rectangle.-32" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <rect x="478" y="700.527" width="42" height="3" style="fill:rgb(81,184,88);"/>
+    </g>
+    <g id="Group.-2" transform="matrix(1,0,0,1,41.4407,41.5)">
+        <g id="Group">
+            <rect id="Rectangle.-8" x="0" y="0.015" width="48.319" height="50.566" style="fill:rgb(81,184,88);"/>
+            <rect id="Rectangle.-81" x="48.881" y="0.015" width="20.552" height="28.935" style="fill:rgb(125,220,132);"/>
+            <rect id="Rectangle.-82" x="48.881" y="29.793" width="20.551" height="20.788" style="fill:rgb(71,138,75);"/>
+            <rect id="Rectangle.-83" x="70.231" y="0.015" width="7.086" height="19.384" style="fill:rgb(81,184,88);"/>
+            <rect id="Rectangle.-84" x="70.231" y="20.242" width="7.086" height="16.575" style="fill:rgb(70,189,78);"/>
+        </g>
+        <rect id="Rectangle.-85" x="70.231" y="37.659" width="7.086" height="12.922" style="fill:rgb(125,219,132);"/>
+    </g>
+    <g id="Oval" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <circle cx="449.5" cy="681.5" r="1.5" style="fill:rgb(125,219,132);"/>
+    </g>
+    <g id="Oval1" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <circle cx="453.5" cy="681.5" r="1.5" style="fill:rgb(125,219,132);"/>
+    </g>
+    <g id="Oval2" transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <circle cx="457.5" cy="681.5" r="1.5" style="fill:rgb(125,219,132);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-436.559,-670.027)">
+        <path d="M596.559,766.027L436.559,766.027L436.559,670.027L596.559,670.027C596.559,702.027 596.559,734.027 596.559,766.027ZM442.559,676.027L442.559,760.027L590.559,760.027L590.559,676.027C541.226,676.027 491.893,676.027 442.559,676.027Z" style="fill:rgb(125,219,132);fill-rule:nonzero;"/>
+    </g>
+</svg>

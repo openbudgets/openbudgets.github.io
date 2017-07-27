@@ -1,29 +1,11 @@
-- title: "About"
-  slug: "about"
-  subitems:
-    - subtitle: "Objectives"
-      subslug: "objectives"
-    - subtitle: "Technical structure"
-      subslug: "technical-structure"
-    - subtitle: "Work Packages"
-      subslug: "work-packages"
-    - subtitle: "Deliverables"
-      subslug: "deliverables"
-    - subtitle: "Partners"
-      subslug: "partners"
+- title: "Upload"
+  slug: "comingsoon"
 
-# - title: "Events"
-#  slug: "events"
-# disabled due to inactivity
+- title: "Explore"
+  slug: "comingsoon"
+
+- title: "Toolbox"
+  slug: "tools"
 
 - title: "Blog"
   slug: "blog"
-
-- title: "Tools"
-  slug: "tools"
-
-- title: "Contact"
-  slug: "contact"
-
-- title: "Press"
-  slug: "press"
