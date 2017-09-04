@@ -15,7 +15,7 @@ tools:
   - name: Embed the Microsite on your website
     description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
     image: ../img/toolbox/embed.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://microsite-obeu.iais.fraunhofer.de/vizmanager/1/"
     secondary_link: "/assets/tools/OBEU Tool - Microsite.pdf"
     secondary_link_text: More Information
     audience:
