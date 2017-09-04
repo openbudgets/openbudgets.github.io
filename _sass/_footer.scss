@@ -4,7 +4,7 @@ $footer-link-color: transparentize($footer-color, .4);
 $footer-disclaimer-color: transparentize($footer-color, .6);
 
 .footer-nav {
-  background-color: $black;
+  background-color: $white;
 
   & > ul {
     @include outer-container;
