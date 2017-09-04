@@ -38,7 +38,7 @@ tools:
   - name: Use the Data Mining Tool Collection
     description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
     image: ../img/toolbox/mining.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://apps.openbudgets.eu"
     secondary_link: "/assets/tools/OBEU Tool - Data Mining Tools.pdf"
     secondary_link_text: More Information
     audience:
