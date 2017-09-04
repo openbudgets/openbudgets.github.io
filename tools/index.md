@@ -5,7 +5,7 @@ tools:
   - name: Visualize your data set and embed it on your website
     description: Here you can upload your fiscal dataset. After you have described each column, you can produce instant visualisations to share with your electorate.
     image: ../img/toolbox/tree-map.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://apps.openbudgets.eu"
     secondary_link: "/assets/tools/OBEU Tool - OpenSpending.pdf"
     secondary_link_text: More Information
     audience:
