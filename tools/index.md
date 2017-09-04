@@ -5,7 +5,7 @@ tools:
   - name: Visualize your data set and embed it on your website
     description: Here you can upload your fiscal dataset. After you have described each column, you can produce instant visualisations to share with your electorate.
     image: ../img/toolbox/tree-map.svg
-    primary_link: "/comingsoon"
+    primary_link: "https://apps.openbudgets.eu/upload"
     secondary_link: "/assets/tools/OBEU Tool - OpenSpending.pdf"
     secondary_link_text: More Information
     audience:
@@ -14,7 +14,7 @@ tools:
   - name: Embed the Microsite on your website
     description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
     image: ../img/toolbox/embed.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://microsite-obeu.iais.fraunhofer.de/vizmanager/1/"
     secondary_link: "/assets/tools/OBEU Tool - Microsite.pdf"
     secondary_link_text: More Information
     audience:
@@ -38,7 +38,7 @@ tools:
   - name: Use the Data Mining Tool Collection
     description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
     image: ../img/toolbox/mining.svg
-    primary_link: "/comingsoon"
+    primary_link: "https://apps.openbudgets.eu/"
     secondary_link: "/assets/tools/OBEU Tool - Data Mining Tools.pdf"
     secondary_link_text: More Information
     audience:
