@@ -8,8 +8,8 @@
 			<ul>
                 {% for item in site.data.menu %}
                 {% if item.subitems != null %}
-			{% if item.subitems != null %}
-				
+			{% if item.url != null %}
+				<a href="{{ item.url }}/">{{ item.title }}</a>
 			{% else %}
 				<li class="{% if current_page.last == item.slug %} active{% endif %}{% if item.subitems != null %} has-children{% endif %}"></li>
                 		<a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
