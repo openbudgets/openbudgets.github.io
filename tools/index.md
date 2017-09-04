@@ -24,7 +24,7 @@ tools:
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
     image: ../img/toolbox/performance.svg
     primary_link: "http://kpi.okfn.gr/"
-    secondary_link: "/assets/tools/OBEU Tool - KPI.pdf"
+    secondary_link: "https://www.youtube.com/watch?v=FY6lPuxlbOQ"
     secondary_link_text: watch demo
     audience:
       - Administration
