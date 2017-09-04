@@ -25,12 +25,11 @@ layout: default
       <div class="tool type-tool{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
         <h2 class="type">{{ t.heading }}</h2>
         {% if t.url != null %}
-				<a href="{{ t.url }}/">{{ t.prompt }}</a>
+				<a class="primary-link"  href="{{ t.url }}/">{{ t.prompt }}</a>
 			  {% else %}
-				<a href="{{ site.baseurl }}/{{ t.slug }}/">{{ t.prompt }}</a>
+				<a class="primary-link"  href="{{ site.baseurl }}/{{ t.slug }}/">{{ t.prompt }}</a>
                 	{% endif %}
 
-        <a class="primary-link" href="{{ t.url }}">{{ t.prompt }}</a>
       </div>
       {% endfor %}
     </div>
