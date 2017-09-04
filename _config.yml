@@ -2,8 +2,8 @@
 title: OpenBudgets
 description: > # this means to ignore newlines until "baseurl:"
   Upload, Visualize, Analyse public budget and spending data. Start exploring and learn stories behind budgets.
-baseurl: "/openbudgets.github.io/" # the subpath of your site, e.g. /blog/
-url: "https://okgreece.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://openbudgets.eu/" # the base hostname & protocol for your site
 
 github_username:  openbudgets
 github_repo: openbudgets.github.io
