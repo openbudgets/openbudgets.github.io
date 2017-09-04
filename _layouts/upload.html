@@ -17,4 +17,31 @@ layout: default
 
    
   </div>
+  <div class="wrapper">
+    <div class="tool-list">
+      {% assign toolnum = 0 %}
+      {% for t in page.methods %}
+      {% assign toolnum = toolnum | plus: 1 %}
+      <div class="tool type-tool{% for a in t.audience %} audience-{{ a | downcase | replace: ' ', '-'}}{% endfor %}">
+        <h2 class="type">Method {{ toolnum }}</h2>
+        <a href="{{ t.url }}">
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        <img src="{{ site.baseurl }}/img/{{ t.image | replace:'.svg','-c.svg' }}" alt="" class="colour" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        </a>
+        <h3 class="name"><a href="{{ t.url }}">{{ t.header }}</a></h3>
+        {{ t.description | markdownify }}
+        <a class="primary-link" href="{{ t.url }}">Start the tool</a>
+        {% if t.secondary_link %}
+        <a class="secondary-link" href="{{ t.url }}">{{ t.secondary_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    
+  </div>
+  
 </div>
