@@ -5,8 +5,8 @@ methods:
 - heading: LinkedPipes
   slug: 'upload/linkedpipes'
   prompt: 'Read the documentation'
-- heading: OS Packager
-  url: "http://openbudgets.eu/packager"
+- heading: OpenSpending Packager
+  url: "http://apps.openbudgets.eu/packager"
   prompt: 'Start the tool'
 
 ---
