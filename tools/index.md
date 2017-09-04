@@ -30,7 +30,7 @@ tools:
   - name: Let your electorate become decision makers in the budgeting process
     description: With the Participatory Budgeting Tool, you can let your electorate become decision makers in the budgeting process!
     image: ../img/toolbox/chart.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://demo.participativos.civio.es/"
     secondary_link: "/assets/tools/OBEU Tool - CiViO.pdf"
     secondary_link_text: More Information
     audience:
