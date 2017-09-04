@@ -41,7 +41,7 @@ title: Deliverables
 |  | D6.2 Needs Analysis Report | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D6.2.pdf)
 |  | D6.3 Quality index of EU structural funds data | [Download (425KB)]({{site.baseurl}}/assets/deliverables/D6.3.pdf)
 | 	 | D6.4 Press release and other media products | [Download (1,5MB)]({{site.baseurl}}/assets/deliverables/D6.4.pdf)
-| 	 | D6.5 Briefing papers | [Download (684KB)]({{site.bas eurl}}/assets/deliverables/D6.5.pdf)
+| 	 | D6.5 Briefing papers | [Download (684KB)]({{site.baseurl}}/assets/deliverables/D6.5.pdf)
 | 	 | D6.6 Final Report: Data Quality | [Download (684KB)]({{site.baseurl}}/assets/deliverables/D6.6.pdf)
 | 	 | D6.7 Final Report: Recommendations for Change | [Download (1,7MB)]({{site.baseurl}}/assets/deliverables/D6.7.pdf)
 | WP7	 | D7.1 Assessment Report | [Download **(12,8MB)**]({{site.baseurl}}/assets/deliverables/D7.1.pdf)
