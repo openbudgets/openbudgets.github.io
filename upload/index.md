@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: upload
 title: "Upload data!"
 steps:
   - heading: This tool is currently in development.
