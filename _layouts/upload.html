@@ -22,8 +22,13 @@ layout: default
 				<a class="primary-link"  href="{{ t.url }}/">{{ t.prompt }}</a>
 			  {% else %}
 				<a class="primary-link"  href="{{ site.baseurl }}/{{ t.slug }}/">{{ t.prompt }}</a>
-                	{% endif %}
-
+        {% endif %}
+        {% if t.image %}
+        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
+        {% else %}
+        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
+        {% endif %}
+        {{ t.description | markdownify }}
       </div>
       {% endfor %}
     </div>

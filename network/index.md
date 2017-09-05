@@ -11,19 +11,27 @@ The engagement of stakeholders is key for the success of OpenBudgets.eu for user
 
 The Stakeholder Advisory Board of OpenBudgets.eu consists of 5 members: 
 
-###### [David McNair, ONE Campaign](https://www.one.org/us/person/david-mcnair/)
 
-###### [Gisele Craveiro, University of Sao Paolo](http://www.itu.int/en/ITU-T/Workshops-and-Seminars/gsw/201609/Pages/8-September-2016/Session%203/CRAVAEIRO-Gisele.aspx)
+<table width="100%" border="0">
+<col width="38%">
+<tr>
+<td>
+<h6><a href="https://www.one.org/us/person/david-mcnair/" >David McNair, ONE Campaign</a></h6>
 
-###### [Jed Miller, consultant in Open Data, Open Spending and Extractives](http://jedmiller.com/about/)
+<h6><a href="http://www.itu.int/en/ITU-T/Workshops-and-Seminars/gsw/201609/Pages/8-September-2016/Session%203/CRAVAEIRO-Gisele.aspx" >Gisele Craveiro, University of Sao Paolo</a></h6>
 
-###### [Daniel Macyszyn, CEO of ePF](https://epf.org.pl/en/our-team/)
+<h6><a href="http://jedmiller.com/about/" >Jed Miller, consultant in Open Data, Open Spending and Extractives</a></h6>
 
-###### [Claire Schouten, Open Budget Partnership](http://dev.internationalbudget.affinitybridge.com/who-we-are/staff/)
+<h6><a href="https://epf.org.pl/en/our-team/" >Daniel Macyszyn, CEO of ePF</a></h6>
 
-Each of them is a key player in the field of Budget Transparency with a wealth of experience in civic tech, campaigning, and budget transparency research. They have already provided valuable feedback at every stage of the process and remain to do so in the current dissemination phase. The consortium has organised two offline workshops one wide to gather input and feedback from stakeholders as well as two online meetings and several calls. [The first stakeholder workshop in December 2015](http://openbudgets.eu/post/2015/12/18/first-stakeholder-workshop/) and the experts meeting at IODC led to the establishment of the current stakeholder board, which was informed of the progress of the project and asked for input during online meetings in November and July, as well as several follow up phone calls throughout the year. 
-<br>
-<br>
+<h6><a href="http://dev.internationalbudget.affinitybridge.com/who-we-are/staff/" >Claire Schouten, Open Budget Partnership]</a></h6>
+</td>
+<td>
+Each of them is a key player in the field of Budget Transparency with a wealth of experience in civic tech, campaigning, and budget transparency research. They have already provided valuable feedback at every stage of the process and remain to do so in the current dissemination phase. The consortium has organised two offline workshops one wide to gather input and feedback from stakeholders as well as two online meetings and several calls. <a href="http://openbudgets.eu/post/2015/12/18/first-stakeholder-workshop/">The first stakeholder workshop in December 2015</a> and the experts meeting at IODC led to the establishment of the current stakeholder board, which was informed of the progress of the project and asked for input during online meetings in November and July, as well as several follow up phone calls throughout the year. 
+</td>
+</tr>
+</table>
+
 <br>
 
 <h2>Related Projects</h2>
