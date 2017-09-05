@@ -2,10 +2,11 @@
   slug: "tools"
 
 - title: "Upload"
-  slug: "comingsoon"
+  slug: "upload"
 
 - title: "Explore"
-  slug: "comingsoon"
+  slug: "explore"
+  url: "http://apps.openbudgets.eu"
 
 - title: "Blog"
   slug: "blog"

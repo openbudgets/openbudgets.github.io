@@ -8,19 +8,33 @@
 			<ul>
                 {% for item in site.data.menu %}
                 {% if item.subitems != null %}
-                <li class="{% if current_page.last == item.slug %} active{% endif %}{% if item.subitems != null %} has-children{% endif %}">
-                <a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
-                <ul>
-                    {% for subcategory in item.subitems %}
-                    <li{% if current_page.last == subcategory.subslug %} class='active'{% endif %}><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
-                    {% endfor %}
-                </ul>
+			<li class="{% if current_page.last == item.slug %} active{% endif %}{% if item.subitems != null %} has-children{% endif %}">
+			{% if item.url != null %}
+				<a href="{{ item.url }}/">{{ item.title }}</a>
+			{% else %}
+				<a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
+                	{% endif %}
+
+			<ul>
+				{% for subcategory in item.subitems %}
+					<li{% if current_page.last == subcategory.subslug %} class='active'{% endif %}><a href="{{ site.baseurl }}/{{ item.slug }}/{{ subcategory.subslug }}/">{{ subcategory.subtitle }}</a></li>
+				{% endfor %}
+			</ul>
+                
 
                 {% else %}
-                <li{% if current_page.last == item.slug %} class='active'{% endif %}>
-                    <a href="{{ site.baseurl }}/{{ item.slug }}">{{ item.title }}</a>
-                {% endif %}
-                </li>
+
+			<li{% if current_page.last == item.slug %} class='active'{% endif %}>
+			{% if item.url != null %}
+				<a href="{{ item.url }}/">{{ item.title }}</a>
+			{% else %}
+				<a href="{{ site.baseurl }}/{{ item.slug }}/">{{ item.title }}</a>
+                	{% endif %}
+		{% endif %}
+		</li>
+		
+
+
             {% endfor %}
             </ul>
 		</nav>
