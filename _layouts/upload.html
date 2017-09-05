@@ -12,7 +12,7 @@ layout: default
   </div>
   
   <div class="wrapper">
-    <div class="tool-list">
+    <div class="tool-list-upload">
       {% assign toolnum = 0 %}
       {% for t in page.methods %}
       {% assign toolnum = toolnum | plus: 1 %}
@@ -22,11 +22,6 @@ layout: default
 				<a class="primary-link"  href="{{ t.url }}/">{{ t.prompt }}</a>
 			  {% else %}
 				<a class="primary-link"  href="{{ site.baseurl }}/{{ t.slug }}/">{{ t.prompt }}</a>
-        {% endif %}
-        {% if t.image %}
-        <img src="{{ site.baseurl }}/img/{{ t.image }}" alt="" />
-        {% else %}
-        <img src="{{ site.baseurl }}/img/placeholder.svg" alt="" />
         {% endif %}
         {{ t.description | markdownify }}
       </div>

@@ -3,6 +3,7 @@
 
 - title: "Upload"
   slug: "upload"
+  url: "http://apps.openbudgets.eu/upload"
 
 - title: "Explore"
   slug: "explore"
