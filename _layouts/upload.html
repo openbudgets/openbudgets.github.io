@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="upload tools">
+  <div class="banner">
+    <div class="wrapper">
+      <span>
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </span>
+    </div>
+  </div>
+  
+  <div class="wrapper">
+    <div class="tool-list">
+      {% assign toolnum = 0 %}
+      {% for t in page.methods %}
+      {% assign toolnum = toolnum | plus: 1 %}
+      <div class="tool type-tool audience-adminstration">
+        <h2 class="type">{{ t.heading }}</h2>
+        {% if t.url != null %}
+				<a class="primary-link"  href="{{ t.url }}/">{{ t.prompt }}</a>
+			  {% else %}
+				<a class="primary-link"  href="{{ site.baseurl }}/{{ t.slug }}/">{{ t.prompt }}</a>
+                	{% endif %}
+
+      </div>
+      {% endfor %}
+    </div>
+    
+  </div>
+  
+</div>

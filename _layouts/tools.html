@@ -67,7 +67,7 @@ layout: default
         </a>
         <h3 class="name"><a href="{{ t.primary_link }}">{{ t.name }}</a></h3>
         {{ t.description | markdownify }}
-        <a class="primary-link" href="{{ t.primary_link }}">Start the tool</a>
+        <a class="primary-link" href="{{ t.primary_link }}">{% if t.primary_link_text==null %}Start the tool{% else %} {{  t.primary_link_text }}  {% endif %}</a>
         {% if t.secondary_link %}
         <a class="secondary-link" href="{{ t.secondary_link }}">{{ t.secondary_link_text }}</a>
         {% endif %}

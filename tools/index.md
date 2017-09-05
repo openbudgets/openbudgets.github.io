@@ -5,7 +5,8 @@ tools:
   - name: Visualize your data set and embed it on your website
     description: Here you can upload your fiscal dataset. After you have described each column, you can produce instant visualisations to share with your electorate.
     image: ../img/toolbox/tree-map.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://apps.openbudgets.eu"
+    primary_link_text: "Go to Explorer and click 'View'"
     secondary_link: "/assets/tools/OBEU Tool - OpenSpending.pdf"
     secondary_link_text: More Information
     audience:
@@ -14,7 +15,7 @@ tools:
   - name: Embed the Microsite on your website
     description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
     image: ../img/toolbox/embed.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://microsite-obeu.iais.fraunhofer.de/vizmanager/1/"
     secondary_link: "/assets/tools/OBEU Tool - Microsite.pdf"
     secondary_link_text: More Information
     audience:
@@ -23,7 +24,7 @@ tools:
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
     image: ../img/toolbox/performance.svg
     primary_link: "http://kpi.okfn.gr/"
-    secondary_link: "/assets/tools/OBEU Tool - KPI.pdf"
+    secondary_link: "https://www.youtube.com/watch?v=FY6lPuxlbOQ"
     secondary_link_text: watch demo
     audience:
       - Administration
@@ -38,7 +39,8 @@ tools:
   - name: Use the Data Mining Tool Collection
     description: Are you looking to dive deep into your RDF data? The Data Mining Tool Collection offers you a plethora of ways to do so. Using it you can apply time series algorithms, detect outliers, perform descriptive statistics, do clustering and similarity learning
     image: ../img/toolbox/mining.svg
-    primary_link: "/comingsoon"
+    primary_link: "http://apps.openbudgets.eu"
+    primary_link_text: "Go to Explorer and click 'Analyze'"
     secondary_link: "/assets/tools/OBEU Tool - Data Mining Tools.pdf"
     secondary_link_text: More Information
     audience:
@@ -54,7 +56,7 @@ tools:
   - name: Browse RDF Data
     description: An open source content negotiator and HTML description generator for RDF resources. It is a PHP web application, able to be deployed in most environments out of the box with minimum effort, lowering the barrier for publishing Linked Data on the Web.
     image: ../img/toolbox/rdf.svg
-    primary_link: "https://github.com/okgreece/RDFBrowser"
+    primary_link: "http://data.openbudgets.eu/"
     secondary_link: "/assets/tools/OBEU Tool - RDFBrowser.pdf"
     secondary_link_text: More Information
     audience:
@@ -62,7 +64,7 @@ tools:
   - name: Match Heterogeneous Codelists found in Fiscal Datasets
     description: An application for online, collaborative, system aided manual entity linking. The tool can be used to manually create linksets between two knowledge graphs or to validate linkesets.
     image: ../img/toolbox/alignment.svg
-    primary_link: "http://alignment.okfn.gr/dashboard"
+    primary_link: "http://alignment.okfn.gr"
     secondary_link: "/assets/tools/OBEU Tool - Alignment.pdf"
     secondary_link_text: More Information
     audience:
