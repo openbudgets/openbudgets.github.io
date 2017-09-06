@@ -54,13 +54,9 @@ Download past OpenBudgets press releases in different languages below:
 ***
 
 
-**Logo Downloads:**
+**Logo Download:**
 
-Logo: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo.eps)
-
-Logo black: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-black.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-black.eps)
-
-Logo white: [PNG](http://openbudgets.eu/assets/materials/openbudgets_logo-white.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets_logo-white.eps)
+Logo: [PNG](http://openbudgets.eu/assets/materials/openbudgets-logo-new.png), [EPS](http://openbudgets.eu/assets/materials/openbudgets-logo-new.eps)
 
 
 ***
