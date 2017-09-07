@@ -28,7 +28,11 @@ The three approaches and audiences to public budgeting have resulted in a holist
 [OpenBudgets.eu](http://openbudgets.eu/) has received funding from the European Union's H2020 EU research and innovation programme under grant agreement No 645833 and is implemented by an international consortium of nine partners under the coordination of Fraunhofer IAIS.
 
 More information: [http://openbudgets.eu](http://openbudgets.eu)
+
 Press contact: Anna Alberts - Open Knowledge Foundation Germany
+
 [openbudgets.eu](http://openbudgets.eu) | [@OpenBudgetsEU](https://twitter.com/OpenBudgetsEU)
+
 anna.alberts@okfn.de
+
 Office: +49 30 57703666 0
