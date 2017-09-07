@@ -31,8 +31,10 @@ More information: [http://openbudgets.eu](http://openbudgets.eu)
 
 Press contact: Anna Alberts - Open Knowledge Foundation Germany
 
-[openbudgets.eu](http://openbudgets.eu) | [@OpenBudgetsEU](https://twitter.com/OpenBudgetsEU)
+web: [openbudgets.eu](http://openbudgets.eu)
 
-anna.alberts@okfn.de
+twitter: [@OpenBudgetsEU](https://twitter.com/OpenBudgetsEU)
+
+mail: [anna.alberts@okfn.de](mailto:anna.alberts@okfn.de)
 
 Office: +49 30 57703666 0
