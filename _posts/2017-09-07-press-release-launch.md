@@ -6,7 +6,7 @@ categories: post
 author:     Anna Alberts & Bela Seeger
 author_affiliation: Open Knowledge Foundation Germany
 author_affiliation_link: okfn.de
-image:      
+image:      ../assets/posts/2017-07/obeu.png
 excerpt:    >
  Today, OpenBudgets officially launches its fiscal transparency platform. Using OpenBudgets.eu journalists, civil servants, and data scientists can process, analyse, and explore the nature and relevance of fiscal data.  
 ---
