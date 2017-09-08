@@ -112,4 +112,4 @@ games:
 
 ---
 
-Choose a tool to launch it. <!--[Read the tutorial](../documentation)-->
+Choose a tool to launch it. For support requests, use [Github](https://github.com/openbudgets/openbudgets.github.io/issues). <!--[Read the tutorial](../documentation)-->
