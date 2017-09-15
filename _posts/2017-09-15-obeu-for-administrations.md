@@ -17,17 +17,17 @@ The OpenBudgets.eu platform offers several applications that are tailored to the
 
 ## [Upload & Explore](http://apps.openbudgets.eu/upload/)
 
-Upload & Explore are essential and important parts of the OpenBudgets platform, as here budget and spending data is imported, visualised, and analysed. You may choose to upload your own dataset using the ‘Upload’ button, or you can dive straight into the existing datasets by clicking ‘Explore’. 
+ **Upload** & **Explore** are essential and important parts of the OpenBudgets platform, as here budget and spending data is imported, visualised, and analysed. You may choose to upload your own dataset using the ‘Upload’ button, or you can dive straight into the existing datasets by clicking ‘Explore’. 
 
-**Explore**
+##### **[Explore](http://apps.openbudgets.eu/)**
 
 The explore view shows you the datasets that have been already uploaded to the platform. Selecting ‘view’ will open the OpenBudgets Viewer, with instant access to a series of single-click visualisations that you can customise and embed. ‘Analyse’ will open the suite of data mining algorithms you can run on the dataset, allowing for more advanced insights into your data. 
 
 <img alt="Explore" src="{{site.baseurl}}/assets/posts/2017-09/image_0.png">
 
-**Upload**
+##### **[Upload](http://apps.openbudgets.eu/upload/)**
 
-Clicking on ‘Upload’ offers two ways to transfer data into the platform: LinkedPipes and OpenSpending Packager. 
+Clicking on ‘Upload’ offers two ways to transfer data into the platform: 
 
 <img alt="Upload" src="{{site.baseurl}}/assets/posts/2017-09/image_1.png">
 
