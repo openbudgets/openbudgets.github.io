@@ -37,7 +37,7 @@ Create custom pipelines to source, process, and convert data from almost any sou
 
 The RDF Browser is an open source content negotiator and HTML description generator for RDF resources. It is a PHP web application, able to be deployed in most environments out of the box with minimum effort, lowering the barrier for publishing Linked Data on the Web.
 
-<img alt="Participatory Budgeting Tool" src="{{site.baseurl}}/assets/posts/2017-09/image_12.png">
+<img alt="Browse RDF data" src="{{site.baseurl}}/assets/posts/2017-09/image_12.png">
 
 ---
 
@@ -46,7 +46,7 @@ The RDF Browser is an open source content negotiator and HTML description genera
 
 An application for online, collaborative, system aided manual entity linking. The tool can be used to manually create linksets between two knowledge graphs or to validate linkesets.
 
-<img alt="Participatory Budgeting Tool" src="{{site.baseurl}}/assets/posts/2017-09/image_13.png">
+<img alt="Alignment" src="{{site.baseurl}}/assets/posts/2017-09/image_13.png">
 
 ---
 
