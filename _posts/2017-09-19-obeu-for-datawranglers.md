@@ -40,7 +40,6 @@ The RDF Browser is an open source content negotiator and HTML description genera
 <img alt="Participatory Budgeting Tool" src="{{site.baseurl}}/assets/posts/2017-09/image_12.png">
 
 ---
----
 
 
 ## [Alignment](http://alignment.okfn.gr/)
