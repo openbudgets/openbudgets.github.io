@@ -8,10 +8,10 @@ author_affiliation: Open Knowledge Foundation Germany
 author_affiliation_link: okfn.de
 image:      ../assets/posts/2017-09/image_6.png
 excerpt:    >
- The OpenBudgets.eu platform offers several applications that are tailored to the needs of administrations and public officials. From easy-to-use budget visualisations to performance comparisons between cities and participatory budgeting mechanisms, a wide spectrum is available. This is an overview of the available tools and their function.   
+ The OpenBudgets.eu platform offers several applications that are tailored to the needs of journalists. From ready-to-use massive databases containing budget and spending data to inspiring instances of invdstigative journalism in the field of fiscal corruption, valuable resources are available. This is an overview of the available tools and their function.   
 ---
 
-The OpenBudgets.eu platform offers several applications that are tailored to the needs of administrations and public officials. From easy-to-use budget visualisations to performance comparisons between cities and participatory budgeting mechanisms, a wide spectrum is available. This is an overview of the available tools and their function. 
+The OpenBudgets.eu platform offers several applications that are tailored to the needs of journalists. From ready-to-use massive databases containing budget and spending data to inspiring instances of invdstigative journalism in the field of fiscal corruption, valuable resources are available. This is an overview of the available tools and their function.
 
 ---
 
