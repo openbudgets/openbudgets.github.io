@@ -8,13 +8,8 @@ author_affiliation: Open Knowledge Foundation Germany
 author_affiliation_link: okfn.de
 image:      ../assets/posts/2017-10/image_3.jpg
 excerpt:    >
- The OpenBudgets.eu platform offers several applications that are tailored to the needs of data wranglers and domain experts. Complex data mining algorithms are accompanied by state-of-the-art linked data tools that cover large aspects of the complexities involved in the work within the Resource Description Framework (RDF).
+ OpenBudgets.eu was launched in the first week of September and presented at the annual SEMANTiCS conference in Amsterdam. The annual SEMANTiCS conference is the meeting place for professionals who make semantic computing work, and understand its benefits and know its limitations. Every year, SEMANTiCS attracts information managers, IT-architects, software engineers, and researchers, from organisations ranging from NPOs, universities, public administrations to the largest companies in the world.
 ---
-
-OpenBudgets.eu was launched in the first week of September and presented at the annual SEMANTiCS conference in Amsterdam. The annual SEMANTiCS conference is the meeting place for professionals who make semantic computing work, and understand its benefits and know its limitations. Every year, SEMANTiCS attracts information managers, IT-architects, software engineers, and researchers, from organisations ranging from NPOs, universities, public administrations to the largest companies in the world.
-
----
-
 
 OpenBudgets.eu was launched in the first week of September and presented at the annual SEMANTiCS conference in Amsterdam. The annual SEMANTiCS conference is the meeting place for professionals who make semantic computing work, and understand its benefits and know its limitations. Every year, SEMANTiCS attracts information managers, IT-architects, software engineers, and researchers, from organisations ranging from NPOs, universities, public administrations to the largest companies in the world.
 
