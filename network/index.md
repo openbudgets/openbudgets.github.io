@@ -24,7 +24,7 @@ The Stakeholder Advisory Board of OpenBudgets.eu consists of 5 members:
 
 <h6><a href="https://epf.org.pl/en/our-team/" >Daniel Macyszyn, CEO of ePF</a></h6>
 
-<h6><a href="http://dev.internationalbudget.affinitybridge.com/who-we-are/staff/" >Claire Schouten, Open Budget Partnership]</a></h6>
+<h6><a href="http://dev.internationalbudget.affinitybridge.com/who-we-are/staff/" >Claire Schouten, Open Budget Partnership</a></h6>
 </td>
 <td>
 Each of them is a key player in the field of Budget Transparency with a wealth of experience in civic tech, campaigning, and budget transparency research. They have already provided valuable feedback at every stage of the process and remain to do so in the current dissemination phase. The consortium has organised two offline workshops one wide to gather input and feedback from stakeholders as well as two online meetings and several calls. <a href="http://openbudgets.eu/post/2015/12/18/first-stakeholder-workshop/">The first stakeholder workshop in December 2015</a> and the experts meeting at IODC led to the establishment of the current stakeholder board, which was informed of the progress of the project and asked for input during online meetings in November and July, as well as several follow up phone calls throughout the year. 
