@@ -2,7 +2,7 @@
 layout: page
 title: The OpenBudgets Network
 ---
-The OpenBudgets Network comprises of a select group of **[project partners](/about/partners)** covering a wide range of aspects related to fiscal transparency, a **stakeholder board** populated with key figures and domain experts, as well as a **European-wide network of other projects and organisations** that have been cooperated with throughout the duration of the project.
+The OpenBudgets Network comprises of a select group of **[project partners](/about/partners)** covering a wide range of aspects related to fiscal transparency, a **stakeholder board** populated with key figures and domain experts, as well as a **[European-wide network of other projects and organisations](https://docs.google.com/spreadsheets/d/1-GFb655ZVLANCysSy6PlliuowxKdb9d6OexPDVBBdV4/edit?usp=sharing)** and **related H2020 projects**. 
 
 
 <h2>Stakeholder Board</h2>
