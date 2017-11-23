@@ -20,7 +20,7 @@ Overall this lead to a dataset of 11291 tweets, while 8719 of those included lin
 **Tweet Frequency Timeline**
 Figure 1 shows us a plot of the timeline and the tweet frequency, which is an interesting aspect of twitter data analysis. Often specific increases in tweet frequencies, signal a certain event taking place or important news being released. When looking at the frequency of the hashtag #cohesionpolicy over time we can clearly see spikes at certain dates which hint that something relevant must have happened. By looking at the exact dates and doing some additional research we can explain why they occurred.
 
-<img alt="Frequency" src="{{site.baseurl}/assets/posts/2017-09/image_16.png" />
+<img src="../assets/posts/2017-09/image_16.png" />
 
 One of the earliest spikes in tweet frequencies came in late January and can be directly attributed to the January 24 workshop by the European Parliament’s REGI committee on “Building building blocks of a future cohesion policy”. The next larger uptake is centered around [February 9](http://europa.eu/rapid/press-release_MEX-17-256_en.htm?locale=en), when DG Region Commissioner Corina Cretu visited Italy and stressed the readiness of the structural funds for reconstruction process after the earthquakes. The high tweet frequency (253) on March 2 was due to the Committee of the Regions (CoR) external meeting and conference on "The Future of Cohesion Policy beyond 2020". On April 25 the Council of the European Union adopted its [conclusions](http://ec.europa.eu/regional_policy/en/newsroom/news/2017/04/25-04-2017-making-cohesion-policy-more-visible) on making cohesion policy more effective, relevant and visible to the citizens, which lead to 236 tweets.
 
