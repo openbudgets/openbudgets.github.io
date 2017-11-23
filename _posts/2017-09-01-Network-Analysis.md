@@ -20,7 +20,9 @@ Overall this lead to a dataset of 11291 tweets, while 8719 of those included lin
 **Tweet Frequency Timeline**
 Figure 1 shows us a plot of the timeline and the tweet frequency, which is an interesting aspect of twitter data analysis. Often specific increases in tweet frequencies, signal a certain event taking place or important news being released. When looking at the frequency of the hashtag #cohesionpolicy over time we can clearly see spikes at certain dates which hint that something relevant must have happened. By looking at the exact dates and doing some additional research we can explain why they occurred.
 
-<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_16.png">
+<center>
+<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_16.png" width="450px">
+</center>
 
 One of the earliest spikes in tweet frequencies came in late January and can be directly attributed to the January 24 workshop by the European Parliament’s REGI committee on “Building building blocks of a future cohesion policy”. The next larger uptake is centered around [February 9](http://europa.eu/rapid/press-release_MEX-17-256_en.htm?locale=en), when DG Region Commissioner Corina Cretu visited Italy and stressed the readiness of the structural funds for reconstruction process after the earthquakes. The high tweet frequency (253) on March 2 was due to the Committee of the Regions (CoR) external meeting and conference on "The Future of Cohesion Policy beyond 2020". On April 25 the Council of the European Union adopted its [conclusions](http://ec.europa.eu/regional_policy/en/newsroom/news/2017/04/25-04-2017-making-cohesion-policy-more-visible) on making cohesion policy more effective, relevant and visible to the citizens, which lead to 236 tweets.
 
@@ -30,11 +32,15 @@ The second highest peak of tweets (677) took place on May 18 during the CoR even
 
 Next we focus our analysis on the most frequent users and their networks. The table below shows, the top 15 users of #cohesionpolicy throughout the last 7 months. A clear pattern of EU actors and institutions emerges, that is only stopped by user ejaariza93 who appears to be a Spanish university student with a high interest in cohesion policy. The distribution appears rather top-heavy with the top 10 users accounting for 20.2% of the overall tweets, this hints at a few key accounts dominating the twitter scene around #cohesionpolicy.
 
-<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_15.png">
+<center>
+<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_15.png" width="450px">
+</center>
 
 Furthermore, we undertook a network analysis using Gephi. We analysed which users had the highest centrality within the network, measured by the most tweets and retweets. As you can see there are several nodes (dots), which equal each user. Some of those nodes are larger, indicating that they are more important network hubs within the #cohesionpolicy community. The edges (lines) show how connected each account is with the others, if they mentioned each other or replied the edges grow darker. The most important users are also indicated by the size of their name. Similar to our most frequent users list, we can see that the twitter accounts of EU Regional Policy, Cohesify, Corina Cretu, Pierluigi Boda and European Committee of the Regions function as network hubs within the #cohesionpolicy community.
 
-<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_16.png">
+<center>
+<img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-09/image_14.png" width="450px">
+</center>
 
 The most common co-hashtags are #eu7cf, #EU, #CohesionAlliance, #EUbudget, #FutureofEurope and #EUbudget again show the EU-centeredness of #cohesionpolicy. This holds equally for the most frequently used words (ignoring capitalization) “eu”, “regional”, “corinacretueu”, “future” and “europe”. Analysing the most tweeted images again shows that the #cohesionpolicy hashtag is mostly used by EU institutions. The most frequently tweeted picture was [this](https://pbs.twimg.com/media/DDQTGx9XsAAkz60.jpg) photo of Günther Oettinger the German EU Commissioner for Budget & Human Resources. Similarly, the second most tweeted photo is of [Corina Cretu](https://pbs.twimg.com/media/C5bwVrTXQAAB_F3.jpg) the Romanian EU Commissioner for Regional Policy.
 
