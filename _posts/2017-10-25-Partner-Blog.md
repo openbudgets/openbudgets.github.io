@@ -31,7 +31,7 @@ Public budget and spending data can then in turn be combined with the data provi
 <img alt="Title Image" src="{{site.baseurl}}/assets/posts/2017-10/digiwhist.png" width="450px">
 </center>
 
-## Your Data Stories
+## [Your Data Stories](https://yourdatastories.eu/)
 
 With the insights and data from [OpenBudgets.eu](http://openbudgets.eu/)and [DIGIWHIST](http://digiwhist.eu/), the data can be used for storytelling with the tools of [Your Data Stories](https://yourdatastories.eu/).[Your Data Stories](https://yourdatastories.eu/) allows journalists and data experts to interconnect, search, analyse, explore and understand available data, in order to extract insights, facts and material to support and shape their data stories. The [YDS platform](http://platform.yourdatastories.eu/) allows users to browse through and analyse datasets from various sources, which have been already aligned, interlinked and unified under a common vocabulary. The simple visual approach of YDS makes it possible for journalists and less skilled data researchers to delve into the data from any possible aspect and perspective finding new angles. The all-in-one workflow lets users go straight from finding the data to publishing their story. 
 
