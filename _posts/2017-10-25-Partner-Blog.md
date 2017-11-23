@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Enlarging the H2020 project toolbox: New Data Tools for investigative Journalists"
-date:       2017-10-26
+date:       2017-10-25
 categories: post
 author:     Anna Alberts, Tilman Wagner,Anna Triantafillou, Daniel Tan, Fiona Harrison
 author_affiliation: Open Knowledge Foundation Deutschland
