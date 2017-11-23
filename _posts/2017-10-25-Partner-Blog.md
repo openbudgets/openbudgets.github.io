@@ -3,9 +3,9 @@ layout:     post
 title:      "Enlarging the H2020 project toolbox: New Data Tools for investigative Journalists"
 date:       2017-10-25
 categories: post
-author:     Anna Alberts, Tilman Wagner,Anna Triantafillou, Daniel Tan, Fiona Harrison
-author_affiliation: Open Knowledge Foundation Deutschland
-author_affiliation_link: okfn.de
+author:     Anna Alberts, Tilman Wagner, Anna Triantafillou, Daniel Tan, Fiona Harrison
+author_affiliation: openbudgets.eu, digiwhist, YDS
+author_affiliation_link: openbudgets.eu
 image:      ../assets/posts/2017-10/image_8.png
 excerpt:    >
   Reporting on public spending is key to accountability, but access and analysis of data is not always easy. This is why [OpenBudgets.eu](http://openbudgets.eu/), [Your Data Stories](https://yourdatastories.eu/) and [DIGIWHIST](http://digiwhist.eu/), three H2020 projects, have focused on tracing public spending, data analysis and storytelling, in the name of accountability..
