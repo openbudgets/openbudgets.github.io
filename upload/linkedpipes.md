@@ -7,12 +7,12 @@
 
 ## Introduction
 
-LinkedPipes is a lightweight ETL (Extract, Transform, Load) tool that allows advanced users to create individual pipelines for specific use cases in which data needs to be sourced. Find details on the installation process on [Github](https://github.com/linkedpipes/etl). 
+LinkedPipes is a lightweight ETL (Extract, Transform, Load) tool that allows advanced users to create individual pipelines for specific use cases in which data needs to be sourced. Find details on the installation process on <a href="https://github.com/linkedpipes/etl">Github</a>. 
 
 ### Getting familiar with the Environment of LP
 #### Overview
 
-Once you have [LinkedPipes ETL](https://etl.linkedpipes.com/) installed and running, it is time to explore. Of course, there is not much to see in an empty instance, but let us go through the basics. The image above is what we call a Pipeline. It is a defined data transformation process which consists of interconnected components. You can add a component to a pipeline by clicking in an empty space and selecting the desired component from the list, or by dragging and edge to an empty space. Each component has a name, green input ports and yellow output ports. The ports represent Data Units, which can contain either RDF data or regular files, according to their type. Ports are connected by edges, which indicate the flow of data. Only ports representing Data Units of the same type can be connected. In addition, component configuration can be shared among pipelines using component templates. 
+Once you have <a href="https://etl.linkedpipes.com/">LinkedPipes ETL</a> installed and running, it is time to explore. Of course, there is not much to see in an empty instance, but let us go through the basics. The image above is what we call a Pipeline. It is a defined data transformation process which consists of interconnected components. You can add a component to a pipeline by clicking in an empty space and selecting the desired component from the list, or by dragging and edge to an empty space. Each component has a name, green input ports and yellow output ports. The ports represent Data Units, which can contain either RDF data or regular files, according to their type. Ports are connected by edges, which indicate the flow of data. Only ports representing Data Units of the same type can be connected. In addition, component configuration can be shared among pipelines using component templates. 
 
 #### Pipelines
 
