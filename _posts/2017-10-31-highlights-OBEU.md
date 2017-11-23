@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Highlights from OpenBudgets.eu"
+title:      "Highlights OpenBudgets.eu"
 date:       2017-10-31
 categories: post
 author:     Anna Alberts
-author_affiliation: Open Knowledge Germany
-author_affiliation_link: http://www.okfn.de/
+author_affiliation: Open Knowledge Foundation Deutschland
+author_affiliation_link: okfn.de
 image:      ../assets/posts/2017-10/openbudgets-logo-new.png
-excerpt:    > In its 30 months running time, the project OpenBudgets.eu has developed a platform with 13 tools and 3 use-cases. Moreover OBEU has extensively tested the platform in three large scale trials, and paved thus the way for its future exploitation. It can be thus deduced that impact of the OBEU project has been significant. In this blog, the highlights from the 2,5 years OpenBudgets.eu are showcased.
-
+excerpt:    >
+  Highlights of the OpenBudgets.eu project..
 ---
 
 # Highlights OpenBudgets.eu
