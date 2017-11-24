@@ -30,8 +30,8 @@ title: Deliverables
 | WP4	 | D4.1 Specification of services’ Interfaces | [Download (528KB)]({{site.baseurl}}/assets/deliverables/D4.1.pdf) |
 | 	 | D4.2 Analysis of the required functionality of OpenBudgets.eu | [Download (573KB)]({{site.baseurl}}/assets/deliverables/D4.2.pdf)
 | 	 |D4.3 Integrated OpenBudgets.eu Platform – Working prototype |  [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D4.3.pdf)
-| 	 | D4.4 OpenBudgets.eu Platform Documentation | 
-| 	 | D4.5 Integrated OpenBudgets.eu Platform – Final | 
+| 	 | D4.4 OpenBudgets.eu Platform Documentation | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D4.4.pdf)
+| 	 | D4.5 Integrated OpenBudgets.eu Platform – Final | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D4.5.pdf)
 | WP5	 | D5.1 User Requirement Reports - First Cycle | [Download (700KB)]({{site.baseurl}}/assets/deliverables/D5.1.pdf)
 | 	 | D5.2 User Requirement Reports - Second Cycle | [Download (3MB)]({{site.baseurl}}/assets/deliverables/D5.2.pdf)
 | 	 | D5.3 User Requirement Reports - Final Cycle | [Download (1,4MB)]({{site.baseurl}}/assets/deliverables/D5.3.pdf)
@@ -50,12 +50,12 @@ title: Deliverables
 | 	 | D7.4 Educational material/ resources | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D7.4.pdf)
 | 	 | D7.5 Tool Implementation | [Download (1,4MB)]({{site.baseurl}}/assets/deliverables/D7.5.pdf)
 | 	 | D7.6 Call for large-scale Trials |  [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D7.6.pdf)
-| 	 | D7.7 Large-scale trial report including best practices | 
+| 	 | D7.7 Large-scale trial report including best practices | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D7.7.pdf)
 | WP8	 | D8.1 Fact sheet & continuously updated website, social media | [Download (684KB)]({{site.baseurl}}/assets/deliverables/D8.1.pdf)
 | 	 | D8.2 Dissemination strategy, materials, press rel. & testimonials | [Download (1,3MB)]({{site.baseurl}}/assets/deliverables/D8.2.pdf)
 | 	 | D8.3 Stakeholder identification and outreach plan | [Download (1,8MB)]({{site.baseurl}}/assets/deliverables/D8.3.pdf)
-| 	 | D8.4 Annual & Final dissemination report, doc, & learning materials | [Download Annual Report (1,1MB)]({{site.baseurl}}/assets/deliverables/D8.4.pdf)
+| 	 | D8.4 Annual & Final dissemination report, doc, & learning materials | [Download Annual Report (1,1MB)]({{site.baseurl}}/assets/deliverables/D8.4-annual.pdf) | [Download Final Report (1,1MB)]({{site.baseurl}}/assets/deliverables/D8.4-final.pdf)
 | 	 | D8.5 Exploitation Plan | [Download (1,2MB)]({{site.baseurl}}/assets/deliverables/D8.5.pdf)
-| 	 | D8.6 Exploitation Impact Report |
+| 	 | D8.6 Exploitation Impact Report |  [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D8.6.pdf)
 | WP9	 | D9.1 Data Management Plan | [Download (540KB)]({{site.baseurl}}/assets/deliverables/D9.1.pdf)
 | 	 | D9.2 Second Intermediate Project Report | [Download (1,1MB)]({{site.baseurl}}/assets/deliverables/D9.2.pdf)
