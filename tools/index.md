@@ -15,7 +15,7 @@ tools:
   - name: Embed the Microsite on your website
     description: If you want to go beyond embedding individual visualizations on your website, you can implement the microsite - a slimmed down, lightweight version of the dataset viewer, that you can easily control using an admin interface.
     image: ../img/toolbox/embed.svg
-    primary_link: "http://microsite-obeu.iais.fraunhofer.de/vizmanager/1/"
+    primary_link: "http://apps.openbudgets.eu/microsite/vizmanager/4/"
     secondary_link: "/assets/tools/OBEU Tool - Microsite.pdf"
     secondary_link_text: More Information
     audience:
@@ -23,7 +23,7 @@ tools:
   - name: Showcase the performance of your city
     description: Using Key Performance Indicators, you can showcase the performance of your city or municipality.
     image: ../img/toolbox/performance.svg
-    primary_link: "http://kpi.okfn.gr/"
+    primary_link: "http://apps.openbudgets.eu/kpi/"
     secondary_link: "https://www.youtube.com/watch?v=FY6lPuxlbOQ"
     secondary_link_text: watch demo
     audience:
@@ -48,7 +48,7 @@ tools:
   - name: Build your own pipelines
     description: Create custom pipelines to source, process, and convert data from almost any source into a variety of formats.
     image: ../img/toolbox/pipelines.svg
-    primary_link: "http://etl.linkedpipes.com/"
+    primary_link: "http://apps.openbudgets.eu/upload/linkedpipes"
     secondary_link: "/assets/tools/OBEU Tool - LinkedPipes ETL.pdf"
     secondary_link_text: More Information
     audience:
